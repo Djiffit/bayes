@@ -1,0 +1,107 @@
+# 1c
+
+```{r}
+  alpha = 0.01
+  beta = 0.01
+  mu = 1000
+  counts = c(2, 5, 25)
+  x = seq(0, 0.005, by=0.00001)
+  
+  plot(x, dgamma(x, alpha, beta), lwd = 2, col = 'green',
+         type ='l', xlab = expression(theta), ylab = 'Time', ylim=c(0, 2000))
+  
+  for (i in counts) {
+    lines(x, dgamma(x, alpha + i, beta + mu * i), lwd = 2, col = i, type ='l')
+  }
+  
+  legend('topright', inset = .02, 
+         legend = c('Gamma(0.01, 0.01)', 'n = 2', 'n = 5', 'n = 25'),
+         col = c('green', counts), lwd = 2)
+```
+
+We can observe the maximum likelihood is 0.001 or 1/y as we found out in earlier part.
+
+# 2b
+
+```{r}
+  get_posterior = function (n, mean, x, alpha = 0.001, beta = 0.001) {
+    return (((alpha + n) * ((beta + n * mean)^(alpha + n))) / ((x + beta + n * mean)^(alpha + 1 + n)))
+  }
+
+  x = seq(0, 5000, by=1)
+  
+  plot(x, dexp(x, 1/1000), lwd=1, col = 'yellow', ylab='probability',
+         type ='l', xlab = expression(theta))
+
+  for (i in counts) {
+    lines(x, sapply(x, FUN=function(val) get_posterior(i, mu, val)), lwd=1, col = i, type ='l')
+  }
+  
+  
+  legend('topright', inset = .02, 
+         legend = c('exp(0.001)', 'n = 2', 'n = 5', 'n = 25'),
+         col = c('yellow', counts), lwd = 2)
+```
+
+# 4a
+```{r}
+  library('gtools')
+  library("scatterplot3d") # load
+  library(gtools)
+  library(rgl)
+  library(car)
+```
+
+```{r}
+
+  points1 = rdirichlet(500, c(1/3, 1/3, 1/3))
+  points2 = rdirichlet(500, c(1, 1, 1))
+  points3 = rdirichlet(500, c(10, 10, 10))
+
+  scatter3d(points1[,1], points1[,2], points1[,3], point.col = 'blue', surface = FALSE)
+  scatter3d(points2[,1], points2[,2], points2[,3], point.col = 'blue', surface = FALSE)
+  scatter3d(points3[,1], points3[,2], points3[,3], point.col = 'blue', surface = FALSE)
+    
+```
+
+# 4b
+
+```{r}
+  
+  points4 = rdirichlet(5000, c(1, 1, 1) + c(30, 15, 2))
+
+  scatter3d(points4[,1], points4[,2], points4[,3], point.col = 'blue', surface = FALSE)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
