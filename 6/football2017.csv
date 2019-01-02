@@ -1,0 +1,1665 @@
+"homeTeamName","awayTeamName","league_name","goalsHomeTeam","goalsAwayTeam","home_prob","draw_prob","away_prob"
+"EC Flamengo","Atlético Mineiro","Campeonato Brasileiro da Série A",1,1,0.485308238909161,0.270213174572691,0.244478586518149
+"Corinthians","Chapecoense","Campeonato Brasileiro da Série A",1,1,0.688262702462836,0.20745506989128,0.104282227645884
+"Fluminense FC","Santos FC","Campeonato Brasileiro da Série A",3,2,0.495541834233976,0.273571543742344,0.23088662202368
+"Cruzeiro","Sao Paulo","Campeonato Brasileiro da Série A",1,0,0.483381154134935,0.283023168507991,0.233595677357074
+"Bahia","Atlético PR","Campeonato Brasileiro da Série A",6,2,0.529638233320984,0.278489251133963,0.191872515545053
+"Ponte Preta","Sport Recife","Campeonato Brasileiro da Série A",4,0,0.572428312602089,0.256722853316727,0.170848834081184
+"Palmeiras","Vasco da Gama","Campeonato Brasileiro da Série A",4,0,0.677357074380689,0.209839195985491,0.112803729633819
+"Grémio","Botafogo","Campeonato Brasileiro da Série A",2,0,0.53858984571406,0.275061343396852,0.186348810889089
+"Coritiba FC","Atlético Goianiense","Campeonato Brasileiro da Série A",4,1,0.601283005329913,0.25057858881845,0.148138405851637
+"Santos FC","Coritiba FC","Campeonato Brasileiro da Série A",1,0,0.609770110597894,0.235483553949547,0.154746335452559
+"Chapecoense","Palmeiras","Campeonato Brasileiro da Série A",1,0,0.320710473623705,0.28930559044987,0.389983935926425
+"Atlético Goianiense","EC Flamengo","Campeonato Brasileiro da Série A",0,3,0.245821703140324,0.280434529157208,0.473743767702468
+"EC Vitória","Corinthians","Campeonato Brasileiro da Série A",0,1,0.301261799814608,0.300334840430563,0.398403359754829
+"Atlético Mineiro","Fluminense FC","Campeonato Brasileiro da Série A",1,2,0.598766000785542,0.232780045636444,0.168453953578014
+"Sport Recife","Cruzeiro","Campeonato Brasileiro da Série A",1,1,0.319709542774723,0.296387266098148,0.383903191127129
+"Sao Paulo","Avaí SC","Campeonato Brasileiro da Série A",2,0,0.700479481475532,0.205300487862798,0.0942200306616705
+"EC Vitória","Coritiba FC","Campeonato Brasileiro da Série A",0,1,0.457555816935287,0.28664526178593,0.255798921278783
+"Atlético Mineiro","Ponte Preta","Campeonato Brasileiro da Série A",2,2,0.677513153634187,0.203479758993529,0.119007087372284
+"Atlético Goianiense","Corinthians","Campeonato Brasileiro da Série A",0,1,0.175739494304561,0.262191987470514,0.562068518224925
+"Atlético PR","EC Flamengo","Campeonato Brasileiro da Série A",1,1,0.33553244066433,0.293213033733694,0.371254525601977
+"Santos FC","Cruzeiro","Campeonato Brasileiro da Série A",0,1,0.470974025301242,0.280955686562989,0.248070288135769
+"Botafogo","Bahia","Campeonato Brasileiro da Série A",1,0,0.545626828705284,0.266462910623681,0.187910260671035
+"Coritiba FC","Atlético PR","Campeonato Brasileiro da Série A",1,0,0.533777637906251,0.27618022142505,0.190042140668699
+"Corinthians","Santos FC","Campeonato Brasileiro da Série A",2,0,0.49921915488894,0.282201029697805,0.218579815413255
+"EC Flamengo","Botafogo","Campeonato Brasileiro da Série A",0,0,0.592895467777848,0.24693890450527,0.160165627716883
+"Ponte Preta","Sao Paulo","Campeonato Brasileiro da Série A",1,0,0.370810973237228,0.301929677899044,0.327259348863728
+"Palmeiras","Atlético Mineiro","Campeonato Brasileiro da Série A",0,0,0.537946132702467,0.258016061411473,0.20403780588606
+"Grémio","Vasco da Gama","Campeonato Brasileiro da Série A",2,0,0.659248354835981,0.224580228038187,0.116171417125832
+"Cruzeiro","Chapecoense","Campeonato Brasileiro da Série A",0,2,0.630563106147221,0.241968513525151,0.127468380327628
+"Coritiba FC","Palmeiras","Campeonato Brasileiro da Série A",1,0,0.350978606489056,0.299300774858766,0.349720618652178
+"Santos FC","Botafogo","Campeonato Brasileiro da Série A",1,0,0.585445820357116,0.260893859339178,0.153660320303705
+"Vasco da Gama","Corinthians","Campeonato Brasileiro da Série A",2,5,0.351999258818897,0.297267666746447,0.350733074434656
+"Sport Recife","EC Flamengo","Campeonato Brasileiro da Série A",2,0,0.337247779847013,0.29356809751743,0.369184122635556
+"Chapecoense","Grémio","Campeonato Brasileiro da Série A",3,6,0.368569151946047,0.309084890081337,0.322345957972616
+"Atlético Goianiense","Ponte Preta","Campeonato Brasileiro da Série A",3,0,0.317681548379226,0.293759745037417,0.388558706583357
+"Sao Paulo","EC Vitória","Campeonato Brasileiro da Série A",2,0,0.645735521860968,0.228918408631368,0.125346069507664
+"Bahia","Cruzeiro","Campeonato Brasileiro da Série A",1,0,0.396165448405656,0.299569552035141,0.304264999559203
+"Palmeiras","Fluminense FC","Campeonato Brasileiro da Série A",3,1,0.599197247978922,0.251559500788661,0.149243251232417
+"Vasco da Gama","Sport Recife","Campeonato Brasileiro da Série A",2,1,0.540381349433997,0.262412032330071,0.197206618235932
+"Botafogo","Coritiba FC","Campeonato Brasileiro da Série A",2,2,0.480376007702656,0.292841830521439,0.226782161775905
+"Avaí SC","EC Flamengo","Campeonato Brasileiro da Série A",1,1,0.204445337182554,0.273933780438422,0.521620882379024
+"Corinthians","Sao Paulo","Campeonato Brasileiro da Série A",3,2,0.49483838092342,0.286001171105698,0.219160447970883
+"Ponte Preta","Chapecoense","Campeonato Brasileiro da Série A",3,2,0.533916833827296,0.277826329203062,0.188256836969642
+"EC Vitória","Atlético Mineiro","Campeonato Brasileiro da Série A",2,0,0.318851351351351,0.277972972972973,0.403175675675676
+"Cruzeiro","Atlético Goianiense","Campeonato Brasileiro da Série A",2,0,0.704281183932347,0.198202959830867,0.0975158562367865
+"Atlético PR","Santos FC","Campeonato Brasileiro da Série A",0,2,0.42609473269717,0.297486871303817,0.276418395999014
+"Grémio","Bahia","Campeonato Brasileiro da Série A",1,0,0.672292689515955,0.21228207095674,0.115425239527305
+"Atlético Mineiro","Atlético PR","Campeonato Brasileiro da Série A",0,1,0.632835899322159,0.2246334927224,0.142530607955441
+"EC Vitória","Botafogo","Campeonato Brasileiro da Série A",2,2,0.435472357782796,0.29205331779445,0.272474324422755
+"EC Flamengo","Ponte Preta","Campeonato Brasileiro da Série A",2,0,0.615797652762879,0.237448476684652,0.146753870552469
+"Santos FC","Palmeiras","Campeonato Brasileiro da Série A",1,0,0.391487725682615,0.290986399089466,0.317525875227919
+"Corinthians","Cruzeiro","Campeonato Brasileiro da Série A",1,0,0.547865722922501,0.271079394154363,0.181054882923136
+"Chapecoense","Vasco da Gama","Campeonato Brasileiro da Série A",2,1,0.528064435583722,0.266551002494331,0.205384561921947
+"Coritiba FC","Bahia","Campeonato Brasileiro da Série A",0,0,0.528640605843591,0.2720448800196,0.199314514136809
+"Fluminense FC","Grémio","Campeonato Brasileiro da Série A",0,2,0.433960200383558,0.282199552272545,0.283840247343897
+"Atlético Goianiense","Atlético PR","Campeonato Brasileiro da Série A",0,1,0.382415156810448,0.300974891934149,0.316609951255403
+"Vasco da Gama","Avaí SC","Campeonato Brasileiro da Série A",1,0,0.628656053815729,0.237464681375731,0.13387926480854
+"Santos FC","Ponte Preta","Campeonato Brasileiro da Série A",0,0,0.588166655226852,0.253277507035486,0.158555837737662
+"Coritiba FC","Corinthians","Campeonato Brasileiro da Série A",0,0,0.34249438724162,0.308895254316018,0.348610358442363
+"Bahia","Palmeiras","Campeonato Brasileiro da Série A",2,4,0.35487604900164,0.300279733770618,0.344844217227742
+"Fluminense FC","EC Flamengo","Campeonato Brasileiro da Série A",2,2,0.272716237155731,0.277364809379976,0.449918953464293
+"Chapecoense","Botafogo","Campeonato Brasileiro da Série A",0,2,0.515526530899247,0.285326922907896,0.199146546192858
+"Sao Paulo","Atlético Mineiro","Campeonato Brasileiro da Série A",1,2,0.504007820089654,0.272358426247999,0.223633753662348
+"Sport Recife","EC Vitória","Campeonato Brasileiro da Série A",1,3,0.553653685818569,0.263862185731565,0.182484128449867
+"Cruzeiro","Grémio","Campeonato Brasileiro da Série A",3,3,0.430446040853295,0.294310997812344,0.275242961334361
+"EC Vitória","Santos FC","Campeonato Brasileiro da Série A",0,2,0.393654524089307,0.291421856639248,0.314923619271445
+"Palmeiras","Atlético Goianiense","Campeonato Brasileiro da Série A",1,0,0.763028462004284,0.159667955659687,0.077303582336029
+"Atlético Mineiro","Sport Recife","Campeonato Brasileiro da Série A",2,2,0.641658928133221,0.221282604656676,0.137058467210104
+"Atlético PR","Sao Paulo","Campeonato Brasileiro da Série A",1,0,0.41311042674879,0.31148262208535,0.27540695116586
+"Botafogo","Vasco da Gama","Campeonato Brasileiro da Série A",3,1,0.499250378995299,0.277699980176465,0.223049640828236
+"Ponte Preta","Cruzeiro","Campeonato Brasileiro da Série A",1,0,0.410433262094424,0.28900330289489,0.300563435010686
+"Santos FC","Sport Recife","Campeonato Brasileiro da Série A",0,1,0.643406693940331,0.220601726009303,0.135991580050366
+"Cruzeiro","Coritiba FC","Campeonato Brasileiro da Série A",2,0,0.589835247508553,0.258713124979914,0.151451627511533
+"Atlético PR","EC Vitória","Campeonato Brasileiro da Série A",4,1,0.564011895660813,0.2629917549169,0.172996349422287
+"Ponte Preta","Palmeiras","Campeonato Brasileiro da Série A",1,2,0.335263079354268,0.289500166445377,0.375236754200354
+"Sao Paulo","Fluminense FC","Campeonato Brasileiro da Série A",1,1,0.525802761168403,0.263569413660299,0.210627825171297
+"Grémio","Corinthians","Campeonato Brasileiro da Série A",0,1,0.517820375824588,0.279675786826172,0.20250383734924
+"Bahia","EC Flamengo","Campeonato Brasileiro da Série A",0,1,0.331792828685259,0.281115537848606,0.387091633466135
+"Chapecoense","Atlético Mineiro","Campeonato Brasileiro da Série A",0,1,0.526654021459106,0.263284545480282,0.210061433060612
+"Botafogo","Avaí SC","Campeonato Brasileiro da Série A",0,2,0.652690874078167,0.233446212482361,0.113862913439471
+"Atlético Goianiense","Santos FC","Campeonato Brasileiro da Série A",1,1,0.302094822231842,0.293022905648303,0.404882272119855
+"Atlético Mineiro","Cruzeiro","Campeonato Brasileiro da Série A",3,1,0.459931578778742,0.274916609411656,0.265151811809603
+"Corinthians","Botafogo","Campeonato Brasileiro da Série A",1,0,0.651190082147263,0.229450646445802,0.119359271406935
+"Sport Recife","Atlético PR","Campeonato Brasileiro da Série A",1,0,0.56900101573009,0.258050347269882,0.172948637000027
+"Avaí SC","Ponte Preta","Campeonato Brasileiro da Série A",0,0,0.3598046875,0.318515625,0.3216796875
+"Vasco da Gama","EC Flamengo","Campeonato Brasileiro da Série A",0,1,0.246834698098297,0.265666773157567,0.487498528744136
+"Corinthians","Ponte Preta","Campeonato Brasileiro da Série A",2,0,0.604397878937659,0.255286419812746,0.140315701249595
+"Chapecoense","Atlético PR","Campeonato Brasileiro da Série A",1,1,0.542046063202999,0.265131226566684,0.192822710230316
+"Bahia","Fluminense FC","Campeonato Brasileiro da Série A",1,1,0.441868855416253,0.275078921259132,0.283052223324614
+"Coritiba FC","Sport Recife","Campeonato Brasileiro da Série A",0,3,0.532391055319555,0.269627145880069,0.197981798800375
+"Atlético Mineiro","Santos FC","Campeonato Brasileiro da Série A",0,1,0.552712009306716,0.261997197221233,0.185290793472051
+"Ponte Preta","Bahia","Campeonato Brasileiro da Série A",0,3,0.509776305103579,0.277267609613446,0.212956085282975
+"Palmeiras","Corinthians","Campeonato Brasileiro da Série A",0,2,0.48271359827708,0.283453915267355,0.233832486455564
+"Atlético PR","Cruzeiro","Campeonato Brasileiro da Série A",0,2,0.369981583793739,0.297790055248619,0.332228360957643
+"Sao Paulo","Atlético Goianiense","Campeonato Brasileiro da Série A",2,2,0.716385710445586,0.206768167470784,0.0768461220836301
+"Sport Recife","Chapecoense","Campeonato Brasileiro da Série A",3,0,0.511591114297096,0.27746418905576,0.210944696647144
+"Avaí SC","Coritiba FC","Campeonato Brasileiro da Série A",1,4,0.341463414634146,0.317073170731707,0.341463414634146
+"Corinthians","Atlético PR","Campeonato Brasileiro da Série A",2,2,0.670324009684232,0.214289393705249,0.115386596610519
+"Chapecoense","Sao Paulo","Campeonato Brasileiro da Série A",2,0,0.359305887670312,0.294174911053337,0.346519201276351
+"Grémio","Ponte Preta","Campeonato Brasileiro da Série A",3,1,0.637590311742955,0.238371560644382,0.124038127612662
+"Vasco da Gama","Santos FC","Campeonato Brasileiro da Série A",0,0,0.376867172624635,0.296682667810883,0.326450159564483
+"Coritiba FC","Fluminense FC","Campeonato Brasileiro da Série A",1,2,0.431528767364035,0.293751510314072,0.274719722321893
+"Botafogo","Sport Recife","Campeonato Brasileiro da Série A",2,1,0.510953910564117,0.277908109863933,0.211137979571949
+"Avaí SC","Corinthians","Campeonato Brasileiro da Série A",0,0,0.223525197988937,0.289189870395182,0.487284931615882
+"Ponte Preta","Coritiba FC","Campeonato Brasileiro da Série A",4,0,0.503487526199633,0.279093586276743,0.217418887523623
+"Sao Paulo","Vasco da Gama","Campeonato Brasileiro da Série A",1,0,0.621999036940222,0.23560569581069,0.142395267249089
+"Atlético Mineiro","Bahia","Campeonato Brasileiro da Série A",0,2,0.60984360343911,0.237809613141876,0.152346783419014
+"Sport Recife","Atlético Goianiense","Campeonato Brasileiro da Série A",4,0,0.626254496476733,0.229135526683202,0.144609976840065
+"Atlético PR","Botafogo","Campeonato Brasileiro da Série A",0,0,0.44347302642894,0.301123659920885,0.255403313650175
+"EC Vitória","Chapecoense","Campeonato Brasileiro da Série A",1,2,0.428170648414033,0.289682219105043,0.282147132480924
+"Sport Recife","Palmeiras","Campeonato Brasileiro da Série A",0,2,0.426056701410901,0.285283580769287,0.288659717819812
+"Avaí SC","Cruzeiro","Campeonato Brasileiro da Série A",1,0,0.263238892953553,0.296843858011454,0.439917249034993
+"Sao Paulo","Grémio","Campeonato Brasileiro da Série A",1,1,0.406594645373415,0.302113668388915,0.29129168623767
+"VfL Bochum","FC St. Pauli","Germany – 2. Bundesliga",0,1,0.393640736829755,0.286284172239822,0.320075090930424
+"Chamois Niortais FC","Ajaccio AC","France – Ligue 2",0,0,0.42627507634914,0.309895214234771,0.263829709416089
+"FC Valenciennes","Gazélec Ajaccio","France – Ligue 2",1,1,0.374937493749375,0.326032603260326,0.299029902990299
+"RC Tours","Le Havre AC","France – Ligue 2",0,3,0.376526596663659,0.326155145604976,0.297318257731365
+"US Orleans","AS Nancy","France – Ligue 2",3,1,0.312604729100726,0.334016011915844,0.35337925898343
+"Sochaux FC","FC Bourg-en-Bresse Péronnas","France – Ligue 2",2,0,0.49056654048118,0.306042628997539,0.203390830521281
+"Paris FC","Clermont Foot Auvergne","France – Ligue 2",0,0,0.330400174123939,0.316454712229097,0.353145113646964
+"Botafogo","Sao Paulo","Campeonato Brasileiro da Série A",3,4,0.386840202458424,0.303687635574837,0.309472161966739
+"FC Ingolstadt 04","1. FC Union Berlin","Germany – 2. Bundesliga",0,1,0.455793266843531,0.274759884801453,0.269446848355016
+"SV Darmstadt 98","SpVgg Greuther Fürth","Germany – 2. Bundesliga",1,0,0.462426026184369,0.282817076883773,0.254756896931858
+"Arminia Bielefeld","Jahn Regensburg","Germany – 2. Bundesliga",2,1,0.46953444653323,0.277452172951454,0.253013380515316
+"FC Lorient","Quevilly Rouen","France – Ligue 2",1,1,0.572820153923028,0.261719739548716,0.165460106528256
+"Chapecoense","Atlético Goianiense","Campeonato Brasileiro da Série A",1,2,0.632036002535639,0.227397163170317,0.140566834294043
+"Coritiba FC","Atlético Mineiro","Campeonato Brasileiro da Série A",0,2,0.43707586448062,0.288366620648456,0.274557514870924
+"Bahia","Sport Recife","Campeonato Brasileiro da Série A",1,3,0.588782210022466,0.255533750560866,0.155684039416668
+"Corinthians","EC Flamengo","Campeonato Brasileiro da Série A",1,1,0.418585278596956,0.292007095548176,0.289407625854869
+"1. FC Nürnberg","1. FC Kaiserslautern","Germany – 2. Bundesliga",3,0,0.439028628524263,0.298970415743516,0.262000955732221
+"Holstein Kiel","SV Sandhausen","Germany – 2. Bundesliga",2,2,0.455555398510268,0.291882800243106,0.252561801246625
+"Dynamo Dresden","MSV Duisburg","Germany – 2. Bundesliga",1,0,0.437219363508243,0.282608458151705,0.280172178340052
+"Grémio","Santos FC","Campeonato Brasileiro da Série A",1,1,0.574262346318882,0.268089122714763,0.157648530966355
+"Cruzeiro","EC Vitória","Campeonato Brasileiro da Série A",0,0,0.669733217354183,0.214406037770068,0.115860744875749
+"Fortuna Düsseldorf","Eintracht Braunschweig","Germany – 2. Bundesliga",2,2,0.376793158410986,0.295725539480137,0.327481302108877
+"AJ Auxerre","RC Lens","France – Ligue 2",1,0,0.320912771667468,0.323038021810961,0.35604920652157
+"Vasco da Gama","Atlético PR","Campeonato Brasileiro da Série A",0,1,0.492310192668334,0.279360241920904,0.228329565410762
+"Sport Recife","Fluminense FC","Campeonato Brasileiro da Série A",2,2,0.485237229405221,0.27629655272082,0.238466217873959
+"Chapecoense","Bahia","Campeonato Brasileiro da Série A",1,1,0.4800024493045,0.277608254156164,0.242389296539337
+"EC Vitória","Ponte Preta","Campeonato Brasileiro da Série A",3,1,0.428212641272499,0.285475094181666,0.286312264545835
+"Atlético Mineiro","Corinthians","Campeonato Brasileiro da Série A",0,2,0.428401781296388,0.293320138545275,0.278278080158337
+"Botafogo","Palmeiras","Campeonato Brasileiro da Série A",1,2,0.341125714859035,0.300190629075951,0.358683656065015
+"Santos FC","EC Flamengo","Campeonato Brasileiro da Série A",3,2,0.349820413625491,0.293975588558771,0.356203997815737
+"Sao Paulo","Coritiba FC","Campeonato Brasileiro da Série A",1,2,0.657080266142669,0.224896605789066,0.118023128068264
+"1. FC Union Berlin","Holstein Kiel","Germany – 2. Bundesliga",4,3,0.552905233380481,0.261386138613861,0.185708628005658
+"SV Sandhausen","FC Ingolstadt 04","Germany – 2. Bundesliga",1,0,0.27331823106471,0.293016842312617,0.433664926622673
+"1. FC Kaiserslautern","SV Darmstadt 98","Germany – 2. Bundesliga",1,1,0.359973053127154,0.312668901914932,0.327358044957915
+"Nottingham Forest","Millwall FC","England – Championship",1,0,0.4834055514748,0.274291914039072,0.242302534486128
+"Sunderland AFC","Derby County","England – Championship",1,1,0.372667856841847,0.294093308712542,0.333238834445611
+"AS Monaco FC","Toulouse FC","France – Ligue 1",3,2,0.741981679464705,0.169914503767146,0.0881038167681497
+"Gazélec Ajaccio","FC Lorient","France – Ligue 2",0,0,0.391828038805402,0.310717139052692,0.297454822141906
+"AS Nancy","Chamois Niortais FC","France – Ligue 2",0,0,0.527970369423683,0.294683651324602,0.177345979251715
+"RC Lens","Nîmes Olympique","France – Ligue 2",1,2,0.478164916739116,0.300140440045476,0.221694643215408
+"Clermont Foot Auvergne","RC Tours","France – Ligue 2",2,0,0.427877342022576,0.316740370068661,0.255382287908763
+"LB Châteauroux","FC Valenciennes","France – Ligue 2",0,1,0.43012825584992,0.323308324761364,0.246563419388717
+"FC Bourg-en-Bresse Péronnas","Paris FC","France – Ligue 2",1,2,0.39644983794377,0.327270671591166,0.276279490465064
+"Quevilly Rouen","Sochaux FC","France – Ligue 2",1,1,0.3421926910299,0.315614617940199,0.3421926910299
+"Le Havre AC","AJ Auxerre","France – Ligue 2",4,1,0.474009198747689,0.308031214328151,0.21795958692416
+"Ajaccio AC","Stade Brestois","France – Ligue 2",2,1,0.344884507676831,0.324260184958615,0.330855307364553
+"MSV Duisburg","VfL Bochum","Germany – 2. Bundesliga",1,1,0.384817726297596,0.28496706262271,0.330215211079694
+"Eintracht Braunschweig","1. FC Heidenheim 1846","Germany – 2. Bundesliga",2,0,0.473824943409904,0.284571248811779,0.241603807778317
+"Bradford City AFC","Blackpool FC","England – League One",2,1,0.603437799041838,0.252831675540462,0.1437305254177
+"Southend United FC","Blackburn Rovers FC","England – League One",2,1,0.327275227465451,0.290261957692572,0.382462814841977
+"Bury FC","Walsall FC","England – League One",1,0,0.466472303206997,0.276967930029155,0.256559766763848
+"Charlton Athletic","Bristol Rovers","England – League One",1,0,0.417131546465122,0.274954315134756,0.307914138400122
+"Doncaster Rovers FC","Gillingham FC","England – League One",0,0,0.537294019608163,0.255004823506194,0.207701156885642
+"Fleetwood Town FC","Rotherham United","England – League One",2,0,0.42099503076195,0.283926881211548,0.295078088026503
+"Milton Keynes Dons","Wigan Athletic FC","England – League One",0,1,0.392293961822254,0.291585661175347,0.316120377002399
+"Oldham Athletic AFC","Oxford United","England – League One",0,2,0.326597352913954,0.309027242155925,0.364375404930121
+"Peterborough United FC","Plymouth Argyle","England – League One",2,1,0.465140587435978,0.274380683599875,0.260478728964148
+"Portsmouth","Rochdale AFC","England – League One",2,0,0.492588480745929,0.26948021100281,0.237931308251261
+"Scunthorpe United FC","AFC Wimbledon","England – League One",1,1,0.490640794528182,0.273508055856462,0.235851149615355
+"Shrewsbury Town FC","Northampton Town","England – League One",1,0,0.395428774320756,0.286424947968407,0.318146277710837
+"Crewe Alexandra FC","Mansfield Town","League Two",2,2,0.296416622579227,0.286826673025193,0.41675670439558
+"Accrington Stanley","Colchester United FC","League Two",3,1,0.462231661722631,0.276291446525425,0.261476891751944
+"Carlisle United","Swindon Town FC","League Two",1,2,0.391872426816682,0.279588063831959,0.328539509351359
+"Chesterfield FC","Grimsby Town","League Two",1,3,0.4397430698375,0.278922747154071,0.281334183008429
+"Coventry City FC","Notts County","League Two",3,0,0.443349575888829,0.274751849846598,0.281898574264573
+"Crawley Town","Port Vale FC","League Two",1,3,0.314695019755652,0.290343619417417,0.394961360826931
+"Wycombe Wanderers","Lincoln City","League Two",2,2,0.401401182718746,0.281908923123281,0.316689894157972
+"Exeter City","Cambridge United","League Two",1,0,0.4397227834626,0.282952051967238,0.277325164570162
+"Forest Green Rovers","Barnet FC","League Two",2,2,0.44121162944019,0.278593628875091,0.280194741684718
+"Luton Town","Yeovil Town","League Two",8,2,0.594430477062156,0.24326076176212,0.162308761175724
+"Morecambe FC","Cheltenham Town","League Two",2,1,0.35337552742616,0.282700421940928,0.363924050632911
+"Stevenage FC","Newport County","League Two",3,3,0.451404566627611,0.276998256794216,0.271597176578173
+"Bristol City","Barnsley FC","England – Championship",3,1,0.528305517880887,0.252855455559044,0.218839026560069
+"Burton Albion FC","Cardiff City FC","England – Championship",0,1,0.312491884666794,0.299071987779263,0.388436127553943
+"Fulham FC","Norwich City FC","England – Championship",1,1,0.478519064586149,0.256214932219355,0.265266003194496
+"Ipswich Town","Birmingham City","England – Championship",1,0,0.385638632970742,0.296554936600601,0.317806430428657
+"Preston North End","Sheffield Wednesday","England – Championship",1,0,0.32432494445443,0.295823661456919,0.379851394088651
+"Queens Park Rangers","Reading","England – Championship",2,0,0.393466269398077,0.284488731226598,0.322044999375324
+"Sheffield United FC","Brentford FC","England – Championship",1,0,0.449814033598762,0.263098774369087,0.287087192032151
+"Wolverhampton Wanderers FC","Middlesbrough FC","England – Championship",1,0,0.366871231696813,0.296619293712317,0.33650947459087
+"Aston Villa FC","Hull City FC","England – Championship",1,1,0.485281302897665,0.285209186790733,0.229509510311602
+"Paris Saint-Germain","Amiens SC","France – Ligue 1",2,0,0.88264996970309,0.0848313472025853,0.0325186830943244
+"Montpellier Hérault SC","SM Caen","France – Ligue 1",1,0,0.519351281641411,0.275401859131881,0.205246859226707
+"FC Metz","EA Guingamp","France – Ligue 1",1,3,0.331973368429202,0.311821630409538,0.35620500116126
+"Olympique Lyonnais","RC Strasbourg Alsace","France – Ligue 1",4,0,0.704004097427524,0.18239632733842,0.113599575234056
+"AS Saint-Étienne","OGC Nice","France – Ligue 1",1,0,0.425506044702599,0.315342667433318,0.259151287864083
+"Stade de Reims","US Orleans","France – Ligue 2",2,0,0.543817996614266,0.294688695235276,0.161493308150458
+"Corinthians","Sport Recife","Campeonato Brasileiro da Série A",3,1,0.620987852960989,0.234013921979133,0.144998225059879
+"EC Flamengo","EC Vitória","Campeonato Brasileiro da Série A",0,2,0.726122166190608,0.178038080982095,0.0958397528272969
+"Cruzeiro","Botafogo","Campeonato Brasileiro da Série A",0,0,0.640135493583769,0.229478815685712,0.130385690730518
+"Palmeiras","Atlético PR","Campeonato Brasileiro da Série A",0,1,0.60638941023293,0.236926954033705,0.156683635733365
+"Bahia","Sao Paulo","Campeonato Brasileiro da Série A",2,1,0.391753989452777,0.295596192041641,0.312649818505582
+"Coritiba FC","Chapecoense","Campeonato Brasileiro da Série A",2,0,0.532391055319555,0.269627145880069,0.197981798800375
+"Jahn Regensburg","1. FC Nürnberg","Germany – 2. Bundesliga",0,1,0.306582674817355,0.278552258834054,0.414865066348591
+"SpVgg Greuther Fürth","Arminia Bielefeld","Germany – 2. Bundesliga",1,2,0.418585278596956,0.292007095548176,0.289407625854869
+"Erzgebirge Aue","Fortuna Düsseldorf","Germany – 2. Bundesliga",0,2,0.362760908985686,0.303051815270651,0.334187275743663
+"Bolton Wanderers FC","Leeds United","England – Championship",2,3,0.354497354497355,0.291005291005291,0.354497354497355
+"OSC Lille","FC Nantes","France – Ligue 1",3,0,0.466735762713615,0.296497794550594,0.23676644273579
+"Angers SCO","FC Girondins de Bordeaux","France – Ligue 1",2,2,0.372445423423354,0.315795148663167,0.311759427913478
+"Olympique de Marseille","Dijon FCO","France – Ligue 1",3,0,0.716698529674604,0.17583565085458,0.107465819470816
+"Desportivo Aves","Sporting CP","Portugal – Primeira Liga",0,2,0.0993178944368919,0.204038017441481,0.696644088121627
+"Vitoria Setubal","Moreirense FC","Portugal – Primeira Liga",1,1,0.396386556534007,0.312535554190275,0.291077889275718
+"Ponte Preta","Vasco da Gama","Campeonato Brasileiro da Série A",0,0,0.561777206395476,0.260654727723601,0.177568065880923
+"Avaí SC","Santos FC","Campeonato Brasileiro da Série A",0,0,0.271799931774916,0.300234386175984,0.4279656820491
+"FC St. Pauli","Dynamo Dresden","Germany – 2. Bundesliga",2,2,0.537669886092003,0.261340449003938,0.200989664904059
+"Portimonense S.C.","Boavista Porto FC","Portugal – Primeira Liga",2,1,0.347421189552164,0.315939657812809,0.336639152635027
+"Feirense","CD Tondela","Portugal – Primeira Liga",1,1,0.429436867269171,0.299025057883748,0.27153807484708
+"FC Rio Ave","C.F. Os Belenenses","Portugal – Primeira Liga",1,0,0.511016973246524,0.283598214539562,0.205384812213914
+"Maritimo Funchal","FC Paços de Ferreira","Portugal – Primeira Liga",1,0,0.470771487420618,0.29440996343223,0.234818549147152
+"FC Porto","GD Estoril Praia","Portugal – Primeira Liga",4,0,0.81581294751015,0.133174974388234,0.0510120781016157
+"SL Benfica","Sporting Braga","Portugal – Primeira Liga",3,1,0.720056781742944,0.187576166547875,0.0923670517091811
+"Vitoria Guimaraes","G.D. Chaves","Portugal – Primeira Liga",3,2,0.547831935517836,0.262318719123964,0.1898493453582
+"ADO Den Haag","FC Utrecht","Netherlands – Eredivisie",0,3,0.304952215464813,0.278019113814075,0.417028670721112
+"Arsenal FC","Leicester City FC","England – Premiere League",4,3,0.637743262206477,0.211534394722391,0.150722343071132
+"OGC Nice","ES Troyes AC","France – Ligue 1",1,2,0.628417651491124,0.225314024050382,0.146268324458494
+"RC Tours","Stade de Reims","France – Ligue 2",0,1,0.28630742880804,0.311919594963392,0.401772976228567
+"Quevilly Rouen","FC Bourg-en-Bresse Péronnas","France – Ligue 2",1,4,0.422459716353196,0.313788406680348,0.263751876966455
+"Stade Brestois","Gazélec Ajaccio","France – Ligue 2",0,0,0.469304831728646,0.303153431675647,0.227541736595707
+"Chamois Niortais FC","AJ Auxerre","France – Ligue 2",2,0,0.409515340151178,0.31747443308137,0.273010226767452
+"FC Valenciennes","Clermont Foot Auvergne","France – Ligue 2",0,0,0.3905333308018,0.318023885017752,0.291442784180448
+"Paris FC","Le Havre AC","France – Ligue 2",0,3,0.287866808749556,0.335349993697936,0.376783197552508
+"US Orleans","Ajaccio AC","France – Ligue 2",0,0,0.400326938614457,0.318175156423216,0.281497904962327
+"Sporting CP","Vitoria Setubal","Portugal – Primeira Liga",1,0,0.835917407597913,0.123447718421633,0.0406348739804541
+"Atlético Goianiense","Coritiba FC","Campeonato Brasileiro da Série A",1,0,0.41271530723912,0.302486995367802,0.284797697393077
+"VVV Venlo","Sparta Rotterdam","Netherlands – Eredivisie",3,0,0.462148582744346,0.277815814698168,0.260035602557485
+"PSV Eindhoven","AZ Alkmaar","Netherlands – Eredivisie",3,2,0.672507447303702,0.185092738116307,0.142399814579991
+"Vitesse Arnhem","NAC Breda","Netherlands – Eredivisie",4,1,0.577512744987906,0.23975366012376,0.182733594888334
+"Heracles Almelo","Ajax Amsterdam","Netherlands – Eredivisie",2,1,0.126728991520547,0.188745306519963,0.68452570195949
+"Gillingham FC","Bradford City AFC","England – League One",0,1,0.243403887630665,0.273403246330243,0.483192866039092
+"Bristol Rovers","Peterborough United FC","England – League One",1,4,0.471247897327269,0.262226652545013,0.266525450127718
+"Blackburn Rovers FC","Doncaster Rovers FC","England – League One",1,3,0.523603643015887,0.260691468954987,0.215704888029126
+"AFC Wimbledon","Shrewsbury Town FC","England – League One",0,1,0.476080574269859,0.288747093861897,0.235172331868244
+"Northampton Town","Fleetwood Town FC","England – League One",0,1,0.357533620752537,0.291363219299828,0.351103159947635
+"Oxford United","Portsmouth","England – League One",3,0,0.370929162833487,0.290340386384545,0.338730450781969
+"Plymouth Argyle","Charlton Athletic","England – League One",2,0,0.371249010255096,0.289728456074452,0.339022533670452
+"Rochdale AFC","Scunthorpe United FC","England – League One",1,1,0.426046124189583,0.289509087357313,0.284444788453104
+"Rotherham United","Southend United FC","England – League One",5,0,0.408172425917752,0.27713980055211,0.314687773530138
+"Blackpool FC","Milton Keynes Dons","England – League One",1,0,0.312593533173099,0.287696703097365,0.399709763729536
+"Walsall FC","Oldham Athletic AFC","England – League One",2,1,0.433796802318192,0.303118883607432,0.263084314074375
+"Colchester United FC","Stevenage FC","League Two",1,1,0.404696646702534,0.282701135812495,0.312602217484971
+"Cheltenham Town","Crawley Town","League Two",1,0,0.478102897500536,0.281074902276972,0.240822200222492
+"Cambridge United","Carlisle United","League Two",1,2,0.439391905375252,0.281109518712697,0.279498575912051
+"Barnet FC","Luton Town","League Two",1,0,0.290975383407735,0.277711548266641,0.431313068325624
+"Grimsby Town","Coventry City FC","League Two",0,2,0.339987121699936,0.290405666452028,0.369607211848036
+"Lincoln City","Morecambe FC","League Two",1,1,0.565507197976519,0.239042897695388,0.195449904328093
+"Mansfield Town","Forest Green Rovers","League Two",2,0,0.547626880919811,0.258058302020744,0.194314817059445
+"Yeovil Town","Accrington Stanley","League Two",3,2,0.280401206526874,0.282022022749573,0.437576770723553
+"Crewe Alexandra FC","Newport County","League Two",1,1,0.417047274452815,0.274126579275165,0.308826146272021
+"Swindon Town FC","Exeter City","League Two",1,1,0.369542587716613,0.286938950462311,0.343518461821076
+"Port Vale FC","Wycombe Wanderers","League Two",2,3,0.372173886286185,0.297285238435916,0.3305408752779
+"Notts County","Chesterfield FC","League Two",2,0,0.445213994601938,0.278576756622355,0.276209248775707
+"Sheffield Wednesday","Queens Park Rangers","England – Championship",1,1,0.534011561651783,0.274744628390278,0.191243809957939
+"Brentford FC","Nottingham Forest","England – Championship",3,4,0.528289457033194,0.250897785789805,0.220812757177
+"Cardiff City FC","Aston Villa FC","England – Championship",3,0,0.36941539648852,0.307651939031449,0.322932664480031
+"Derby County","Wolverhampton Wanderers FC","England – Championship",0,2,0.402881687813381,0.309515455399486,0.287602856787133
+"Hull City FC","Burton Albion FC","England – Championship",4,1,0.607310703935921,0.244455588278301,0.148233707785778
+"Leeds United","Preston North End","England – Championship",0,0,0.473992679014546,0.2781837375413,0.247823583444153
+"Millwall FC","Bolton Wanderers FC","England – Championship",1,1,0.480902484937219,0.282147989717501,0.23694952534528
+"Barnsley FC","Ipswich Town","England – Championship",1,2,0.388558706583357,0.293759745037417,0.317681548379226
+"Reading","Fulham FC","England – Championship",1,1,0.275586509246799,0.2553864509774,0.469027039775802
+"Birmingham City","Bristol City","England – Championship",2,1,0.381110307815303,0.294756008461382,0.324133683723314
+"Middlesbrough FC","Sheffield United FC","England – Championship",1,0,0.540174460248817,0.271810313360893,0.18801522639029
+"Watford FC","Liverpool FC","England – Premiere League",3,3,0.151166747397221,0.229405274738639,0.61942797786414
+"Crystal Palace FC","Huddersfield Town","England – Premiere League",0,3,0.547118890706155,0.266668541450119,0.186212567843726
+"West Bromwich Albion FC","AFC Bournemouth","England – Premiere League",1,0,0.394014962593516,0.295511221945137,0.310473815461347
+"Chelsea FC","Burnley FC","England – Premiere League",2,3,0.78052246613386,0.155331946154452,0.0641455877116879
+"Everton FC","Stoke City FC","England – Premiere League",1,0,0.576624783633164,0.253849455456464,0.169525760910372
+"Southampton FC","Swansea City FC","England – Premiere League",0,0,0.603280205952966,0.248184894854068,0.148534899192965
+"Brighton & Hove Albion","Manchester City FC","England – Premiere League",0,2,0.084444052137582,0.174919822284991,0.740636125577427
+"FC Nantes","Olympique de Marseille","France – Ligue 1",0,1,0.28049532875022,0.291380222104706,0.428124449145073
+"Toulouse FC","Montpellier Hérault SC","France – Ligue 1",1,0,0.427704988710184,0.311555071648313,0.260739939641503
+"Amiens SC","Angers SCO","France – Ligue 1",0,2,0.326199783138016,0.305748386076072,0.368051830785912
+"FC Girondins de Bordeaux","FC Metz","France – Ligue 1",2,0,0.6729753867088,0.20636732617206,0.12065728711914
+"SM Caen","AS Saint-Étienne","France – Ligue 1",0,1,0.313698862671872,0.31675437107452,0.369546766253607
+"Sochaux FC","RC Lens","France – Ligue 2",3,2,0.418361289228285,0.319600591443247,0.262038119328469
+"Moreirense FC","Feirense","Portugal – Primeira Liga",0,0,0.399717647771272,0.303835221358848,0.29644713086988
+"C.F. Os Belenenses","Maritimo Funchal","Portugal – Primeira Liga",1,0,0.403164347249834,0.310719019218025,0.286116633532141
+"Boavista Porto FC","FC Rio Ave","Portugal – Primeira Liga",1,2,0.320083924067232,0.31290255397598,0.367013521956788
+"Sao Paulo","Cruzeiro","Campeonato Brasileiro da Série A",3,2,0.540195982903507,0.268087336428539,0.191716680667954
+"Vasco da Gama","Palmeiras","Campeonato Brasileiro da Série A",1,1,0.284726878836334,0.290658688812091,0.424614432351576
+"Sport Recife","Ponte Preta","Campeonato Brasileiro da Série A",0,0,0.558753329878488,0.256098012284182,0.185148657837331
+"Atlético Mineiro","EC Flamengo","Campeonato Brasileiro da Série A",2,0,0.376783197552508,0.287866808749556,0.335349993697936
+"PEC Zwolle","Roda JC Kerkrade","Netherlands – Eredivisie",4,2,0.523959282268248,0.264403338402816,0.211637379328936
+"Willem II Tilburg","Excelsior","Netherlands – Eredivisie",1,2,0.468953954023307,0.280294317347264,0.250751728629429
+"Feyenoord Rotterdam","FC Twente Enschede","Netherlands – Eredivisie",2,1,0.780479195163924,0.145611790142523,0.0739090146935534
+"FC Groningen","SC Heerenveen","Netherlands – Eredivisie",3,3,0.451692839341138,0.258794836333384,0.289512324325477
+"Wigan Athletic FC","Bury FC","England – League One",4,1,0.52386579263766,0.267253214949775,0.208880992412565
+"Norwich City FC","Sunderland AFC","England – Championship",1,3,0.537948290974627,0.248169115801613,0.213882593223759
+"Newcastle United FC","Tottenham Hotspur FC","England – Premiere League",0,2,0.178516359925004,0.235025135728602,0.586458504346394
+"Manchester United FC","West Ham United FC","England – Premiere League",4,0,0.746832643772441,0.173797490239597,0.0793698659879618
+"RC Strasbourg Alsace","OSC Lille","France – Ligue 1",3,0,0.253631408571508,0.273579946324323,0.47278864510417
+"Dijon FCO","AS Monaco FC","France – Ligue 1",1,4,0.145178467370846,0.216799844607131,0.638021688022023
+"EA Guingamp","Paris Saint-Germain","France – Ligue 1",0,3,0.0837068194774263,0.145549917449555,0.770743263073019
+"FC Paços de Ferreira","Desportivo Aves","Portugal – Primeira Liga",2,2,0.482996453370295,0.294759164896676,0.222244381733029
+"Sporting Braga","Portimonense S.C.","Portugal – Primeira Liga",2,1,0.614444041447401,0.230160781341285,0.155395177211314
+"CD Tondela","FC Porto","Portugal – Primeira Liga",0,1,0.0689023857138928,0.156606385507018,0.774491228779089
+"Botafogo","Grémio","Campeonato Brasileiro da Série A",1,0,0.317386060169325,0.306407297081707,0.376206642748968
+"FC Lorient","LB Châteauroux","France – Ligue 2",3,0,0.57765443295895,0.268880661299407,0.153464905741643
+"Nîmes Olympique","AS Nancy","France – Ligue 2",0,0,0.427106259353816,0.311118936526103,0.261774804120081
+"GD Estoril Praia","Vitoria Guimaraes","Portugal – Primeira Liga",3,0,0.306046570839121,0.285464491513683,0.408488937647195
+"G.D. Chaves","SL Benfica","Portugal – Primeira Liga",0,1,0.115774126703603,0.19958607118842,0.684639802107977
+"Santos FC","Fluminense FC","Campeonato Brasileiro da Série A",0,0,0.509421855776577,0.269085773137475,0.221492371085948
+"Birmingham City","Bolton Wanderers FC","England – Championship",0,0,0.524009264494009,0.275633160750794,0.200357574755197
+"Brentford FC","Bristol City","England – Championship",2,2,0.478717105934712,0.248494375599698,0.27278851846559
+"Cardiff City FC","Sheffield United FC","England – Championship",2,0,0.487205168010416,0.282437778556763,0.230357053432821
+"Derby County","Preston North End","England – Championship",1,0,0.501811384261585,0.277050667768778,0.221137947969637
+"Hull City FC","Wolverhampton Wanderers FC","England – Championship",2,3,0.362832199800169,0.3040556440693,0.333112156130531
+"Leeds United","Fulham FC","England – Championship",0,0,0.389920424403183,0.278514588859416,0.331564986737401
+"Middlesbrough FC","Burton Albion FC","England – Championship",2,0,0.658804100801149,0.223234975187856,0.117960924010995
+"Millwall FC","Ipswich Town","England – Championship",3,4,0.457904611712857,0.289417454880826,0.252677933406317
+"Barnsley FC","Nottingham Forest","England – Championship",2,1,0.369759153746623,0.27267155471818,0.357569291535196
+"Reading","Aston Villa FC","England – Championship",2,1,0.333008869119409,0.314747092425764,0.352244038454826
+"Sheffield Wednesday","Sunderland AFC","England – Championship",1,1,0.438122441000467,0.288204437590278,0.273673121409255
+"Norwich City FC","Queens Park Rangers","England – Championship",2,0,0.556712266359315,0.242610178546591,0.200677555094094
+"SV Darmstadt 98","FC St. Pauli","Germany – 2. Bundesliga",3,0,0.36427945315023,0.296738277946084,0.338982268903686
+"Eintracht Braunschweig","Erzgebirge Aue","Germany – 2. Bundesliga",1,1,0.557410137345624,0.260404134338908,0.182185728315468
+"Roda JC Kerkrade","Vitesse Arnhem","Netherlands – Eredivisie",1,3,0.250995608419874,0.25360335500086,0.495401036579266
+"Burton Albion FC","Birmingham City","England – Championship",2,1,0.328634299847881,0.313840472845083,0.357525227307036
+"FC Metz","AS Monaco FC","France – Ligue 1",0,1,0.101071101377079,0.170513309141401,0.72841558948152
+"Stade de Reims","FC Bourg-en-Bresse Péronnas","France – Ligue 2",3,0,0.627155454994738,0.230632423691262,0.142212121314
+"Chamois Niortais FC","RC Tours","France – Ligue 2",2,1,0.457901425165674,0.298266065933604,0.243832508900722
+"AS Nancy","Sochaux FC","France – Ligue 2",2,2,0.413416629260167,0.317805617281432,0.268777753458401
+"Le Havre AC","FC Valenciennes","France – Ligue 2",1,0,0.608338595914459,0.257205179313422,0.13445622477212
+"Clermont Foot Auvergne","FC Lorient","France – Ligue 2",0,2,0.264919186976432,0.303707977592919,0.43137283543065
+"AJ Auxerre","US Orleans","France – Ligue 2",1,3,0.443768359211078,0.325430130088124,0.230801510700797
+"Gazélec Ajaccio","Quevilly Rouen","France – Ligue 2",1,0,0.536075791251829,0.281931265180295,0.181992943567877
+"Ajaccio AC","Paris FC","France – Ligue 2",2,0,0.469287733943719,0.310865760064629,0.219846505991652
+"FC Rio Ave","Portimonense S.C.","Portugal – Primeira Liga",2,0,0.570373889493801,0.260666946122058,0.168959164384141
+"Corinthians","EC Vitória","Campeonato Brasileiro da Série A",0,1,0.667633922317882,0.203187359230769,0.12917871845135
+"Dynamo Dresden","SV Sandhausen","Germany – 2. Bundesliga",0,4,0.490294157283584,0.279579918902665,0.23012592381375
+"1. FC Heidenheim 1846","MSV Duisburg","Germany – 2. Bundesliga",1,2,0.480010286708152,0.285753924345322,0.234235788946526
+"Fortuna Düsseldorf","1. FC Kaiserslautern","Germany – 2. Bundesliga",2,0,0.499811458864761,0.280408727606119,0.21977981352912
+"FC Twente Enschede","VVV Venlo","Netherlands – Eredivisie",1,2,0.532194393023619,0.251466422820438,0.216339184155943
+"AZ Alkmaar","ADO Den Haag","Netherlands – Eredivisie",2,0,0.707485095769521,0.175129600443464,0.117385303787015
+"SC Heerenveen","Heracles Almelo","Netherlands – Eredivisie",1,1,0.59417318321392,0.220102354145343,0.185724462640737
+"Bradford City AFC","Blackburn Rovers FC","England – League One",0,1,0.401103955841766,0.298068077276909,0.300827966881325
+"Charlton Athletic","Northampton Town","England – League One",4,1,0.525708360154547,0.261402612574269,0.212889027271184
+"Doncaster Rovers FC","Blackpool FC","England – League One",3,3,0.53248296664837,0.257577512450839,0.209939520900791
+"Fleetwood Town FC","AFC Wimbledon","England – League One",2,0,0.479918311776719,0.296119809394146,0.223961878829135
+"Milton Keynes Dons","Gillingham FC","England – League One",1,0,0.604580972614024,0.239090574698497,0.156328452687479
+"Oldham Athletic AFC","Wigan Athletic FC","England – League One",0,2,0.230286780291126,0.286338987810668,0.483374231898206
+"Peterborough United FC","Rotherham United","England – League One",2,1,0.408585856700842,0.277420510657674,0.313993632641483
+"Portsmouth","Walsall FC","England – League One",1,1,0.567084128029423,0.256594294962196,0.176321577008381
+"Scunthorpe United FC","Oxford United","England – League One",1,0,0.391783654410567,0.281948352451535,0.326267993137897
+"Shrewsbury Town FC","Rochdale AFC","England – League One",3,2,0.376545073150975,0.285997577554553,0.337457349294472
+"Southend United FC","Plymouth Argyle","England – League One",1,1,0.497163447067846,0.261449121473089,0.241387431459065
+"Bury FC","Bristol Rovers","England – League One",2,3,0.369657705336877,0.278033145894403,0.35230914876872
+"Carlisle United","Cheltenham Town","League Two",3,0,0.483360228968121,0.260370043337495,0.256269727694384
+"Chesterfield FC","Port Vale FC","League Two",2,0,0.39466050444958,0.279315600570333,0.326023894980088
+"Coventry City FC","Newport County","League Two",0,1,0.508239602251653,0.25917937944221,0.232581018306136
+"Crawley Town","Cambridge United","League Two",0,1,0.29138942594936,0.28966011184877,0.41895046220187
+"Crewe Alexandra FC","Barnet FC","League Two",1,0,0.361268274159863,0.274767419783558,0.363964306056579
+"Exeter City","Lincoln City","League Two",1,0,0.42224146160079,0.279477872864706,0.298280665534503
+"Accrington Stanley","Mansfield Town","League Two",2,1,0.337661491528282,0.29129603299007,0.371042475481648
+"Wycombe Wanderers","Notts County","League Two",2,4,0.447691877674175,0.280450659002788,0.271857463323037
+"Stevenage FC","Grimsby Town","League Two",3,1,0.455929634718072,0.280370522499044,0.263699842782885
+"Morecambe FC","Swindon Town FC","League Two",0,1,0.333067899681104,0.271835361021068,0.395096739297828
+"Luton Town","Colchester United FC","League Two",3,0,0.596947089937748,0.232640024778616,0.170412885283636
+"Forest Green Rovers","Yeovil Town","League Two",4,3,0.468525139159162,0.272978232339232,0.258496628501607
+"Sheffield United FC","Barnsley FC","England – Championship",1,0,0.551667201761226,0.25155324426067,0.196779553978105
+"Aston Villa FC","Norwich City FC","England – Championship",4,2,0.401081281636764,0.296239366072138,0.302679352291098
+"Bolton Wanderers FC","Derby County","England – Championship",1,2,0.264858327574292,0.290082930200415,0.445058742225294
+"Bristol City","Millwall FC","England – Championship",0,0,0.478003858732092,0.269372340279963,0.252623800987945
+"Fulham FC","Sheffield Wednesday","England – Championship",0,1,0.488052320516772,0.26669525711299,0.245252422370237
+"Ipswich Town","Brentford FC","England – Championship",2,0,0.315870519021709,0.265228234722033,0.418901246256258
+"Nottingham Forest","Middlesbrough FC","England – Championship",2,1,0.297086680254166,0.290013187867162,0.412900131878672
+"Preston North End","Reading","England – Championship",1,0,0.447330338515015,0.281031740046897,0.271637921438087
+"Queens Park Rangers","Hull City FC","England – Championship",2,1,0.388622688400805,0.289448945960244,0.321928365638951
+"Wolverhampton Wanderers FC","Cardiff City FC","England – Championship",1,2,0.48258231507471,0.285869875792057,0.231547809133234
+"Sunderland AFC","Leeds United","England – Championship",0,2,0.437374350622203,0.28941982251855,0.273205826859247
+"Swansea City FC","Manchester United FC","England – Premiere League",0,4,0.0880051497642624,0.19375046805808,0.718244382177658
+"Southampton FC","West Ham United FC","England – Premiere League",3,2,0.568672807749438,0.247665291034194,0.183661901216368
+"AFC Bournemouth","Watford FC","England – Premiere League",0,2,0.482696763334104,0.272945523556611,0.244357713109285
+"Burnley FC","West Bromwich Albion FC","England – Premiere League",0,1,0.384057971014493,0.307971014492754,0.307971014492754
+"Leicester City FC","Brighton & Hove Albion","England – Premiere League",2,0,0.573212318993867,0.250574393494625,0.176213287511508
+"Liverpool FC","Crystal Palace FC","England – Premiere League",1,0,0.684076844444095,0.195651498311598,0.120271657244307
+"Stoke City FC","Arsenal FC","England – Premiere League",1,0,0.22272912564941,0.255210456473282,0.522060417877308
+"Olympique Lyonnais","FC Girondins de Bordeaux","France – Ligue 1",3,3,0.585338763420955,0.229544613106257,0.185116623472788
+"Montpellier Hérault SC","RC Strasbourg Alsace","France – Ligue 1",1,1,0.497323989473373,0.26873832870462,0.233937681822007
+"OGC Nice","EA Guingamp","France – Ligue 1",2,0,0.473256085338898,0.284229602273507,0.242514312387595
+"AS Saint-Étienne","Amiens SC","France – Ligue 1",3,0,0.621833774366451,0.241972312380358,0.13619391325319
+"ES Troyes AC","FC Nantes","France – Ligue 1",0,1,0.378119974360844,0.302027719458507,0.319852306180649
+"Stade Rennais FC","Dijon FCO","France – Ligue 1",2,2,0.606068367468281,0.241490655958142,0.152440976573577
+"RC Lens","Stade Brestois","France – Ligue 2",2,4,0.445961647106478,0.304254207838999,0.249784145054523
+"CD Tondela","GD Estoril Praia","Portugal – Primeira Liga",2,3,0.403185664509706,0.295669487307118,0.301144848183176
+"Vitoria Guimaraes","Sporting CP","Portugal – Primeira Liga",0,5,0.20124156186489,0.247094069631574,0.551664368503536
+"SL Benfica","C.F. Os Belenenses","Portugal – Primeira Liga",5,0,0.784013953335191,0.140254918967728,0.0757311276970818
+"Juventus Turin","Cagliari Calcio","Italy – Serie A",3,0,0.843937800110127,0.113432500014802,0.0426296998750713
+"Hellas Verona FC","SSC Napoli","Italy – Serie A",1,3,0.117439532918001,0.197307867176119,0.68525259990588
+"EC Flamengo","Atlético Goianiense","Campeonato Brasileiro da Série A",2,0,0.705039507912882,0.193486029280355,0.101474462806763
+"Bahia","Vasco da Gama","Campeonato Brasileiro da Série A",3,0,0.506276590157046,0.273123588423762,0.220599821419192
+"Avaí SC","Sao Paulo","Campeonato Brasileiro da Série A",1,1,0.231036044868458,0.291036450550714,0.477927504580829
+"Ponte Preta","Botafogo","Campeonato Brasileiro da Série A",2,1,0.550917562164148,0.27533906844362,0.173743369392231
+"Cruzeiro","Sport Recife","Campeonato Brasileiro da Série A",2,0,0.504964761396414,0.268377594764963,0.226657643838623
+"Holstein Kiel","SpVgg Greuther Fürth","Germany – 2. Bundesliga",3,1,0.480090583128892,0.290054727307039,0.229854689564069
+"FC Ingolstadt 04","Jahn Regensburg","Germany – 2. Bundesliga",2,4,0.591188526618256,0.244380245680821,0.164431227700923
+"1. FC Nürnberg","1. FC Union Berlin","Germany – 2. Bundesliga",2,2,0.401444070473648,0.278716883214561,0.319839046311791
+"Excelsior","Feyenoord Rotterdam","Netherlands – Eredivisie",0,1,0.132714356429021,0.196663411240585,0.670622232330395
+"FC Utrecht","Willem II Tilburg","Netherlands – Eredivisie",2,0,0.640183882463601,0.212034497833949,0.14778161970245
+"Ajax Amsterdam","FC Groningen","Netherlands – Eredivisie",3,1,0.742685489816353,0.150196410690904,0.107118099492743
+"Sparta Rotterdam","PEC Zwolle","Netherlands – Eredivisie",1,1,0.336648217312394,0.269690560830371,0.393661221857235
+"NAC Breda","PSV Eindhoven","Netherlands – Eredivisie",1,4,0.117019740115087,0.171519267585206,0.711460992299707
+"Huddersfield Town","Newcastle United FC","England – Premiere League",1,0,0.395010371530431,0.295959432445761,0.309030196023807
+"Tottenham Hotspur FC","Chelsea FC","England – Premiere League",1,2,0.449399261448087,0.280713578784192,0.269887159767722
+"OSC Lille","SM Caen","France – Ligue 1",0,2,0.596384675980662,0.24840903992971,0.155206284089628
+"Olympique de Marseille","Angers SCO","France – Ligue 1",1,1,0.583579567609722,0.243810926736277,0.172609505654001
+"Paris Saint-Germain","Toulouse FC","France – Ligue 1",6,2,0.906232914160743,0.0650628758884636,0.0287042099507928
+"Vitoria Setubal","G.D. Chaves","Portugal – Primeira Liga",1,1,0.360136420279399,0.302157801534728,0.337705778185873
+"FC Porto","Moreirense FC","Portugal – Primeira Liga",3,0,0.831726789095176,0.117485296340823,0.0507879145640014
+"Desportivo Aves","Sporting Braga","Portugal – Primeira Liga",0,2,0.316717920472453,0.299230427931029,0.384051651596518
+"Maritimo Funchal","Boavista Porto FC","Portugal – Primeira Liga",1,0,0.413104115246314,0.307547543211767,0.27934834154192
+"Atalanta BC","AS Roma","Italy – Serie A",0,1,0.320136655948553,0.276728295819936,0.403135048231511
+"UC Sampdoria","Benevento Calcio","Italy – Serie A",2,1,0.588457036254298,0.241566927854802,0.169976035890901
+"FC Crotone","AC Milan","Italy – Serie A",0,3,0.158678722257641,0.230737530247581,0.610583747494778
+"Bologna FC","Torino FC","Italy – Serie A",1,1,0.296143686491498,0.28495220996711,0.418904103541392
+"FC Internazionale Milano","ACF Fiorentina","Italy – Serie A",3,0,0.629073894871379,0.219845700665274,0.151080404463347
+"SS Lazio","SPAL Ferrara","Italy – Serie A",0,0,0.757801486146821,0.16399402611873,0.07820448773445
+"US Sassuolo Calcio","Genoa CFC","Italy – Serie A",0,0,0.460853110189059,0.2780785055815,0.26106838422944
+"Udinese Calcio","AC Chievo Verona","Italy – Serie A",1,2,0.46230739646098,0.285741014722239,0.251951588816781
+"Palmeiras","Chapecoense","Campeonato Brasileiro da Série A",0,2,0.675084353100637,0.212444846049583,0.112470800849779
+"Coritiba FC","Santos FC","Campeonato Brasileiro da Série A",0,0,0.376928477974777,0.305076486860835,0.317995035164388
+"Arminia Bielefeld","VfL Bochum","Germany – 2. Bundesliga",2,0,0.401231656283371,0.284254497017082,0.314513846699546
+"Manchester City FC","Everton FC","England – Premiere League",1,1,0.7514720567428,0.16370273641329,0.0848252068439105
+"Feirense","FC Paços de Ferreira","Portugal – Primeira Liga",2,1,0.355830977187343,0.305635384794144,0.338533638018513
+"Fluminense FC","Atlético Mineiro","Campeonato Brasileiro da Série A",2,1,0.439343084498405,0.276300750024493,0.284356165477102
+"Chapecoense","Corinthians","Campeonato Brasileiro da Série A",0,1,0.329811320754717,0.303180592991914,0.367008086253369
+"SpVgg Greuther Fürth","FC Ingolstadt 04","Germany – 2. Bundesliga",0,1,0.320421205299814,0.293559547370488,0.386019247329697
+"MSV Duisburg","SV Darmstadt 98","Germany – 2. Bundesliga",1,2,0.356393047668216,0.299718923879998,0.343888028451787
+"NAC Breda","Sparta Rotterdam","Netherlands – Eredivisie",2,2,0.406332453825857,0.277044854881266,0.316622691292876
+"Notts County","Accrington Stanley","League Two",2,2,0.399390841513246,0.276850469685318,0.323758688801435
+"Bristol City","Aston Villa FC","England – Championship",1,1,0.396436914115827,0.291986469678124,0.311576616206049
+"Paris Saint-Germain","AS Saint-Étienne","France – Ligue 1",3,0,0.886905863911825,0.0799669221559842,0.0331272139321904
+"Quevilly Rouen","Clermont Foot Auvergne","France – Ligue 2",0,2,0.312568491564926,0.316627822624211,0.370803685810863
+"FC Valenciennes","Chamois Niortais FC","France – Ligue 2",4,1,0.387091633466135,0.331792828685259,0.281115537848606
+"Sochaux FC","LB Châteauroux","France – Ligue 2",1,5,0.600016556748255,0.270840806865532,0.129142636386214
+"Nîmes Olympique","Le Havre AC","France – Ligue 2",1,0,0.398116302449865,0.316683422403302,0.285200275146833
+"RC Tours","Ajaccio AC","France – Ligue 2",1,3,0.403214892561238,0.314767754838128,0.282017352600635
+"Paris FC","AJ Auxerre","France – Ligue 2",2,1,0.371254525601977,0.33553244066433,0.293213033733694
+"FC Bourg-en-Bresse Péronnas","Gazélec Ajaccio","France – Ligue 2",2,0,0.321669158792064,0.31749163724931,0.360839203958626
+"Stade Brestois","AS Nancy","France – Ligue 2",2,1,0.414792789444341,0.314439695223936,0.270767515331723
+"C.F. Os Belenenses","Vitoria Setubal","Portugal – Primeira Liga",1,1,0.420821287391586,0.307982771844947,0.271195940763467
+"Parma FC","Cremonese","Italy – Serie B",1,0,0.541864406779661,0.28271186440678,0.175423728813559
+"Fluminense FC","Vasco da Gama","Campeonato Brasileiro da Série A",0,1,0.492381192627868,0.288493447357087,0.219125360015046
+"Jahn Regensburg","Holstein Kiel","Germany – 2. Bundesliga",1,2,0.349576631414289,0.270921889346074,0.379501479239637
+"Erzgebirge Aue","1. FC Nürnberg","Germany – 2. Bundesliga",3,1,0.320998495689425,0.294814328367327,0.384187175943249
+"FC St. Pauli","1. FC Heidenheim 1846","Germany – 2. Bundesliga",1,0,0.497174076865109,0.278636021100226,0.224189902034665
+"Vitesse Arnhem","AZ Alkmaar","Netherlands – Eredivisie",1,2,0.439604489577766,0.26376269374666,0.296632816675575
+"PEC Zwolle","FC Twente Enschede","Netherlands – Eredivisie",2,0,0.485268332235342,0.25872396493184,0.256007702832818
+"ADO Den Haag","SC Heerenveen","Netherlands – Eredivisie",1,2,0.290193056896982,0.26860844935919,0.441198493743828
+"Heracles Almelo","Excelsior","Netherlands – Eredivisie",2,2,0.449551445342784,0.264370362166353,0.286078192490863
+"Gillingham FC","Southend United FC","England – League One",3,3,0.288757507507508,0.269613363363363,0.441629129129129
+"Bristol Rovers","Fleetwood Town FC","England – League One",3,1,0.466541540582985,0.280193051671965,0.253265407745049
+"Blackpool FC","Oldham Athletic AFC","England – League One",2,1,0.451751385191303,0.294798487013056,0.25345012779564
+"Blackburn Rovers FC","Milton Keynes Dons","England – League One",4,1,0.449547947607003,0.278719727516341,0.271732324876656
+"AFC Wimbledon","Doncaster Rovers FC","England – League One",2,0,0.35497808777236,0.3012931300537,0.34372878217394
+"Northampton Town","Peterborough United FC","England – League One",1,4,0.372214786983572,0.273166034144806,0.354619178871621
+"Oxford United","Shrewsbury Town FC","England – League One",1,1,0.485968009343473,0.269833065961431,0.244198924695095
+"Wigan Athletic FC","Portsmouth","England – League One",1,1,0.469706274020051,0.279139728560487,0.251153997419462
+"Walsall FC","Bradford City AFC","England – League One",3,3,0.273358791178674,0.29483108293289,0.431810125888436
+"Rotherham United","Charlton Athletic","England – League One",0,2,0.40977167993297,0.27864474235442,0.31158357771261
+"Rochdale AFC","Bury FC","England – League One",0,0,0.478259085640431,0.261567971771174,0.260172942588395
+"Plymouth Argyle","Scunthorpe United FC","England – League One",0,4,0.340920797103385,0.282618399917588,0.376460802979027
+"Barnet FC","Stevenage FC","League Two",0,1,0.370907159533371,0.284398201041623,0.344694639425006
+"Cambridge United","Morecambe FC","League Two",0,0,0.526074819423983,0.247015548663863,0.226909631912153
+"Cheltenham Town","Exeter City","League Two",3,4,0.349576869626131,0.267944908312337,0.382478222061532
+"Colchester United FC","Forest Green Rovers","League Two",5,1,0.371039935115386,0.274110963301535,0.354849101583078
+"Grimsby Town","Wycombe Wanderers","League Two",2,3,0.303609635153149,0.281672522786592,0.414717842060259
+"Lincoln City","Carlisle United","League Two",4,1,0.46493827419034,0.264599017831901,0.27046270797776
+"Yeovil Town","Coventry City FC","League Two",2,0,0.272575608504085,0.275655558882662,0.451768832613252
+"Swindon Town FC","Crawley Town","League Two",0,3,0.525900767569766,0.23906583409301,0.235033398337224
+"Port Vale FC","Crewe Alexandra FC","League Two",0,1,0.423879530410246,0.268573807146988,0.307546662442765
+"Newport County","Chesterfield FC","League Two",4,1,0.449918953464293,0.272716237155731,0.277364809379976
+"Mansfield Town","Luton Town","League Two",2,2,0.409826270110392,0.275532916062919,0.314640813826688
+"Nottingham Forest","Leeds United","England – Championship",0,2,0.39975852701479,0.283549652882584,0.316691820102626
+"Burton Albion FC","Sheffield Wednesday","England – Championship",1,1,0.252561801246625,0.291882800243106,0.455555398510268
+"Brentford FC","Wolverhampton Wanderers FC","England – Championship",0,0,0.393382906343138,0.272511063612006,0.334106030044857
+"Birmingham City","Reading","England – Championship",0,2,0.453593265396544,0.29111209570226,0.255294638901196
+"Barnsley FC","Sunderland AFC","England – Championship",3,0,0.282516959564126,0.264141872763207,0.453341167672667
+"Cardiff City FC","Queens Park Rangers","England – Championship",2,1,0.567487511090364,0.251482450401611,0.181030038508025
+"Sheffield United FC","Derby County","England – Championship",3,1,0.355931551328809,0.291991751688903,0.352076696982288
+"Ipswich Town","Fulham FC","England – Championship",0,2,0.27414938293512,0.258878462400273,0.466972154664607
+"Middlesbrough FC","Preston North End","England – Championship",0,0,0.554791952511142,0.264969806041224,0.180238241447635
+"Millwall FC","Norwich City FC","England – Championship",4,0,0.361757742210437,0.275139691258642,0.363102566530921
+"AFC Bournemouth","Manchester City FC","England – Premiere League",1,2,0.0865618596500612,0.162375144012449,0.75106299633749
+"Crystal Palace FC","Swansea City FC","England – Premiere League",0,2,0.497216841497702,0.284043953353127,0.218739205149171
+"Huddersfield Town","Southampton FC","England – Premiere League",0,0,0.244486615584318,0.284171399563222,0.47134198485246
+"Newcastle United FC","West Ham United FC","England – Premiere League",3,0,0.415466391052379,0.290088959433022,0.294444649514599
+"Watford FC","Brighton & Hove Albion","England – Premiere League",0,0,0.497233411631977,0.287385424255591,0.215381164112432
+"Manchester United FC","Leicester City FC","England – Premiere League",2,0,0.741022899441961,0.175638448821369,0.08333865173667
+"FC Nantes","Olympique Lyonnais","France – Ligue 1",0,0,0.278799182875921,0.267341682209788,0.453859134914291
+"Toulouse FC","Stade Rennais FC","France – Ligue 1",3,2,0.419948363355788,0.306377422322462,0.27367421432175
+"Amiens SC","OGC Nice","France – Ligue 1",3,0,0.265629482751733,0.297213476127701,0.437157041120565
+"Dijon FCO","Montpellier Hérault SC","France – Ligue 1",2,1,0.370866632310071,0.297371720419356,0.331761647270574
+"SM Caen","FC Metz","France – Ligue 1",1,0,0.52850387467163,0.277383100631778,0.194113024696592
+"FC Girondins de Bordeaux","ES Troyes AC","France – Ligue 1",2,1,0.683387725579331,0.204493451184842,0.112118823235827
+"FC Lorient","Stade de Reims","France – Ligue 2",2,1,0.445389661113073,0.303863974404246,0.250746364482681
+"FC Paços de Ferreira","Vitoria Guimaraes","Portugal – Primeira Liga",0,0,0.371023527740776,0.294801171588593,0.334175300670631
+"Moreirense FC","CD Tondela","Portugal – Primeira Liga",0,3,0.441582113129595,0.308827996840634,0.249589890029771
+"G.D. Chaves","Feirense","Portugal – Primeira Liga",0,2,0.526028524068992,0.281160101783224,0.192811374147784
+"FC Rio Ave","SL Benfica","Portugal – Primeira Liga",1,1,0.140473562132423,0.23696389728649,0.622562540581087
+"Genoa CFC","Juventus Turin","Italy – Serie A",2,4,0.091350117678629,0.19409638865182,0.714553493669551
+"Benevento Calcio","Bologna FC","Italy – Serie A",0,1,0.351349177470939,0.303487370013597,0.345163452515464
+"AS Roma","FC Internazionale Milano","Italy – Serie A",1,3,0.413666089526561,0.270079512996681,0.316254397476758
+"Carpi FC","Novara Calcio","Italy – Serie B",1,0,0.437204863035,0.319661260514115,0.243133876450885
+"AS Avellino 1912","Brescia Calcio","Italy – Serie B",2,1,0.458287171554589,0.301281381299776,0.240431447145634
+"AS Cittadella","Ascoli","Italy – Serie B",3,2,0.528299592138212,0.277275883778241,0.194424524083547
+"US Cittá di Palermo","Spezia Calcio","Italy – Serie B",2,0,0.508414078250255,0.290999705201433,0.200586216548313
+"Pro Vercelli","Frosinone Calcio","Italy – Serie B",0,2,0.270888100650913,0.310572344695315,0.418539554653772
+"Ternana Calcio","Empoli FC","Italy – Serie B",1,1,0.245047368364966,0.30961540510875,0.445337226526284
+"Virtus Entella","Perugia","Italy – Serie B",1,5,0.38692453997571,0.317605811315566,0.295469648708724
+"Venezia","Salernitana Calcio","Italy – Serie B",0,0,0.389583577979219,0.318519472549785,0.291896949470997
+"Corinthians","Atlético Goianiense","Campeonato Brasileiro da Série A",0,1,0.682447584643218,0.209301189638962,0.10825122571782
+"Bahia","Botafogo","Campeonato Brasileiro da Série A",1,2,0.482986031907899,0.285272451594724,0.231741516497377
+"Palmeiras","Sao Paulo","Campeonato Brasileiro da Série A",4,2,0.480669078308422,0.279586885090572,0.239744036601006
+"EC Flamengo","Atlético PR","Campeonato Brasileiro da Série A",2,0,0.595016874922779,0.245954143221972,0.159028981855249
+"Ponte Preta","Atlético Mineiro","Campeonato Brasileiro da Série A",1,2,0.404902433148639,0.293920139725367,0.301177427125994
+"VfL Bochum","Dynamo Dresden","Germany – 2. Bundesliga",3,2,0.509353745954973,0.253018331759731,0.237627922285295
+"1. FC Union Berlin","Arminia Bielefeld","Germany – 2. Bundesliga",1,1,0.554880837102097,0.252001319802064,0.193117843095839
+"SV Sandhausen","Fortuna Düsseldorf","Germany – 2. Bundesliga",1,2,0.386823781467595,0.302731655061596,0.310444563470809
+"Feyenoord Rotterdam","Willem II Tilburg","Netherlands – Eredivisie",5,0,0.795689792994071,0.137617786763202,0.0666924202427273
+"VVV Venlo","Ajax Amsterdam","Netherlands – Eredivisie",0,2,0.149429433223363,0.190580898232141,0.659989668544496
+"PSV Eindhoven","Roda JC Kerkrade","Netherlands – Eredivisie",2,0,0.866510878746745,0.0878834196247194,0.045605701628536
+"FC Groningen","FC Utrecht","Netherlands – Eredivisie",2,1,0.355956492563625,0.273199100735107,0.370844406701267
+"West Bromwich Albion FC","Stoke City FC","England – Premiere League",1,1,0.415429394643225,0.312233557757328,0.272337047599447
+"Chelsea FC","Everton FC","England – Premiere League",2,0,0.656677040142581,0.216850280268541,0.126472679588878
+"Liverpool FC","Arsenal FC","England – Premiere League",4,0,0.451774986346259,0.260731840524304,0.287493173129438
+"Tottenham Hotspur FC","Burnley FC","England – Premiere League",1,1,0.781496053619245,0.148912660456971,0.0695912859237835
+"EA Guingamp","RC Strasbourg Alsace","France – Ligue 1",2,0,0.513462592972737,0.278869001588797,0.207668405438466
+"Angers SCO","OSC Lille","France – Ligue 1",1,1,0.441772811382786,0.298568169160843,0.259659019456371
+"AS Monaco FC","Olympique de Marseille","France – Ligue 1",6,1,0.595856998210752,0.230587174624931,0.173555827164317
+"Boavista Porto FC","Desportivo Aves","Portugal – Primeira Liga",1,0,0.400036093482119,0.32108160134749,0.278882305170391
+"Sporting CP","GD Estoril Praia","Portugal – Primeira Liga",2,1,0.814555736389965,0.126734243553997,0.0587100200560382
+"Sporting Braga","FC Porto","Portugal – Primeira Liga",0,1,0.121108234560556,0.224915292755318,0.653976472684126
+"Torino FC","US Sassuolo Calcio","Italy – Serie A",3,0,0.561794305169957,0.25026627210206,0.187939422727984
+"AC Chievo Verona","SS Lazio","Italy – Serie A",1,2,0.262936727943896,0.285102905590329,0.451960366465775
+"FC Crotone","Hellas Verona FC","Italy – Serie A",0,0,0.374413997893624,0.301835284455783,0.323750717650593
+"ACF Fiorentina","UC Sampdoria","Italy – Serie A",1,2,0.499506698339855,0.265528889048703,0.234964412611442
+"AC Milan","Cagliari Calcio","Italy – Serie A",2,1,0.745418842864516,0.166479922380607,0.0881012347548766
+"SSC Napoli","Atalanta BC","Italy – Serie A",3,1,0.693354659164276,0.194268057002603,0.112377283833121
+"SPAL Ferrara","Udinese Calcio","Italy – Serie A",3,2,0.38471720590738,0.301855038481175,0.313427755611444
+"Pescara Calcio","Foggia","Italy – Serie B",5,1,0.535081716674129,0.259387032777555,0.205531250548317
+"Cruzeiro","Santos FC","Campeonato Brasileiro da Série A",1,1,0.509010739735889,0.27648528888635,0.214503971377761
+"Avaí SC","Chapecoense","Campeonato Brasileiro da Série A",1,0,0.36129436907638,0.315694108901691,0.323011522021929
+"1. FC Kaiserslautern","Eintracht Braunschweig","Germany – 2. Bundesliga",1,1,0.36159169550173,0.295847750865052,0.342560553633218
+"US Orleans","RC Lens","France – Ligue 2",2,0,0.357637115125621,0.319068406631682,0.323294478242697
+"Portimonense S.C.","Maritimo Funchal","Portugal – Primeira Liga",1,2,0.455900403296511,0.300192880939856,0.243906715763633
+"AS Bari","AC Cesena","Italy – Serie B",3,0,0.49012716776089,0.299202942112431,0.210669890126679
+"Coritiba FC","EC Vitória","Campeonato Brasileiro da Série A",0,1,0.502439465290217,0.270481706605824,0.227078828103959
+"Grémio","Sport Recife","Campeonato Brasileiro da Série A",5,0,0.598553464934791,0.252591239642374,0.148855295422834
+"Bradford City AFC","Bristol Rovers","England – League One",3,1,0.429572807829652,0.280209848785434,0.290217343384914
+"Blackpool FC","AFC Wimbledon","England – League One",1,0,0.39703829787234,0.298689361702128,0.304272340425532
+"Bury FC","Scunthorpe United FC","England – League One",0,1,0.323201744223589,0.287926037626914,0.388872218149497
+"Doncaster Rovers FC","Peterborough United FC","England – League One",0,0,0.437515809862463,0.259484110636514,0.303000079501023
+"Gillingham FC","Shrewsbury Town FC","England – League One",1,2,0.312469886942979,0.276177350499176,0.411352762557845
+"Milton Keynes Dons","Oxford United","England – League One",1,1,0.398447606727037,0.284605433376455,0.316946959896507
+"Oldham Athletic AFC","Charlton Athletic","England – League One",3,4,0.238837993165059,0.275168279449322,0.485993727385619
+"Southend United FC","Rochdale AFC","England – League One",0,0,0.445213994601938,0.278576756622355,0.276209248775707
+"Walsall FC","Plymouth Argyle","England – League One",2,1,0.462995611631098,0.279919982963214,0.257084405405688
+"Cambridge United","Colchester United FC","League Two",1,0,0.457946303600967,0.275543962336175,0.266509734062858
+"Carlisle United","Mansfield Town","League Two",1,1,0.310599390699885,0.26720057172538,0.422200037574735
+"Cheltenham Town","Stevenage FC","League Two",0,1,0.379592329395434,0.269489581918858,0.350918088685707
+"Chesterfield FC","Coventry City FC","League Two",0,0,0.295412844036697,0.28256880733945,0.422018348623853
+"Crawley Town","Yeovil Town","League Two",2,0,0.425357730248029,0.265413951571658,0.309228318180313
+"Exeter City","Newport County","League Two",1,0,0.413136381911044,0.272346888634096,0.31451672945486
+"Grimsby Town","Crewe Alexandra FC","League Two",1,0,0.373963160706775,0.274941929421037,0.351094909872188
+"Wycombe Wanderers","Forest Green Rovers","League Two",3,1,0.508765189754819,0.264369171971749,0.226865638273431
+"Swindon Town FC","Barnet FC","League Two",1,4,0.483231047907429,0.269648264301936,0.247120687790635
+"Port Vale FC","Notts County","League Two",0,1,0.327280757717034,0.277862295725573,0.394856946557393
+"Morecambe FC","Accrington Stanley","League Two",1,2,0.275510521566879,0.253326557492662,0.471162920940459
+"Lincoln City","Luton Town","League Two",0,0,0.369364289578555,0.278606206996396,0.352029503425049
+"Brescia Calcio","US Cittá di Palermo","Italy – Serie B",0,0,0.429571050773806,0.304726964142669,0.265701985083526
+"Portsmouth","Rotherham United","England – League One",0,1,0.473729875638677,0.268099874674636,0.258170249686687
+"Empoli FC","AS Bari","Italy – Serie B",3,2,0.437759104448583,0.306019687435843,0.256221208115575
+"Ascoli","Pro Vercelli","Italy – Serie B",1,0,0.391889589367865,0.325268359175328,0.282842051456807
+"AC Cesena","Venezia","Italy – Serie B",0,0,0.416880474210387,0.320888259754048,0.262231266035566
+"Cremonese","AS Avellino 1912","Italy – Serie B",3,1,0.466783785542325,0.302036567115622,0.231179647342052
+"Foggia","Virtus Entella","Italy – Serie B",1,1,0.508362484489669,0.283357582831078,0.208279932679254
+"Frosinone Calcio","AS Cittadella","Italy – Serie B",2,1,0.433687017145105,0.297498716029417,0.268814266825478
+"Spezia Calcio","Carpi FC","Italy – Serie B",0,1,0.425711060866157,0.324959443127833,0.24932949600601
+"Perugia","Pescara Calcio","Italy – Serie B",4,2,0.426063047556566,0.286124451291653,0.287812501151781
+"Novara Calcio","Parma FC","Italy – Serie B",0,1,0.367008086253369,0.329811320754717,0.303180592991914
+"Salernitana Calcio","Ternana Calcio","Italy – Serie B",3,3,0.543366467769947,0.278459913188227,0.178173619041827
+"Dynamo Dresden","SpVgg Greuther Fürth","Germany – 2. Bundesliga",1,1,0.418898707352466,0.286226975991568,0.294874316655966
+"1. FC Heidenheim 1846","Jahn Regensburg","Germany – 2. Bundesliga",1,3,0.468293770199487,0.27671904602697,0.254987183773543
+"Derby County","Hull City FC","England – Championship",5,0,0.480550596955155,0.275569975090103,0.243879427954741
+"OSC Lille","FC Girondins de Bordeaux","France – Ligue 1",0,0,0.358776747119541,0.293937575953359,0.3472856769271
+"FC Metz","Paris Saint-Germain","France – Ligue 1",1,5,0.046228685821155,0.0951634410562313,0.858607873122614
+"Chamois Niortais FC","Paris FC","France – Ligue 2",0,2,0.404725126299372,0.32731125985956,0.267963613841068
+"AS Nancy","FC Valenciennes","France – Ligue 2",3,0,0.533739037600026,0.291869964145112,0.174390998254861
+"Le Havre AC","US Orleans","France – Ligue 2",1,1,0.541839165593442,0.292009131158143,0.166151703248415
+"Clermont Foot Auvergne","FC Bourg-en-Bresse Péronnas","France – Ligue 2",4,1,0.545768523639647,0.275567095658614,0.178664380701739
+"AJ Auxerre","RC Tours","France – Ligue 2",1,1,0.453510508813116,0.317605079461954,0.22888441172493
+"Ajaccio AC","Nîmes Olympique","France – Ligue 2",1,4,0.379601094552949,0.309706289841612,0.310692615605439
+"Gazélec Ajaccio","Sochaux FC","France – Ligue 2",0,1,0.384382337347572,0.336665909263046,0.278951753389381
+"LB Châteauroux","Quevilly Rouen","France – Ligue 2",3,2,0.480643143433033,0.303014155642564,0.216342700924403
+"Feirense","Sporting CP","Portugal – Primeira Liga",2,3,0.109150354746631,0.209850359448362,0.680999285805007
+"SL Benfica","Portimonense S.C.","Portugal – Primeira Liga",2,1,0.829288356629687,0.113274079891673,0.05743756347864
+"Pescara Calcio","Frosinone Calcio","Italy – Serie B",3,3,0.393371073638824,0.274805707781488,0.331823218579688
+"Atlético Mineiro","Palmeiras","Campeonato Brasileiro da Série A",1,1,0.405103716199715,0.288846140840625,0.306050142959659
+"Arminia Bielefeld","MSV Duisburg","Germany – 2. Bundesliga",0,4,0.460448070320782,0.281311212991371,0.258240716687846
+"Holstein Kiel","1. FC Kaiserslautern","Germany – 2. Bundesliga",2,1,0.551388482233494,0.258077637187024,0.190533880579482
+"FC Ingolstadt 04","Erzgebirge Aue","Germany – 2. Bundesliga",1,2,0.535825269460273,0.266400631147946,0.197774099391781
+"Willem II Tilburg","ADO Den Haag","Netherlands – Eredivisie",1,2,0.421984067260036,0.28172924721696,0.296286685523004
+"Heracles Almelo","Feyenoord Rotterdam","Netherlands – Eredivisie",2,4,0.134928221857488,0.197160422142778,0.667911355999734
+"Ajax Amsterdam","PEC Zwolle","Netherlands – Eredivisie",3,0,0.779132991127259,0.14041492754855,0.0804520813241901
+"Excelsior","Vitesse Arnhem","Netherlands – Eredivisie",0,3,0.301335559265442,0.270450751252087,0.428213689482471
+"Oxford United","Gillingham FC","England – League One",3,0,0.589673430119787,0.232716205438261,0.177610364441952
+"Northampton Town","Doncaster Rovers FC","England – League One",1,0,0.322767182958573,0.284185682954778,0.393047134086649
+"Charlton Athletic","Southend United FC","England – League One",2,1,0.429667014098415,0.266487465028252,0.303845520873334
+"Bristol Rovers","Walsall FC","England – League One",2,1,0.489934596588737,0.260700095076868,0.249365308334395
+"AFC Wimbledon","Portsmouth","England – League One",0,2,0.341064774009989,0.302933308592723,0.356001917397288
+"Peterborough United FC","Bradford City AFC","England – League One",1,3,0.363821138211382,0.272357723577236,0.363821138211382
+"Plymouth Argyle","Milton Keynes Dons","England – League One",0,1,0.334169675847369,0.286151159376633,0.379679164775999
+"Rochdale AFC","Blackburn Rovers FC","England – League One",0,3,0.32330752318134,0.296774686932416,0.379917789886244
+"Fleetwood Town FC","Oldham Athletic AFC","England – League One",2,2,0.565676959477908,0.265827738332232,0.16849530218986
+"Shrewsbury Town FC","Wigan Athletic FC","England – League One",1,0,0.267267956236826,0.285242117036378,0.447489926726796
+"Scunthorpe United FC","Blackpool FC","England – League One",0,0,0.487805285769212,0.274819879306598,0.237374834924191
+"Rotherham United","Bury FC","England – League One",3,2,0.540212946247651,0.253472350145525,0.206314703606823
+"Mansfield Town","Grimsby Town","League Two",4,1,0.592574804284136,0.244945007444407,0.162480188271457
+"Accrington Stanley","Carlisle United","League Two",3,0,0.416979497545481,0.270285879295409,0.312734623159111
+"Colchester United FC","Crawley Town","League Two",3,1,0.437612391769214,0.263039254351845,0.299348353878941
+"Barnet FC","Cambridge United","League Two",3,1,0.399709763729536,0.287696703097365,0.312593533173099
+"Coventry City FC","Port Vale FC","League Two",1,0,0.553033259269342,0.254620379270161,0.192346361460497
+"Crewe Alexandra FC","Chesterfield FC","League Two",5,1,0.416979497545481,0.270285879295409,0.312734623159111
+"Luton Town","Swindon Town FC","League Two",0,3,0.580428069987374,0.231657267741014,0.187914662271612
+"Forest Green Rovers","Exeter City","League Two",1,3,0.304811250925241,0.274759437453738,0.420429311621021
+"Yeovil Town","Cheltenham Town","League Two",0,0,0.343706838172559,0.287943191861377,0.368349969966064
+"Stevenage FC","Lincoln City","League Two",1,2,0.340168324407039,0.264575363427697,0.395256312165264
+"Notts County","Morecambe FC","League Two",2,0,0.60318961055569,0.230621483766148,0.166188905678161
+"Newport County","Wycombe Wanderers","League Two",0,0,0.397912064339128,0.273843976862602,0.32824395879827
+"Sunderland AFC","Sheffield United FC","England – Championship",1,2,0.447161597149384,0.285032830931479,0.267805571919137
+"Reading","Bristol City","England – Championship",0,1,0.39644983794377,0.276279490465064,0.327270671591166
+"Queens Park Rangers","Ipswich Town","England – Championship",2,1,0.492453975350279,0.267926370988893,0.239619653660828
+"Leeds United","Burton Albion FC","England – Championship",5,0,0.637162948448891,0.224386071353975,0.138450980197134
+"Fulham FC","Cardiff City FC","England – Championship",1,1,0.433755812893225,0.274915656059086,0.291328531047688
+"Bolton Wanderers FC","Middlesbrough FC","England – Championship",0,3,0.242142025611176,0.288707799767171,0.469150174621653
+"Aston Villa FC","Brentford FC","England – Championship",0,0,0.519864409669939,0.263752924773274,0.216382665556788
+"Norwich City FC","Birmingham City","England – Championship",1,0,0.54387035797267,0.24634179273253,0.2097878492948
+"Preston North End","Barnsley FC","England – Championship",1,1,0.602843321457564,0.234932247838587,0.162224430703849
+"Wolverhampton Wanderers FC","Millwall FC","England – Championship",1,0,0.541992807277343,0.258091812989211,0.199915379733446
+"Sheffield Wednesday","Nottingham Forest","England – Championship",3,1,0.519832798241708,0.270312044573372,0.209855157184919
+"Manchester City FC","Liverpool FC","England – Premiere League",5,0,0.511191278119455,0.252622191258314,0.236186530622231
+"Arsenal FC","AFC Bournemouth","England – Premiere League",3,0,0.710895618296119,0.173789762693281,0.1153146190106
+"Brighton & Hove Albion","West Bromwich Albion FC","England – Premiere League",3,1,0.368540562856946,0.314204454230602,0.317254982912452
+"Everton FC","Tottenham Hotspur FC","England – Premiere League",0,3,0.256452524812163,0.271329604980825,0.472217870207012
+"Leicester City FC","Chelsea FC","England – Premiere League",1,2,0.208803653587217,0.259071199821177,0.532125146591606
+"Southampton FC","Watford FC","England – Premiere League",0,2,0.597873460239738,0.242852890678746,0.159273649081515
+"Stoke City FC","Manchester United FC","England – Premiere League",2,2,0.132833474157325,0.220294615568778,0.646871910273897
+"OGC Nice","AS Monaco FC","France – Ligue 1",4,0,0.206666351025046,0.251408550731499,0.541925098243454
+"ES Troyes AC","Toulouse FC","France – Ligue 1",0,0,0.323075269725151,0.30021148140614,0.376713248868709
+"SM Caen","Dijon FCO","France – Ligue 1",2,1,0.485422180981912,0.284460228505436,0.230117590512652
+"RC Strasbourg Alsace","Amiens SC","France – Ligue 1",0,1,0.475263722967331,0.289967450024711,0.234768827007959
+"Montpellier Hérault SC","FC Nantes","France – Ligue 1",0,1,0.427590730214254,0.316528202885877,0.255881066899869
+"RC Lens","FC Lorient","France – Ligue 2",2,3,0.323011522021929,0.315694108901691,0.36129436907638
+"CD Tondela","FC Paços de Ferreira","Portugal – Primeira Liga",2,2,0.393271594134522,0.30289240790485,0.303835997960628
+"Maritimo Funchal","FC Rio Ave","Portugal – Primeira Liga",1,0,0.340419243184381,0.308100960603586,0.351479796212033
+"FC Porto","G.D. Chaves","Portugal – Primeira Liga",3,0,0.825820574712744,0.121624158515105,0.0525552667721519
+"Juventus Turin","AC Chievo Verona","Italy – Serie A",3,0,0.804783789429705,0.146229371213704,0.0489868393565908
+"Ascoli","Novara Calcio","Italy – Serie B",1,2,0.325987679511844,0.319574807128005,0.354437513360151
+"AS Bari","Venezia","Italy – Serie B",0,2,0.529818012259887,0.291929111570762,0.17825287616935
+"Carpi FC","Salernitana Calcio","Italy – Serie B",1,0,0.431614219957734,0.315679008771676,0.25270677127059
+"AS Avellino 1912","Foggia","Italy – Serie B",5,1,0.3825571238104,0.306767504942301,0.310675371247299
+"US Cittá di Palermo","Empoli FC","Italy – Serie B",3,3,0.433284337742937,0.309488812673526,0.257226849583538
+"Pro Vercelli","Cremonese","Italy – Serie B",1,4,0.324092168190242,0.326260008780143,0.349647823029616
+"Spezia Calcio","Virtus Entella","Italy – Serie B",2,1,0.533806906843559,0.295445345385491,0.170747747770949
+"Ternana Calcio","AC Cesena","Italy – Serie B",1,0,0.38373617275717,0.315433617735667,0.300830209507164
+"Vasco da Gama","Grémio","Campeonato Brasileiro da Série A",1,0,0.318620123457746,0.317582272892737,0.363797603649516
+"Sao Paulo","Ponte Preta","Campeonato Brasileiro da Série A",2,2,0.586686516612294,0.253963706659916,0.15934977672779
+"Atlético PR","Coritiba FC","Campeonato Brasileiro da Série A",1,1,0.545629754321508,0.272418849758022,0.18195139592047
+"Sport Recife","Avaí SC","Campeonato Brasileiro da Série A",0,1,0.630544132386376,0.234399944127449,0.135055923486176
+"Santos FC","Corinthians","Campeonato Brasileiro da Série A",2,0,0.380885294106357,0.311522796457595,0.307591909436048
+"EC Vitória","Fluminense FC","Campeonato Brasileiro da Série A",2,2,0.45564267215383,0.279391208713237,0.264966119132934
+"Fortuna Düsseldorf","1. FC Union Berlin","Germany – 2. Bundesliga",3,2,0.375447051848452,0.291391741733127,0.333161206418421
+"Eintracht Braunschweig","SV Sandhausen","Germany – 2. Bundesliga",1,1,0.457780222337399,0.287631821114649,0.254587956547953
+"SV Darmstadt 98","VfL Bochum","Germany – 2. Bundesliga",1,2,0.45342680846973,0.280941682481245,0.265631509049025
+"SC Heerenveen","PSV Eindhoven","Netherlands – Eredivisie",2,0,0.199550302517313,0.231232459552052,0.569217237930635
+"FC Utrecht","Roda JC Kerkrade","Netherlands – Eredivisie",2,0,0.740413549356414,0.173262072786327,0.0863243778572586
+"Sparta Rotterdam","FC Twente Enschede","Netherlands – Eredivisie",1,0,0.476448661470688,0.265266011521518,0.258285327007794
+"AZ Alkmaar","NAC Breda","Netherlands – Eredivisie",2,1,0.741536031687358,0.161499846038831,0.0969641222738109
+"FC Groningen","VVV Venlo","Netherlands – Eredivisie",1,1,0.475876056570038,0.268745431396303,0.255378512033659
+"Burnley FC","Crystal Palace FC","England – Premiere League",1,0,0.422737968227058,0.301769872703623,0.275492159069319
+"Swansea City FC","Newcastle United FC","England – Premiere League",0,1,0.408082975679542,0.300429184549356,0.291487839771102
+"AS Saint-Étienne","Angers SCO","France – Ligue 1",1,1,0.468993489893998,0.302014383584989,0.228992126521013
+"Olympique Lyonnais","EA Guingamp","France – Ligue 1",2,1,0.710644186704803,0.178719767035268,0.110636046259928
+"Vitoria Setubal","Sporting Braga","Portugal – Primeira Liga",2,0,0.288289478152913,0.30738751929238,0.404323002554707
+"Vitoria Guimaraes","Boavista Porto FC","Portugal – Primeira Liga",1,0,0.490183709747635,0.286074520656411,0.223741769595955
+"GD Estoril Praia","Moreirense FC","Portugal – Primeira Liga",0,2,0.570892898207416,0.262306849058162,0.166800252734421
+"FC Internazionale Milano","SPAL Ferrara","Italy – Serie A",2,0,0.792744248366477,0.139361626098404,0.0678941255351197
+"Udinese Calcio","Genoa CFC","Italy – Serie A",1,0,0.415629309415574,0.299610085008159,0.284760605576268
+"Atalanta BC","US Sassuolo Calcio","Italy – Serie A",2,1,0.616128893335579,0.229672647072975,0.154198459591447
+"Cagliari Calcio","FC Crotone","Italy – Serie A",1,0,0.606435133789608,0.243369183366843,0.150195682843549
+"Hellas Verona FC","ACF Fiorentina","Italy – Serie A",0,5,0.264198018823646,0.284108594155283,0.451693387021072
+"Benevento Calcio","Torino FC","Italy – Serie A",0,1,0.209560489352062,0.251472587222474,0.538966923425464
+"Bologna FC","SSC Napoli","Italy – Serie A",0,3,0.094684160692547,0.186663059651021,0.718652779656432
+"Parma FC","Brescia Calcio","Italy – Serie B",0,1,0.625723240115718,0.262174541947927,0.112102217936355
+"Botafogo","EC Flamengo","Campeonato Brasileiro da Série A",2,0,0.293296372671647,0.301443494134749,0.405260133193604
+"Chapecoense","Cruzeiro","Campeonato Brasileiro da Série A",1,2,0.364375404930121,0.309027242155925,0.326597352913954
+"1. FC Nürnberg","FC St. Pauli","Germany – 2. Bundesliga",0,1,0.445537717935439,0.280381494907647,0.274080787156914
+"West Ham United FC","Huddersfield Town","England – Premiere League",2,0,0.502359128186134,0.273202337917914,0.224438533895952
+"Stade de Reims","Stade Brestois","France – Ligue 2",0,1,0.526127057529003,0.292158174634817,0.18171476783618
+"Desportivo Aves","C.F. Os Belenenses","Portugal – Primeira Liga",2,1,0.436989035429292,0.304526734064788,0.258484230505921
+"AS Cittadella","Perugia","Italy – Serie B",1,1,0.388824320668224,0.299370872661731,0.311804806670045
+"Atlético Goianiense","Bahia","Campeonato Brasileiro da Série A",1,1,0.398403359754829,0.300334840430563,0.301261799814608
+"AFC Wimbledon","Gillingham FC","England – League One",1,1,0.499619893719303,0.2724716100358,0.227908496244898
+"Bristol Rovers","Oldham Athletic AFC","England – League One",2,3,0.572448986049612,0.248872978269629,0.178678035680759
+"Charlton Athletic","Wigan Athletic FC","England – League One",0,3,0.353295861402255,0.292128219726641,0.354575918871104
+"Fleetwood Town FC","Bury FC","England – League One",3,2,0.497107715989528,0.272373157665083,0.230519126345389
+"Northampton Town","Portsmouth","England – League One",3,1,0.309474680548982,0.2909985802177,0.399526739233318
+"Oxford United","Bradford City AFC","England – League One",2,2,0.408103318434038,0.280277853752112,0.31161882781385
+"Peterborough United FC","Milton Keynes Dons","England – League One",2,0,0.437377708562488,0.267953925850096,0.294668365587416
+"Plymouth Argyle","Blackpool FC","England – League One",1,3,0.377872340425532,0.292765957446809,0.32936170212766
+"Rochdale AFC","Doncaster Rovers FC","England – League One",2,1,0.358391984509943,0.288410117712143,0.353197897777914
+"Rotherham United","Walsall FC","England – League One",5,1,0.485670765537208,0.26966802174856,0.244661212714232
+"Scunthorpe United FC","Blackburn Rovers FC","England – League One",0,1,0.339692648058597,0.291020268635276,0.369287083306127
+"Shrewsbury Town FC","Southend United FC","England – League One",1,0,0.437570638921092,0.279593846645855,0.282835514433053
+"Accrington Stanley","Grimsby Town","League Two",1,2,0.515312801113773,0.25941848840264,0.225268710483586
+"Colchester United FC","Chesterfield FC","League Two",1,1,0.480917145195413,0.267468987601832,0.251613867202755
+"Coventry City FC","Carlisle United","League Two",2,0,0.485898948344878,0.266846143763171,0.247254907891951
+"Crewe Alexandra FC","Cambridge United","League Two",0,1,0.401563476702239,0.283662572205361,0.3147739510924
+"Forest Green Rovers","Lincoln City","League Two",0,1,0.265283167425904,0.274225296664979,0.460491535909116
+"Luton Town","Port Vale FC","League Two",2,0,0.619749771560013,0.224351218664875,0.155899009775113
+"Yeovil Town","Morecambe FC","League Two",2,2,0.473380252535707,0.268640033119437,0.257979714344856
+"Stevenage FC","Crawley Town","League Two",1,1,0.509678683489025,0.258096270877008,0.232225045633967
+"Notts County","Swindon Town FC","League Two",1,0,0.467139016135708,0.269701807658461,0.26315917620583
+"Newport County","Cheltenham Town","League Two",1,0,0.453963890043299,0.274163585278959,0.271872524677742
+"Mansfield Town","Wycombe Wanderers","League Two",0,0,0.481641777820187,0.27329112112269,0.245067101057123
+"Barnet FC","Exeter City","League Two",1,2,0.393508225878168,0.275678079146287,0.330813694975545
+"Aston Villa FC","Middlesbrough FC","England – Championship",0,0,0.378275084035548,0.30690242667035,0.314822489294101
+"Leeds United","Birmingham City","England – Championship",2,0,0.558397327788057,0.250028654233458,0.191574017978485
+"Norwich City FC","Burton Albion FC","England – Championship",0,0,0.686284934165886,0.193238937890215,0.120476127943899
+"Preston North End","Cardiff City FC","England – Championship",3,0,0.338982268903686,0.296738277946084,0.36427945315023
+"Queens Park Rangers","Millwall FC","England – Championship",2,2,0.413349457489335,0.282754991210096,0.30389555130057
+"Sheffield Wednesday","Brentford FC","England – Championship",2,1,0.468945393914131,0.260108378491038,0.270946227594831
+"Sunderland AFC","Nottingham Forest","England – Championship",0,1,0.496931085385751,0.264159738948023,0.238909175666226
+"Wolverhampton Wanderers FC","Bristol City","England – Championship",3,3,0.529960830452929,0.259389911204165,0.210649258342907
+"Bolton Wanderers FC","Sheffield United FC","England – Championship",0,1,0.288710034704275,0.287011740382485,0.424278224913239
+"FC Bayern München","RSC Anderlecht","Europe – Champions-League",3,0,0.901464183025291,0.0632614974707053,0.0352743195040038
+"Chelsea FC","Qarabag Agdam FK","Europe – Champions-League",6,0,0.88315374393153,0.0844819635566686,0.0323642925118017
+"AS Roma","Club Atlético de Madrid","Europe – Champions-League",0,0,0.339275031531137,0.296225027530207,0.364499940938656
+"FC Barcelona","Juventus Turin","Europe – Champions-League",3,0,0.604441912404293,0.22947814324628,0.166079944349427
+"Celtic FC","Paris Saint-Germain","Europe – Champions-League",0,5,0.0698924731182796,0.139784946236559,0.790322580645161
+"Manchester United FC","FC Basel","Europe – Champions-League",3,0,0.823513172424673,0.124888257874533,0.051598569700794
+"SL Benfica","CSKA Moscow","Europe – Champions-League",1,2,0.585317308996715,0.251487686471215,0.16319500453207
+"Fulham FC","Hull City FC","England – Championship",2,1,0.519695196852585,0.246355600138342,0.233949203009073
+"Real Madrid CF","APOEL Nicosia","Europe – Champions-League",3,0,0.932642487046632,0.0404145077720207,0.0269430051813471
+"Red Bull Leipzig","AS Monaco FC","Europe – Champions-League",1,1,0.473492558686647,0.25196133585639,0.274546105456963
+"Feyenoord Rotterdam","Manchester City FC","Europe – Champions-League",0,4,0.114634202970335,0.185278343175117,0.700087453854548
+"Shakhtar Donetsk","SSC Napoli","Europe – Champions-League",2,1,0.269620253164557,0.269620253164557,0.460759493670886
+"FC Porto","Besiktas JK","Europe – Champions-League",1,3,0.619953910096744,0.230139021108083,0.149907068795173
+"Tottenham Hotspur FC","Borussia Dortmund","Europe – Champions-League",3,1,0.422730442868767,0.262931535510868,0.314338021620365
+"NK Maribor","Spartak Moskva","Europe – Champions-League",1,1,0.218788740865562,0.270020264208738,0.5111909949257
+"Liverpool FC","Sevilla FC","Europe – Champions-League",2,2,0.588263580003091,0.222827113637535,0.188909306359374
+"Erzgebirge Aue","Holstein Kiel","Germany – 2. Bundesliga",0,3,0.345206035694722,0.291621815228675,0.363172149076603
+"1. FC Union Berlin","Eintracht Braunschweig","Germany – 2. Bundesliga",1,1,0.511117064023573,0.263010496067019,0.225872439909407
+"Sparta Rotterdam","AZ Alkmaar","Netherlands – Eredivisie",0,2,0.245621010697284,0.252620573178294,0.501758416124422
+"AFC Bournemouth","Brighton & Hove Albion","England – Premiere League",2,1,0.445590098707678,0.294383848996064,0.260026052296258
+"Toulouse FC","FC Girondins de Bordeaux","France – Ligue 1",0,1,0.310786383728525,0.295717953002294,0.393495663269181
+"FC Valenciennes","RC Lens","France – Ligue 2",1,0,0.311358897860919,0.306463317705874,0.382177784433207
+"Nîmes Olympique","AJ Auxerre","France – Ligue 2",3,0,0.521857090400942,0.291237571541083,0.186905338057975
+"FC Lorient","Ajaccio AC","France – Ligue 2",2,0,0.601656831256002,0.255328985980645,0.143014182763353
+"Gazélec Ajaccio","Clermont Foot Auvergne","France – Ligue 2",2,1,0.408431324895777,0.311869286422015,0.279699388682208
+"Stade Brestois","Le Havre AC","France – Ligue 2",1,0,0.376109852427898,0.309457473516625,0.314432674055477
+"Paris FC","RC Tours","France – Ligue 2",2,0,0.461862525426704,0.309374580523919,0.228762894049377
+"US Orleans","Chamois Niortais FC","France – Ligue 2",3,1,0.487765089722675,0.300163132137031,0.212071778140294
+"Quevilly Rouen","AS Nancy","France – Ligue 2",2,0,0.221620890271952,0.309565687998918,0.46881342172913
+"FC Paços de Ferreira","Vitoria Setubal","Portugal – Primeira Liga",1,0,0.411932613197515,0.305087591649409,0.282979795153075
+"Venezia","Spezia Calcio","Italy – Serie B",0,0,0.447229275370407,0.323906917045676,0.228863807583917
+"AC Cesena","AS Avellino 1912","Italy – Serie B",3,1,0.449460435467799,0.30670727829092,0.243832286241281
+"MSV Duisburg","1. FC Nürnberg","Germany – 2. Bundesliga",1,6,0.384228341414326,0.290458329521544,0.32531332906413
+"SV Sandhausen","1. FC Kaiserslautern","Germany – 2. Bundesliga",1,0,0.46902947539583,0.289490002618198,0.241480521985972
+"FC St. Pauli","FC Ingolstadt 04","Germany – 2. Bundesliga",0,4,0.377909856364537,0.298167409608717,0.323922734026746
+"Excelsior","SC Heerenveen","Netherlands – Eredivisie",1,2,0.266659322197282,0.259567318947354,0.473773358855364
+"Roda JC Kerkrade","Willem II Tilburg","Netherlands – Eredivisie",1,3,0.420509418649036,0.281147507569385,0.298343073781579
+"NAC Breda","FC Groningen","Netherlands – Eredivisie",2,1,0.330396772779882,0.268504264380345,0.401098962839774
+"PEC Zwolle","Heracles Almelo","Netherlands – Eredivisie",2,1,0.542125251321766,0.238588130166059,0.219286618512175
+"Blackburn Rovers FC","AFC Wimbledon","England – League One",0,1,0.607685059371991,0.250251034551014,0.142063906076995
+"Milton Keynes Dons","Rochdale AFC","England – League One",3,2,0.425989000457086,0.281940696834314,0.292070302708601
+"Oldham Athletic AFC","Shrewsbury Town FC","England – League One",1,2,0.319996945865465,0.295754752996869,0.384248301137665
+"Portsmouth","Fleetwood Town FC","England – League One",4,1,0.489783893676838,0.275344192619132,0.23487191370403
+"Southend United FC","Northampton Town","England – League One",2,2,0.485259637149904,0.255332950437515,0.259407412412582
+"Walsall FC","Peterborough United FC","England – League One",1,1,0.335006649558881,0.267087493209958,0.397905857231161
+"Wigan Athletic FC","Bristol Rovers","England – League One",3,0,0.592909621744186,0.242042669566585,0.165047708689228
+"Gillingham FC","Charlton Athletic","England – League One",1,0,0.248722532184967,0.256576927938176,0.494700539876858
+"Bury FC","Plymouth Argyle","England – League One",0,0,0.433216264959075,0.267784779164263,0.298998955876662
+"Bradford City AFC","Rotherham United","England – League One",1,0,0.431413178615831,0.280978035640282,0.287608785743887
+"Blackpool FC","Oxford United","England – League One",3,1,0.346266471449488,0.283857979502196,0.369875549048316
+"Lincoln City","Mansfield Town","League Two",0,1,0.388466488201846,0.300015657042041,0.311517854756113
+"Cambridge United","Coventry City FC","League Two",2,1,0.331014249467714,0.303258396251477,0.365727354280808
+"Carlisle United","Barnet FC","League Two",1,1,0.406216313330938,0.273086597197269,0.320697089471793
+"Cheltenham Town","Colchester United FC","League Two",3,1,0.422049676816131,0.272328143420464,0.305622179763405
+"Chesterfield FC","Accrington Stanley","League Two",1,2,0.286218733959716,0.278064354074824,0.43571691196546
+"Crawley Town","Notts County","League Two",0,1,0.299361842587838,0.27260324213306,0.428034915279102
+"Exeter City","Crewe Alexandra FC","League Two",3,0,0.508683401030377,0.254001411542786,0.237315187426837
+"Grimsby Town","Yeovil Town","League Two",2,1,0.468726638425118,0.285073511088961,0.246199850485921
+"Morecambe FC","Newport County","League Two",2,1,0.277846711844994,0.264293213706214,0.457860074448793
+"Port Vale FC","Forest Green Rovers","League Two",1,1,0.422074047168098,0.284253950133617,0.293672002698285
+"Swindon Town FC","Stevenage FC","League Two",3,2,0.391673170235146,0.273183807811068,0.335143021953785
+"Wycombe Wanderers","Luton Town","League Two",1,2,0.322972870278897,0.286875902424196,0.390151227296907
+"Cardiff City FC","Sheffield Wednesday","England – Championship",1,1,0.466947590202792,0.285356860679484,0.247695549117725
+"Burton Albion FC","Fulham FC","England – Championship",2,1,0.218741878226033,0.26155195090834,0.519706170865627
+"Bristol City","Derby County","England – Championship",4,1,0.391521964678653,0.286732262367602,0.321745772953745
+"Brentford FC","Reading","England – Championship",1,1,0.466492298344432,0.267848599873589,0.265659101781979
+"Birmingham City","Preston North End","England – Championship",1,3,0.368304076955852,0.293977651787051,0.337718271257097
+"Hull City FC","Sunderland AFC","England – Championship",1,1,0.473647435985258,0.283637708758614,0.242714855256127
+"Ipswich Town","Bolton Wanderers FC","England – Championship",2,0,0.513731906780973,0.266817880989478,0.219450212229548
+"Middlesbrough FC","Queens Park Rangers","England – Championship",3,2,0.560663982625703,0.260258836379339,0.179077180994958
+"Millwall FC","Leeds United","England – Championship",1,0,0.313333973312854,0.30452145531343,0.382144571373716
+"Nottingham Forest","Wolverhampton Wanderers FC","England – Championship",1,2,0.247827734808181,0.295891295498252,0.456280969693567
+"Sheffield United FC","Norwich City FC","England – Championship",0,1,0.418952618453865,0.27115544472153,0.309891936824605
+"Barnsley FC","Aston Villa FC","England – Championship",0,3,0.272711988483322,0.264582362810378,0.4627056487063
+"Crystal Palace FC","Southampton FC","England – Premiere League",0,1,0.336816066636382,0.298821571314595,0.364362362049023
+"Newcastle United FC","Stoke City FC","England – Premiere League",2,1,0.406993038184055,0.303669728180673,0.289337233635272
+"Liverpool FC","Burnley FC","England – Premiere League",1,1,0.771667911705299,0.154699054734762,0.0736330335599391
+"Watford FC","Manchester City FC","England – Premiere League",0,6,0.107023558892463,0.171988736746484,0.720987704361054
+"Huddersfield Town","Leicester City FC","England – Premiere League",1,1,0.27818853974122,0.284658040665434,0.437153419593346
+"West Bromwich Albion FC","West Ham United FC","England – Premiere League",0,0,0.410213782892173,0.297997246538691,0.291788970569135
+"Tottenham Hotspur FC","Swansea City FC","England – Premiere League",0,0,0.791532030331367,0.142027831529438,0.0664401381391947
+"AS Monaco FC","RC Strasbourg Alsace","France – Ligue 1",3,0,0.789909677855971,0.143010921534372,0.0670794006096572
+"FC Nantes","SM Caen","France – Ligue 1",1,0,0.497244555873609,0.298276550806329,0.204478893320062
+"ES Troyes AC","Montpellier Hérault SC","France – Ligue 1",0,1,0.347801236575127,0.309278947713958,0.342919815710915
+"EA Guingamp","OSC Lille","France – Ligue 1",1,0,0.464464151886085,0.292905321009243,0.242630527104672
+"Dijon FCO","AS Saint-Étienne","France – Ligue 1",0,1,0.324133847520253,0.302056619515777,0.37380953296397
+"Sochaux FC","Stade de Reims","France – Ligue 2",2,4,0.343329596412556,0.325018684603886,0.331651718983557
+"Maritimo Funchal","Desportivo Aves","Portugal – Primeira Liga",2,1,0.471407677123073,0.295701179286291,0.232891143590635
+"Boavista Porto FC","SL Benfica","Portugal – Primeira Liga",2,1,0.117031203321762,0.222573041933854,0.660395754744384
+"Sporting CP","CD Tondela","Portugal – Primeira Liga",2,0,0.826060501551954,0.122628959944819,0.0513105385032271
+"FC Crotone","FC Internazionale Milano","Italy – Serie A",0,2,0.0932895246877122,0.181569056382936,0.725141418929352
+"ACF Fiorentina","Bologna FC","Italy – Serie A",2,1,0.629991842264702,0.223741395020442,0.146266762714856
+"AS Roma","Hellas Verona FC","Italy – Serie A",3,0,0.835194414838591,0.111287811284814,0.0535177738765947
+"Empoli FC","Ascoli","Italy – Serie B",3,0,0.606001004629513,0.254040055294384,0.139958940076103
+"Cremonese","Carpi FC","Italy – Serie B",1,1,0.46505667547184,0.313538210237466,0.221405114290694
+"Brescia Calcio","Pro Vercelli","Italy – Serie B",0,0,0.475682317508865,0.306650550595337,0.217667131895798
+"Foggia","US Cittá di Palermo","Italy – Serie B",1,1,0.354497354497355,0.291005291005291,0.354497354497355
+"Frosinone Calcio","AS Bari","Italy – Serie B",3,2,0.47124728322795,0.299227569411613,0.229525147360437
+"Novara Calcio","AS Cittadella","Italy – Serie B",1,0,0.440291371660023,0.304500574792913,0.255208053547063
+"Perugia","Parma FC","Italy – Serie B",3,0,0.459757442116869,0.306504961411246,0.233737596471885
+"Salernitana Calcio","Pescara Calcio","Italy – Serie B",2,2,0.445471907808841,0.271750272451633,0.282777819739525
+"Virtus Entella","Ternana Calcio","Italy – Serie B",3,1,0.462400022035608,0.305850798274336,0.231749179690055
+"Botafogo","Santos FC","Campeonato Brasileiro da Série A",2,0,0.45392618412523,0.287888287867034,0.258185528007737
+"Atlético PR","Fluminense FC","Campeonato Brasileiro da Série A",3,1,0.536145402397346,0.274047428928465,0.18980716867419
+"Corinthians","Vasco da Gama","Campeonato Brasileiro da Série A",1,0,0.596926181293255,0.255834005737167,0.147239812969578
+"EC Flamengo","Sport Recife","Campeonato Brasileiro da Série A",2,0,0.650514342868108,0.221263381927928,0.128222275203964
+"Grémio","Chapecoense","Campeonato Brasileiro da Série A",0,1,0.586957544808357,0.257433021277495,0.155609433914148
+"EC Vitória","Sao Paulo","Campeonato Brasileiro da Série A",1,2,0.377911137817139,0.289320693046949,0.332768169135911
+"Jahn Regensburg","Dynamo Dresden","Germany – 2. Bundesliga",0,2,0.396211238489006,0.269994361962037,0.333794399548957
+"SpVgg Greuther Fürth","Fortuna Düsseldorf","Germany – 2. Bundesliga",3,1,0.341064774009989,0.302933308592723,0.356001917397288
+"SV Darmstadt 98","Arminia Bielefeld","Germany – 2. Bundesliga",4,3,0.480865832496118,0.278107589734222,0.241026577769659
+"VfL Bochum","1. FC Heidenheim 1846","Germany – 2. Bundesliga",1,2,0.504217133873606,0.269460801135531,0.226322064990863
+"FC Twente Enschede","FC Utrecht","Netherlands – Eredivisie",4,0,0.231805792451363,0.254804800579697,0.51338940696894
+"ADO Den Haag","Ajax Amsterdam","Netherlands – Eredivisie",1,1,0.0819866810199908,0.162606917356315,0.755406401623694
+"PSV Eindhoven","Feyenoord Rotterdam","Netherlands – Eredivisie",1,0,0.464193714580113,0.262751159196291,0.273055126223596
+"Vitesse Arnhem","VVV Venlo","Netherlands – Eredivisie",1,1,0.580874134786957,0.234621780632487,0.184504084580557
+"Doncaster Rovers FC","Scunthorpe United FC","England – League One",0,1,0.374885145482389,0.286676875957121,0.33843797856049
+"Chelsea FC","Arsenal FC","England – Premiere League",0,0,0.504329398858327,0.250028533319251,0.245642067822422
+"Manchester United FC","Everton FC","England – Premiere League",4,0,0.724659440639668,0.18698878158641,0.0883517777739216
+"Amiens SC","Olympique de Marseille","France – Ligue 1",0,2,0.254892544543801,0.28461762262471,0.460489832831489
+"Stade Rennais FC","OGC Nice","France – Ligue 1",0,1,0.420586720420346,0.282829330833392,0.296583948746262
+"Angers SCO","FC Metz","France – Ligue 1",0,1,0.632956226995215,0.231613949661214,0.135429823343571
+"Paris Saint-Germain","Olympique Lyonnais","France – Ligue 1",2,0,0.836231196009991,0.102347446177149,0.0614213578128606
+"C.F. Os Belenenses","GD Estoril Praia","Portugal – Primeira Liga",2,1,0.409427060031055,0.296181277469274,0.294391662499671
+"FC Rio Ave","FC Porto","Portugal – Primeira Liga",1,2,0.134927956266137,0.224776295807413,0.64029574792645
+"Sporting Braga","Vitoria Guimaraes","Portugal – Primeira Liga",2,1,0.487426882952421,0.275382419747131,0.237190697300448
+"US Sassuolo Calcio","Juventus Turin","Italy – Serie A",1,3,0.113023241101241,0.206732384039612,0.680244374859147
+"AC Milan","Udinese Calcio","Italy – Serie A",2,1,0.692890419362107,0.196079363487534,0.111030217150359
+"SSC Napoli","Benevento Calcio","Italy – Serie A",6,0,0.870917188373985,0.0884279636210048,0.0406548480050097
+"SPAL Ferrara","Cagliari Calcio","Italy – Serie A",0,2,0.40956037741465,0.284549215703783,0.305890406881567
+"Torino FC","UC Sampdoria","Italy – Serie A",2,2,0.561108747083457,0.241341531537256,0.197549721379286
+"AC Chievo Verona","Atalanta BC","Italy – Serie A",1,1,0.315100010992302,0.300601544228852,0.384298444778846
+"Genoa CFC","SS Lazio","Italy – Serie A",2,3,0.245741680204918,0.266442745656962,0.48781557413812
+"Cruzeiro","Bahia","Campeonato Brasileiro da Série A",1,0,0.643600079935892,0.232781073618031,0.123618846446077
+"RC Lens","Quevilly Rouen","France – Ligue 2",2,0,0.558339967206882,0.262099888313293,0.179560144479825
+"Portimonense S.C.","Feirense","Portugal – Primeira Liga",2,1,0.443526170798898,0.303030303030303,0.253443526170799
+"G.D. Chaves","Moreirense FC","Portugal – Primeira Liga",3,0,0.482903148791681,0.297397670902194,0.219699180306125
+"AS Avellino 1912","Venezia","Italy – Serie B",1,1,0.401095474081718,0.311393610868554,0.287510915049727
+"Palmeiras","Coritiba FC","Campeonato Brasileiro da Série A",1,0,0.648584613685722,0.234089352612874,0.117326033701404
+"Holstein Kiel","FC St. Pauli","Germany – 2. Bundesliga",0,1,0.528526272131359,0.269732014525322,0.201741713343319
+"FC Ingolstadt 04","MSV Duisburg","Germany – 2. Bundesliga",2,2,0.578987944233185,0.253390916707638,0.167621139059177
+"1. FC Kaiserslautern","Erzgebirge Aue","Germany – 2. Bundesliga",0,2,0.429028041694584,0.309172588776732,0.261799369528684
+"SV Sandhausen","1. FC Union Berlin","Germany – 2. Bundesliga",1,0,0.339742553993645,0.293693111434265,0.36656433457209
+"Wigan Athletic FC","Northampton Town","England – League One",1,0,0.698043907241207,0.211506606883677,0.0904494858751159
+"Chamois Niortais FC","Stade Brestois","France – Ligue 2",0,2,0.328395722547388,0.3156424906038,0.355961786848811
+"Paris FC","US Orleans","France – Ligue 2",1,0,0.3997686506625,0.326232611242977,0.273998738094523
+"Ajaccio AC","FC Valenciennes","France – Ligue 2",3,0,0.457967464485639,0.31832492613428,0.223707609380082
+"AJ Auxerre","FC Lorient","France – Ligue 2",1,0,0.253935935304408,0.302830432164263,0.44323363253133
+"Le Havre AC","Sochaux FC","France – Ligue 2",1,0,0.539547544020149,0.290945233174081,0.169507222805769
+"RC Tours","Nîmes Olympique","France – Ligue 2",0,4,0.276870535248236,0.308412748124618,0.414716716627146
+"AS Nancy","FC Bourg-en-Bresse Péronnas","France – Ligue 2",2,1,0.580743321328821,0.277217842393744,0.142038836277435
+"Stade de Reims","Gazélec Ajaccio","France – Ligue 2",5,0,0.560131024801123,0.285100261702976,0.154768713495901
+"Bologna FC","FC Internazionale Milano","Italy – Serie A",1,1,0.161181142012762,0.230042568882065,0.608776289105173
+"Carpi FC","Foggia","Italy – Serie B",1,3,0.467003488511969,0.296667869601828,0.236328641886202
+"AS Bari","Cremonese","Italy – Serie B",1,0,0.491902306458577,0.281548979668572,0.226548713872851
+"Ascoli","Frosinone Calcio","Italy – Serie B",0,1,0.221626059996885,0.285969109673401,0.492404830329714
+"AS Cittadella","AC Cesena","Italy – Serie B",4,0,0.50000841556359,0.285440615958051,0.214550968478359
+"US Cittá di Palermo","Perugia","Italy – Serie B",1,0,0.435395298834878,0.301014033762385,0.263590667402737
+"Parma FC","Empoli FC","Italy – Serie B",1,2,0.379074205164507,0.302553014680989,0.318372780154504
+"Pescara Calcio","Virtus Entella","Italy – Serie B",2,2,0.531970773426715,0.239626474516538,0.228402752056747
+"Pro Vercelli","Salernitana Calcio","Italy – Serie B",1,1,0.331905831153499,0.303988518252737,0.364105650593764
+"Spezia Calcio","Novara Calcio","Italy – Serie B",1,0,0.435304917844669,0.319699349499035,0.244995732656296
+"Ternana Calcio","Brescia Calcio","Italy – Serie B",1,1,0.446459035905574,0.285419559611188,0.268121404483237
+"1. FC Heidenheim 1846","SV Darmstadt 98","Germany – 2. Bundesliga",2,2,0.381097607699499,0.301114159169974,0.317788233130527
+"Fortuna Düsseldorf","Jahn Regensburg","Germany – 2. Bundesliga",1,0,0.565544595789365,0.245065206099099,0.189390198111536
+"Eintracht Braunschweig","SpVgg Greuther Fürth","Germany – 2. Bundesliga",3,0,0.482569377796402,0.278511469471066,0.238919152732532
+"Dynamo Dresden","Arminia Bielefeld","Germany – 2. Bundesliga",0,2,0.453967769091148,0.273397956175341,0.272634274733511
+"Benevento Calcio","AS Roma","Italy – Serie A",0,4,0.0924340015066068,0.177026129239187,0.730539869254206
+"Genoa CFC","AC Chievo Verona","Italy – Serie A",1,1,0.411599625818522,0.291549734954786,0.296850639226692
+"Atalanta BC","FC Crotone","Italy – Serie A",5,1,0.704908694575694,0.201286171128198,0.0938051342961076
+"Hellas Verona FC","UC Sampdoria","Italy – Serie A",0,0,0.261989544662474,0.269187059625729,0.468823395711796
+"Juventus Turin","ACF Fiorentina","Italy – Serie A",1,0,0.733253601115251,0.177561654981429,0.0891847439033203
+"SS Lazio","SSC Napoli","Italy – Serie A",1,4,0.280950806549846,0.258711956427167,0.460337237022987
+"AC Milan","SPAL Ferrara","Italy – Serie A",2,0,0.787321598171719,0.144544599628903,0.0681338021993782
+"Udinese Calcio","Torino FC","Italy – Serie A",2,3,0.329832887173499,0.279886764258655,0.390280348567846
+"Cagliari Calcio","US Sassuolo Calcio","Italy – Serie A",0,1,0.458820414930822,0.275807777514595,0.265371807554583
+"1. FC Nürnberg","VfL Bochum","Germany – 2. Bundesliga",3,1,0.451428081555673,0.274671734129649,0.273900184314678
+"Erzgebirge Aue","SV Sandhausen","Germany – 2. Bundesliga",1,0,0.38554419622197,0.30577643148639,0.30867937229164
+"MSV Duisburg","Holstein Kiel","Germany – 2. Bundesliga",1,3,0.324003505324375,0.284329606713227,0.391666887962397
+"AFC Wimbledon","Milton Keynes Dons","England – League One",0,2,0.395163185626019,0.293991888101285,0.310844926272696
+"Forest Green Rovers","Swindon Town FC","League Two",0,2,0.317070625763945,0.274319530155323,0.408609844080732
+"OGC Nice","Angers SCO","France – Ligue 1",2,2,0.528133554790117,0.267316264091585,0.204550181118298
+"OSC Lille","AS Monaco FC","France – Ligue 1",0,4,0.190886286421633,0.236754593110327,0.57235912046804
+"US Orleans","RC Tours","France – Ligue 2",1,1,0.469501568490763,0.313001045660509,0.217497385848728
+"FC Bourg-en-Bresse Péronnas","Le Havre AC","France – Ligue 2",2,1,0.253294472261665,0.297312109209576,0.44939341852876
+"Stade Brestois","Paris FC","France – Ligue 2",1,1,0.484244022835978,0.309977861751693,0.205778115412329
+"Sochaux FC","Ajaccio AC","France – Ligue 2",1,6,0.464238015985535,0.308512605560007,0.227249378454458
+"Nîmes Olympique","Chamois Niortais FC","France – Ligue 2",1,5,0.603580851247164,0.251588047325246,0.14483110142759
+"FC Valenciennes","AJ Auxerre","France – Ligue 2",0,2,0.365418281734883,0.317806779228709,0.316774939036408
+"Quevilly Rouen","Stade de Reims","France – Ligue 2",1,2,0.178335959918879,0.274016208077603,0.547647832003518
+"FC Porto","Portimonense S.C.","Portugal – Primeira Liga",5,2,0.845771923552942,0.107131583303829,0.0470964931432291
+"Arminia Bielefeld","1. FC Heidenheim 1846","Germany – 2. Bundesliga",1,1,0.430111619396157,0.27580603842635,0.294082342177493
+"Jahn Regensburg","Eintracht Braunschweig","Germany – 2. Bundesliga",2,1,0.323896839985175,0.271568102605955,0.40453505740887
+"FC St. Pauli","Fortuna Düsseldorf","Germany – 2. Bundesliga",1,2,0.413655846990051,0.294932869757257,0.291411283252692
+"Willem II Tilburg","SC Heerenveen","Netherlands – Eredivisie",1,2,0.2715696858659,0.266375730125295,0.462054584008805
+"Heracles Almelo","Roda JC Kerkrade","Netherlands – Eredivisie",2,1,0.586400800038018,0.232082309696535,0.181516890265447
+"Feyenoord Rotterdam","NAC Breda","Netherlands – Eredivisie",0,2,0.826008265853943,0.119272303722576,0.0547194304234813
+"ADO Den Haag","Sparta Rotterdam","Netherlands – Eredivisie",1,0,0.473198509110988,0.272287410270569,0.254514080618443
+"Shrewsbury Town FC","Blackburn Rovers FC","England – League One",1,1,0.310660686235546,0.291186434262571,0.398152879501883
+"Bristol Rovers","Blackpool FC","England – League One",3,1,0.402538848598665,0.275961476942994,0.32149967445834
+"Charlton Athletic","Bury FC","England – League One",1,1,0.543678973775084,0.247505132691099,0.208815893533818
+"Fleetwood Town FC","Southend United FC","England – League One",2,4,0.362908572501619,0.289680729979037,0.347410697519344
+"Northampton Town","Bradford City AFC","England – League One",0,1,0.273029172840137,0.291830582945895,0.435140244213968
+"Oxford United","Walsall FC","England – League One",1,2,0.505923839282726,0.262633918765117,0.231442241952157
+"Peterborough United FC","Wigan Athletic FC","England – League One",3,2,0.300081989614649,0.266466247608636,0.433451762776715
+"Plymouth Argyle","Doncaster Rovers FC","England – League One",0,3,0.294570390574101,0.277785752934551,0.427643856491348
+"Rochdale AFC","Gillingham FC","England – League One",3,0,0.589737068673864,0.236122550403532,0.174140380922605
+"Rotherham United","Oldham Athletic AFC","England – League One",5,1,0.599852253139621,0.23208569317902,0.168062053681359
+"Scunthorpe United FC","Portsmouth","England – League One",2,0,0.397993500390656,0.280196573550893,0.321809926058451
+"Yeovil Town","Port Vale FC","League Two",1,1,0.352317595078601,0.296632139321497,0.351050265599901
+"Barnet FC","Crawley Town","League Two",1,2,0.518859736266954,0.2632432042701,0.217897059462946
+"Colchester United FC","Wycombe Wanderers","League Two",1,2,0.32195740763609,0.273257967825589,0.404784624538321
+"Coventry City FC","Exeter City","League Two",2,0,0.442939255057858,0.272959765021649,0.284100979920492
+"Crewe Alexandra FC","Carlisle United","League Two",0,5,0.343207678145655,0.270002716325114,0.386789605529231
+"Accrington Stanley","Cheltenham Town","League Two",1,1,0.447514715500327,0.249509483322433,0.30297580117724
+"Luton Town","Chesterfield FC","League Two",1,0,0.655992009592479,0.204181613354124,0.139826377053397
+"Mansfield Town","Cambridge United","League Two",2,1,0.487510159120371,0.269342629348271,0.243147211531357
+"Newport County","Grimsby Town","League Two",1,0,0.445106017956194,0.2715270694496,0.283366912594205
+"Notts County","Lincoln City","League Two",4,1,0.330559757942511,0.302842014264102,0.366598227793387
+"Stevenage FC","Morecambe FC","League Two",2,1,0.543531384565884,0.246811518810307,0.209657096623809
+"Norwich City FC","Bristol City","England – Championship",0,0,0.477926616191031,0.261386138613861,0.260687245195108
+"Leeds United","Ipswich Town","England – Championship",3,2,0.600150037509377,0.243810952738185,0.156039009752438
+"Fulham FC","Middlesbrough FC","England – Championship",1,1,0.420361735618188,0.289388494550206,0.290249769831606
+"Bolton Wanderers FC","Brentford FC","England – Championship",0,3,0.276259717722467,0.25936085201072,0.464379430266813
+"Derby County","Birmingham City","England – Championship",1,1,0.549476999983643,0.257368908380385,0.193154091635972
+"Preston North End","Millwall FC","England – Championship",0,0,0.509140327888919,0.267463437297434,0.223396234813646
+"Queens Park Rangers","Burton Albion FC","England – Championship",0,0,0.564262527029923,0.24837989432977,0.187357578640307
+"Reading","Hull City FC","England – Championship",1,1,0.394605556835391,0.27611210350805,0.329282339656559
+"Sunderland AFC","Cardiff City FC","England – Championship",1,2,0.345887246734269,0.301982054424346,0.352130698841385
+"Wolverhampton Wanderers FC","Barnsley FC","England – Championship",2,1,0.696140304089967,0.195926651285784,0.107933044624249
+"Aston Villa FC","Nottingham Forest","England – Championship",2,1,0.551280771457664,0.265038832431569,0.183680396110767
+"Leicester City FC","Liverpool FC","England – Premiere League",2,3,0.239227112406073,0.251495169452538,0.509277718141389
+"West Ham United FC","Tottenham Hotspur FC","England – Premiere League",2,3,0.168642681929681,0.222684995911693,0.608672322158626
+"Burnley FC","Huddersfield Town","England – Premiere League",0,0,0.439348822281262,0.306171210527254,0.254479967191484
+"Everton FC","AFC Bournemouth","England – Premiere League",2,1,0.573574582301323,0.250732753504596,0.175692664194081
+"Manchester City FC","Crystal Palace FC","England – Premiere League",5,0,0.849416423509796,0.0989995831596499,0.0515839933305544
+"Southampton FC","Manchester United FC","England – Premiere League",0,1,0.188081158044706,0.259921175971597,0.551997665983697
+"Stoke City FC","Chelsea FC","England – Premiere League",0,4,0.162865736658191,0.232334534284907,0.604799729056902
+"Swansea City FC","Watford FC","England – Premiere League",1,2,0.405026078002701,0.295229852038113,0.299744069959185
+"Montpellier Hérault SC","Paris Saint-Germain","France – Ligue 1",0,0,0.072269205748418,0.159678277840203,0.768052516411379
+"FC Metz","ES Troyes AC","France – Ligue 1",0,1,0.449368491025925,0.288499889208952,0.262131619765123
+"Olympique Lyonnais","Dijon FCO","France – Ligue 1",3,3,0.778236667265218,0.147842221823188,0.073921110911594
+"SM Caen","Amiens SC","France – Ligue 1",1,0,0.492199239275946,0.30084799786293,0.206952762861124
+"FC Girondins de Bordeaux","EA Guingamp","France – Ligue 1",3,1,0.56184932778751,0.255228752228696,0.182921919983794
+"FC Lorient","AS Nancy","France – Ligue 2",0,0,0.554727103241035,0.275416640883239,0.169856255875726
+"GD Estoril Praia","G.D. Chaves","Portugal – Primeira Liga",0,2,0.458274917042997,0.282117217717221,0.259607865239783
+"Moreirense FC","Sporting CP","Portugal – Primeira Liga",1,1,0.0960519839686097,0.203734479565986,0.700213536465404
+"SL Benfica","FC Paços de Ferreira","Portugal – Primeira Liga",2,0,0.810767728566615,0.130377494289031,0.0588547771443544
+"AS Roma","Udinese Calcio","Italy – Serie A",3,1,0.768605064232882,0.154141823353529,0.0772531124135889
+"SPAL Ferrara","SSC Napoli","Italy – Serie A",2,3,0.0653546480386889,0.141053197205803,0.793592154755508
+"Juventus Turin","Torino FC","Italy – Serie A",4,0,0.699436043227426,0.188525779337636,0.112038177434938
+"Empoli FC","AS Cittadella","Italy – Serie B",0,1,0.494812481275537,0.276264291369218,0.228923227355244
+"Cremonese","Pescara Calcio","Italy – Serie B",0,0,0.447580988011223,0.260692118017175,0.291726893971601
+"Brescia Calcio","Foggia","Italy – Serie B",2,2,0.351898694949855,0.303663359816541,0.344437945233604
+"AS Bari","Ternana Calcio","Italy – Serie B",3,0,0.570782396096989,0.268758293690042,0.160459310212969
+"Novara Calcio","AS Avellino 1912","Italy – Serie B",1,2,0.481087989775133,0.29594200583137,0.222970004393498
+"Virtus Entella","Carpi FC","Italy – Serie B",0,0,0.373740282176792,0.330665131010654,0.295594586812554
+"Perugia","Frosinone Calcio","Italy – Serie B",1,0,0.396684002244022,0.300259275544706,0.303056722211272
+"Salernitana Calcio","Spezia Calcio","Italy – Serie B",2,0,0.457613436760543,0.311411060798708,0.230975502440748
+"Venezia","Parma FC","Italy – Serie B",0,1,0.365756594169366,0.321240166589542,0.313003239241092
+"EC Flamengo","Avaí SC","Campeonato Brasileiro da Série A",1,1,0.664789430952655,0.212513877506092,0.122696691541253
+"Santos FC","Atlético PR","Campeonato Brasileiro da Série A",1,0,0.441404244471811,0.303895134044455,0.254700621483734
+"Sao Paulo","Corinthians","Campeonato Brasileiro da Série A",1,1,0.447390877213111,0.286856503624877,0.265752619162012
+"Chapecoense","Ponte Preta","Campeonato Brasileiro da Série A",1,0,0.489936239583646,0.288467936482257,0.221595823934097
+"Atlético Goianiense","Cruzeiro","Campeonato Brasileiro da Série A",1,2,0.333144633016394,0.301269683561122,0.365585683422485
+"Coritiba FC","Botafogo","Campeonato Brasileiro da Série A",2,3,0.401204122589204,0.309500323140243,0.289295554270553
+"Fluminense FC","Palmeiras","Campeonato Brasileiro da Série A",0,1,0.301912904999336,0.30005497943011,0.398032115570554
+"SpVgg Greuther Fürth","1. FC Nürnberg","Germany – 2. Bundesliga",1,3,0.379654161804228,0.280376780412892,0.33996905778288
+"SV Darmstadt 98","Dynamo Dresden","Germany – 2. Bundesliga",3,3,0.466291016177657,0.274520626425719,0.259188357396623
+"VfL Bochum","FC Ingolstadt 04","Germany – 2. Bundesliga",2,0,0.342130908840761,0.284277868861857,0.373591222297383
+"FC Utrecht","PSV Eindhoven","Netherlands – Eredivisie",1,7,0.275543962336175,0.266509734062858,0.457946303600967
+"VVV Venlo","PEC Zwolle","Netherlands – Eredivisie",1,1,0.427342735748849,0.279180927652543,0.293476336598607
+"Ajax Amsterdam","Vitesse Arnhem","Netherlands – Eredivisie",1,2,0.758779596376927,0.156091802683253,0.0851286009398197
+"FC Groningen","FC Twente Enschede","Netherlands – Eredivisie",1,0,0.451253878341066,0.255159261051493,0.293586860607441
+"AZ Alkmaar","Excelsior","Netherlands – Eredivisie",0,2,0.716705778234895,0.171431340304769,0.111862881460337
+"Sheffield Wednesday","Sheffield United FC","England – Championship",2,4,0.466667122758168,0.303842456873698,0.229490420368134
+"Brighton & Hove Albion","Newcastle United FC","England – Premiere League",1,0,0.3517150942094,0.314514459244944,0.333770446545655
+"RC Strasbourg Alsace","FC Nantes","France – Ligue 1",1,2,0.336361195110276,0.328433490175017,0.335205314714708
+"Olympique de Marseille","Toulouse FC","France – Ligue 1",2,0,0.602276259585623,0.235267685028583,0.162456055385794
+"Feirense","C.F. Os Belenenses","Portugal – Primeira Liga",1,4,0.385922330097087,0.307038834951456,0.307038834951456
+"Vitoria Guimaraes","Maritimo Funchal","Portugal – Primeira Liga",2,1,0.490384933831279,0.2898968587472,0.219718207421521
+"CD Tondela","Sporting Braga","Portugal – Primeira Liga",1,2,0.267761694259051,0.289214411603248,0.443023894137702
+"Desportivo Aves","FC Rio Ave","Portugal – Primeira Liga",0,0,0.327893100585089,0.314186958116902,0.357919941298009
+"UC Sampdoria","AC Milan","Italy – Serie A",2,0,0.248929531088767,0.25343213242629,0.497638336484943
+"Cagliari Calcio","AC Chievo Verona","Italy – Serie A",0,2,0.415117719950434,0.292441140024783,0.292441140024783
+"FC Crotone","Benevento Calcio","Italy – Serie A",2,0,0.497651592374685,0.286786104729634,0.215562302895681
+"Hellas Verona FC","SS Lazio","Italy – Serie A",0,3,0.15897538999803,0.223434659746661,0.617589950255309
+"FC Internazionale Milano","Genoa CFC","Italy – Serie A",1,0,0.753482247252911,0.162862912186916,0.0836548405601735
+"US Sassuolo Calcio","Bologna FC","Italy – Serie A",0,1,0.470739721161531,0.286297842109937,0.242962436728532
+"ACF Fiorentina","Atalanta BC","Italy – Serie A",1,1,0.431540209193784,0.27516749294098,0.293292297865236
+"AC Cesena","Ascoli","Italy – Serie B",0,2,0.53454247079963,0.28054974362762,0.18490778557275
+"Bahia","Grémio","Campeonato Brasileiro da Série A",1,0,0.413058275302372,0.302738363265092,0.284203361432536
+"Atlético Mineiro","EC Vitória","Campeonato Brasileiro da Série A",1,3,0.630944421079618,0.217310198943045,0.151745379977336
+"1. FC Union Berlin","1. FC Kaiserslautern","Germany – 2. Bundesliga",5,0,0.594468043785601,0.242670970801623,0.162860985412775
+"Arsenal FC","West Bromwich Albion FC","England – Premiere League",2,0,0.730492045411583,0.17637779750255,0.093130157085867
+"Clermont Foot Auvergne","RC Lens","France – Ligue 2",1,0,0.391569365186464,0.303740722527818,0.304689912285718
+"Vitoria Setubal","Boavista Porto FC","Portugal – Primeira Liga",1,1,0.437044368184573,0.317462195782279,0.245493436033148
+"US Cittá di Palermo","Pro Vercelli","Italy – Serie B",2,1,0.638793456144966,0.233253717302997,0.127952826552038
+"Sport Recife","Vasco da Gama","Campeonato Brasileiro da Série A",1,1,0.504458134397713,0.279631614547108,0.215910251055179
+"Doncaster Rovers FC","Shrewsbury Town FC","England – League One",1,2,0.424246340157655,0.291273606675405,0.284480053166941
+"Bury FC","Oxford United","England – League One",3,0,0.301111259874146,0.281965457223189,0.416923282902664
+"Bradford City AFC","Fleetwood Town FC","England – League One",0,3,0.521949086535039,0.276435653664326,0.201615259800635
+"Blackpool FC","Rochdale AFC","England – League One",0,0,0.417028670721112,0.278019113814075,0.304952215464813
+"Blackburn Rovers FC","Rotherham United","England – League One",2,0,0.449928773148727,0.276585109839302,0.273486117011971
+"Gillingham FC","Scunthorpe United FC","England – League One",0,0,0.215077340942804,0.252312952940653,0.532609706116543
+"Milton Keynes Dons","Northampton Town","England – League One",0,0,0.46237321447373,0.272516056575299,0.26511072895097
+"Oldham Athletic AFC","Peterborough United FC","England – League One",3,2,0.225368170728777,0.2547896029388,0.519842226332424
+"Portsmouth","Bristol Rovers","England – League One",3,0,0.492361300633403,0.26568622836979,0.241952470996807
+"Southend United FC","AFC Wimbledon","England – League One",1,0,0.485899084043066,0.275891852804114,0.23820906315282
+"Walsall FC","Charlton Athletic","England – League One",2,2,0.323048523206751,0.278744725738397,0.398206751054852
+"Wigan Athletic FC","Plymouth Argyle","England – League One",1,0,0.719641648518701,0.179035207212527,0.101323144268772
+"Crawley Town","Newport County","League Two",1,2,0.332079559474017,0.274245478891463,0.39367496163452
+"Chesterfield FC","Yeovil Town","League Two",2,3,0.433230694878207,0.280913274776935,0.285856030344858
+"Cheltenham Town","Mansfield Town","League Two",3,0,0.332967297854675,0.290355411522083,0.376677290623242
+"Carlisle United","Stevenage FC","League Two",0,2,0.441820804985195,0.26318705633889,0.294992138675916
+"Cambridge United","Forest Green Rovers","League Two",3,0,0.525789038399297,0.257984491775533,0.21622646982517
+"Exeter City","Notts County","League Two",0,3,0.422508492522169,0.266665196100057,0.310826311377774
+"Grimsby Town","Colchester United FC","League Two",2,2,0.396515192498422,0.271706789288612,0.331778018212965
+"Lincoln City","Barnet FC","League Two",2,1,0.508506136148033,0.267864155799322,0.223629708052645
+"Morecambe FC","Luton Town","League Two",0,0,0.204648535896154,0.242924446599924,0.552427017503922
+"Port Vale FC","Accrington Stanley","League Two",1,2,0.293852749082295,0.276371424066067,0.429775826851638
+"Swindon Town FC","Coventry City FC","League Two",1,2,0.332049882190679,0.305154876156543,0.362795241652779
+"Wycombe Wanderers","Crewe Alexandra FC","League Two",3,2,0.546515328312294,0.248971976612858,0.204512695074848
+"Cardiff City FC","Leeds United","England – Championship",3,1,0.458061169396246,0.280365026095978,0.261573804507776
+"Burton Albion FC","Aston Villa FC","England – Championship",0,4,0.224372002276238,0.271116169417121,0.504511828306642
+"Bristol City","Bolton Wanderers FC","England – Championship",2,0,0.644743919531697,0.215316076596876,0.139940003871427
+"Brentford FC","Derby County","England – Championship",1,1,0.431754060256991,0.272559825748827,0.295686113994182
+"Barnsley FC","Queens Park Rangers","England – Championship",1,1,0.372369186543924,0.277950788816262,0.349680024639814
+"Hull City FC","Preston North End","England – Championship",1,2,0.433241070251746,0.281731909845789,0.285027019902465
+"Ipswich Town","Sunderland AFC","England – Championship",5,2,0.39935670828845,0.303560862375021,0.29708242933653
+"Millwall FC","Reading","England – Championship",2,1,0.508405956647059,0.27154134813635,0.220052695216591
+"Nottingham Forest","Fulham FC","England – Championship",1,3,0.297219416552789,0.282573822113956,0.420206761333254
+"Middlesbrough FC","Norwich City FC","England – Championship",0,1,0.49237973132911,0.268623955405607,0.238996313265283
+"Sevilla FC","NK Maribor","Europe – Champions-League",3,0,0.845716683773303,0.11072965279428,0.043553663432417
+"SSC Napoli","Feyenoord Rotterdam","Europe – Champions-League",3,1,0.850131463628396,0.100921573314211,0.0489469630573925
+"AS Monaco FC","FC Porto","Europe – Champions-League",0,3,0.462816735415439,0.274837949322334,0.262345315262227
+"Besiktas JK","Red Bull Leipzig","Europe – Champions-League",2,0,0.315239409329771,0.269339165663623,0.415421425006605
+"Spartak Moskva","Liverpool FC","Europe – Champions-League",1,1,0.167503530519379,0.229483759610858,0.603012709869763
+"APOEL Nicosia","Tottenham Hotspur FC","Europe – Champions-League",0,3,0.0992225176330134,0.18187726794326,0.718900214423726
+"Manchester City FC","Shakhtar Donetsk","Europe – Champions-League",2,0,0.810330851194455,0.121809742232895,0.0678594065726507
+"Borussia Dortmund","Real Madrid CF","Europe – Champions-League",1,3,0.36962719258118,0.24923971001021,0.38113309740861
+"Sheffield United FC","Wolverhampton Wanderers FC","England – Championship",2,0,0.334046120948264,0.296478624063505,0.369475254988231
+"Birmingham City","Sheffield Wednesday","England – Championship",1,0,0.334214043344798,0.300278463559018,0.365507493096184
+"Qarabag Agdam FK","AS Roma","Europe – Champions-League",1,2,0.129067621993954,0.201419697567567,0.669512680438479
+"Paris Saint-Germain","FC Bayern München","Europe – Champions-League",3,0,0.473548202341422,0.252640406919264,0.273811390739314
+"FC Basel","SL Benfica","Europe – Champions-League",5,0,0.28361673414305,0.275627530364372,0.440755735492578
+"CSKA Moscow","Manchester United FC","Europe – Champions-League",1,4,0.139272168040447,0.248851792640799,0.611876039318753
+"Club Atlético de Madrid","Chelsea FC","Europe – Champions-League",1,2,0.437536715716476,0.302494519507687,0.259968764775837
+"RSC Anderlecht","Celtic FC","Europe – Champions-League",0,3,0.449732714978582,0.269345417212447,0.280921867808971
+"Sporting CP","FC Barcelona","Europe – Champions-League",0,1,0.111555571353185,0.180252476506342,0.708191952140473
+"FC Ingolstadt 04","SV Darmstadt 98","Germany – 2. Bundesliga",3,0,0.502133311283351,0.266624038881251,0.231242649835398
+"1. FC Kaiserslautern","SpVgg Greuther Fürth","Germany – 2. Bundesliga",3,0,0.369452662721893,0.30103550295858,0.329511834319527
+"FC Twente Enschede","Heracles Almelo","Netherlands – Eredivisie",2,1,0.489669499487689,0.259173081412011,0.2511574191003
+"Queens Park Rangers","Fulham FC","England – Championship",1,2,0.305550499102841,0.27612070598812,0.41832879490904
+"AS Monaco FC","Montpellier Hérault SC","France – Ligue 1",1,1,0.736537851948336,0.170274610500057,0.0931875375516072
+"Chamois Niortais FC","Quevilly Rouen","France – Ligue 2",2,1,0.49850907475621,0.283754991878448,0.217735933365342
+"Paris FC","Nîmes Olympique","France – Ligue 2",2,1,0.29484018247438,0.31788957784697,0.38727023967865
+"Ajaccio AC","FC Bourg-en-Bresse Péronnas","France – Ligue 2",2,0,0.536859472877264,0.273407468830798,0.189733058291938
+"AS Nancy","LB Châteauroux","France – Ligue 2",4,1,0.541456016177957,0.286653185035389,0.171890798786653
+"US Orleans","FC Valenciennes","France – Ligue 2",3,4,0.528621833809914,0.291524310069723,0.179853856120363
+"RC Tours","Stade Brestois","France – Ligue 2",1,2,0.353326583574812,0.311559543343923,0.335113873081265
+"AJ Auxerre","Sochaux FC","France – Ligue 2",2,0,0.487078448757101,0.29882113420681,0.214100417036088
+"RC Lens","Gazélec Ajaccio","France – Ligue 2",2,0,0.506837986244976,0.284586710773553,0.208575302981471
+"G.D. Chaves","CD Tondela","Portugal – Primeira Liga",1,1,0.543963493313043,0.268044107554395,0.187992399132562
+"Parma FC","Salernitana Calcio","Italy – Serie B",2,2,0.480192394966195,0.30462205055668,0.215185554477125
+"Vasco da Gama","Chapecoense","Campeonato Brasileiro da Série A",1,1,0.466886288765194,0.295694649551289,0.237419061683517
+"Bahia","Coritiba FC","Campeonato Brasileiro da Série A",1,1,0.525779882435124,0.273155293371692,0.201064824193184
+"Erzgebirge Aue","1. FC Union Berlin","Germany – 2. Bundesliga",1,2,0.323937141042369,0.293689998354678,0.382372860602953
+"1. FC Nürnberg","Arminia Bielefeld","Germany – 2. Bundesliga",1,2,0.529583545876434,0.257153492266112,0.213262961857454
+"Holstein Kiel","VfL Bochum","Germany – 2. Bundesliga",3,0,0.521414515883542,0.256531169141789,0.222054314974669
+"NAC Breda","ADO Den Haag","Netherlands – Eredivisie",0,1,0.44519400209732,0.274640806927642,0.280165190975038
+"PEC Zwolle","FC Groningen","Netherlands – Eredivisie",3,2,0.495381006096363,0.254917347049511,0.249701646854125
+"PSV Eindhoven","Willem II Tilburg","Netherlands – Eredivisie",4,0,0.822341700026298,0.122594616356122,0.0550636836175801
+"Excelsior","VVV Venlo","Netherlands – Eredivisie",0,2,0.398239432621966,0.292998981959104,0.30876158541893
+"Blackburn Rovers FC","Gillingham FC","England – League One",1,0,0.695077521882292,0.191245238468562,0.113677239649145
+"AFC Wimbledon","Rochdale AFC","England – League One",0,0,0.380770203859453,0.295385370266727,0.32384442587382
+"Fleetwood Town FC","Charlton Athletic","England – League One",1,3,0.343216127874242,0.271513594195779,0.385270277929979
+"Peterborough United FC","Oxford United","England – League One",1,4,0.528194473457881,0.242740524525293,0.229065002016826
+"Portsmouth","Oldham Athletic AFC","England – League One",1,2,0.624537825164416,0.227897610253738,0.147564564581845
+"Rotherham United","Northampton Town","England – League One",1,0,0.574330071850919,0.244601376622979,0.181068551526102
+"Shrewsbury Town FC","Scunthorpe United FC","England – League One",2,0,0.358515246881757,0.291964512430652,0.349520240687591
+"Southend United FC","Blackpool FC","England – League One",2,1,0.466686188180421,0.273214042940358,0.260099768879221
+"Wigan Athletic FC","Walsall FC","England – League One",2,0,0.663120636245014,0.203739747221456,0.13313961653353
+"Bury FC","Milton Keynes Dons","England – League One",0,2,0.389016538890279,0.285506290238187,0.325477170871534
+"Bristol Rovers","Plymouth Argyle","England – League One",2,1,0.570417564296519,0.233805522382878,0.195776913320603
+"Bradford City AFC","Doncaster Rovers FC","England – League One",2,0,0.451680874503974,0.268768784828811,0.279550340667216
+"Mansfield Town","Notts County","League Two",3,1,0.425700556604087,0.288418424444781,0.285881018951132
+"Grimsby Town","Lincoln City","League Two",0,0,0.257335813278613,0.291135143977894,0.451529042743493
+"Chesterfield FC","Cheltenham Town","League Two",0,2,0.309606036183551,0.260764442240156,0.429629521576293
+"Coventry City FC","Crewe Alexandra FC","League Two",1,0,0.594245679908012,0.240190245762996,0.165564074328992
+"Crawley Town","Carlisle United","League Two",0,1,0.330555545067003,0.276243302534748,0.393201152398249
+"Exeter City","Morecambe FC","League Two",4,1,0.565376926950295,0.231059325184027,0.203563747865678
+"Forest Green Rovers","Accrington Stanley","League Two",0,1,0.248308851456081,0.27566491136226,0.476026237181659
+"Yeovil Town","Colchester United FC","League Two",0,1,0.329204311420454,0.271433081282603,0.399362607296944
+"Luton Town","Newport County","League Two",3,1,0.5129760615684,0.252620895745069,0.234403042686531
+"Stevenage FC","Port Vale FC","League Two",2,0,0.460132884522717,0.281118649910132,0.258748465567151
+"Swindon Town FC","Cambridge United","League Two",2,0,0.384029435465479,0.281917562451536,0.334053002082985
+"Wycombe Wanderers","Barnet FC","League Two",3,1,0.490323154505282,0.25883066957891,0.250846175915808
+"Burton Albion FC","Wolverhampton Wanderers FC","England – Championship",0,4,0.181582843680451,0.260026632150407,0.558390524169142
+"Ipswich Town","Bristol City","England – Championship",1,3,0.305533518072199,0.286662330191269,0.407804151736533
+"Hull City FC","Birmingham City","England – Championship",6,1,0.485286487535943,0.281914982643712,0.232798529820345
+"Cardiff City FC","Derby County","England – Championship",0,0,0.513193874605343,0.270980749603922,0.215825375790735
+"Aston Villa FC","Bolton Wanderers FC","England – Championship",1,0,0.702278119496886,0.195891182363999,0.101830698139115
+"Middlesbrough FC","Brentford FC","England – Championship",2,2,0.503818350364868,0.266305087905438,0.229876561729694
+"Millwall FC","Barnsley FC","England – Championship",1,3,0.58559945227058,0.239803215508018,0.174597332221401
+"Nottingham Forest","Sheffield United FC","England – Championship",2,1,0.346367839211353,0.299761769103403,0.353870391685245
+"Preston North End","Sunderland AFC","England – Championship",2,2,0.532485445301599,0.26242562268448,0.205088932013921
+"Reading","Norwich City FC","England – Championship",1,2,0.373449947248513,0.283344291371692,0.343205761379795
+"Huddersfield Town","Tottenham Hotspur FC","England – Premiere League",0,4,0.121360553822343,0.211334757518217,0.66730468865944
+"Manchester United FC","Crystal Palace FC","England – Premiere League",4,0,0.801820333005181,0.139857271292314,0.0583223957025056
+"Stoke City FC","Southampton FC","England – Premiere League",2,1,0.336005891776568,0.293753653888497,0.370240454334935
+"West Bromwich Albion FC","Watford FC","England – Premiere League",2,2,0.420514602344422,0.311047309035715,0.268438088619864
+"West Ham United FC","Swansea City FC","England – Premiere League",1,0,0.528919493167379,0.276814830533655,0.194265676298966
+"AFC Bournemouth","Leicester City FC","England – Premiere League",0,0,0.348693439405913,0.281559932393855,0.369746628200232
+"Chelsea FC","Manchester City FC","England – Premiere League",0,1,0.387427569095148,0.276890324805289,0.335682106099563
+"Paris Saint-Germain","FC Girondins de Bordeaux","France – Ligue 1",6,2,0.845268685063122,0.10054742486873,0.0541838900681488
+"Stade Rennais FC","SM Caen","France – Ligue 1",0,1,0.531652722153932,0.275338038780285,0.193009239065784
+"Amiens SC","OSC Lille","France – Ligue 1",3,0,0.322791552165993,0.306550467780282,0.370657980053725
+"Dijon FCO","RC Strasbourg Alsace","France – Ligue 1",1,1,0.439343084498405,0.284356165477102,0.276300750024493
+"EA Guingamp","Toulouse FC","France – Ligue 1",1,1,0.510737879760598,0.275436452875515,0.213825667363887
+"FC Nantes","FC Metz","France – Ligue 1",1,0,0.57526420709299,0.259242882924589,0.16549290998242
+"Stade de Reims","Clermont Foot Auvergne","France – Ligue 2",1,0,0.54432687389896,0.269705063363073,0.185968062737967
+"FC Paços de Ferreira","Moreirense FC","Portugal – Primeira Liga",3,2,0.437338242460339,0.306686880719043,0.255974876820618
+"Portimonense S.C.","Desportivo Aves","Portugal – Primeira Liga",2,2,0.451652073879977,0.292963507381607,0.255384418738416
+"Boavista Porto FC","Feirense","Portugal – Primeira Liga",1,0,0.468585468585469,0.312390312390312,0.219024219024219
+"FC Rio Ave","Vitoria Setubal","Portugal – Primeira Liga",2,1,0.536749482401656,0.287267080745342,0.175983436853002
+"Udinese Calcio","UC Sampdoria","Italy – Serie A",4,0,0.344236065873533,0.296396612610142,0.359367321516325
+"Genoa CFC","Bologna FC","Italy – Serie A",0,1,0.406742167220942,0.299770221101673,0.293487611677386
+"Carpi FC","Pescara Calcio","Italy – Serie B",0,1,0.427935374374573,0.276400185148449,0.295664440476978
+"AS Cittadella","Virtus Entella","Italy – Serie B",0,1,0.574047540347628,0.263643077498533,0.162309382153839
+"AS Avellino 1912","Empoli FC","Italy – Serie B",3,2,0.334912634017438,0.309395480949443,0.355691885033119
+"Ascoli","US Cittá di Palermo","Italy – Serie B",0,0,0.237243603556013,0.302817146153793,0.459939250290195
+"Pro Vercelli","AC Cesena","Italy – Serie B",5,2,0.422339538760767,0.320922478466241,0.256737982772992
+"Spezia Calcio","AS Bari","Italy – Serie B",1,0,0.372251151843334,0.329492573591059,0.298256274565607
+"Ternana Calcio","Venezia","Italy – Serie B",2,3,0.354808061457562,0.326328484618159,0.318863453924279
+"Brescia Calcio","Perugia","Italy – Serie B",2,1,0.328912690709745,0.299653586321455,0.3714337229688
+"Palmeiras","Santos FC","Campeonato Brasileiro da Série A",0,1,0.549493558490984,0.263637177654379,0.186869263854637
+"Grémio","Fluminense FC","Campeonato Brasileiro da Série A",1,0,0.603402200807998,0.240956221020722,0.15564157817128
+"Cruzeiro","Corinthians","Campeonato Brasileiro da Série A",1,1,0.409826270110392,0.314640813826688,0.275532916062919
+"Botafogo","EC Vitória","Campeonato Brasileiro da Série A",2,3,0.554872231686542,0.259369676320273,0.185758091993186
+"Sao Paulo","Sport Recife","Campeonato Brasileiro da Série A",1,0,0.610348220856494,0.231238435406936,0.15841334373657
+"Eintracht Braunschweig","FC St. Pauli","Germany – 2. Bundesliga",0,2,0.378160548979874,0.302998203841017,0.318841247179109
+"1. FC Heidenheim 1846","Dynamo Dresden","Germany – 2. Bundesliga",0,2,0.429855277583242,0.27799757268204,0.292147149734718
+"SV Sandhausen","Jahn Regensburg","Germany – 2. Bundesliga",2,0,0.521988103132029,0.264469051899107,0.213542844968864
+"AZ Alkmaar","Feyenoord Rotterdam","Netherlands – Eredivisie",0,4,0.358912857607651,0.272693567791288,0.368393574601061
+"Vitesse Arnhem","FC Utrecht","Netherlands – Eredivisie",1,1,0.390117256094107,0.274730462038103,0.33515228186779
+"SC Heerenveen","Ajax Amsterdam","Netherlands – Eredivisie",0,4,0.19388636731493,0.232202006570024,0.573911626115046
+"Sparta Rotterdam","Roda JC Kerkrade","Netherlands – Eredivisie",1,2,0.5573173641406,0.25492244811394,0.18776018774546
+"Sheffield Wednesday","Leeds United","England – Championship",3,0,0.42569207187575,0.289268499879961,0.285039428244289
+"Newcastle United FC","Liverpool FC","England – Premiere League",1,1,0.185573036546967,0.237821755574754,0.576605207878279
+"Arsenal FC","Brighton & Hove Albion","England – Premiere League",2,0,0.776063981719509,0.148528991716652,0.0754070265638389
+"Everton FC","Burnley FC","England – Premiere League",0,1,0.590124706198781,0.252168578382155,0.157706715419065
+"ES Troyes AC","AS Saint-Étienne","France – Ligue 1",2,1,0.275350024343105,0.298999719685458,0.425650255971437
+"Angers SCO","Olympique Lyonnais","France – Ligue 1",3,3,0.300480242894887,0.273621673697578,0.425898083407535
+"OGC Nice","Olympique de Marseille","France – Ligue 1",2,4,0.376598755707458,0.283543830605324,0.339857413687218
+"Sporting Braga","GD Estoril Praia","Portugal – Primeira Liga",6,0,0.593863990451295,0.254427616876815,0.15170839267189
+"Sporting CP","FC Porto","Portugal – Primeira Liga",0,0,0.3472856769271,0.293937575953359,0.358776747119541
+"C.F. Os Belenenses","Vitoria Guimaraes","Portugal – Primeira Liga",1,0,0.409429280397022,0.295285359801489,0.295285359801489
+"Maritimo Funchal","SL Benfica","Portugal – Primeira Liga",1,1,0.12684951921371,0.214389626978776,0.658760853807513
+"SSC Napoli","Cagliari Calcio","Italy – Serie A",3,0,0.858036508226194,0.0971866355062941,0.0447768562675118
+"Benevento Calcio","FC Internazionale Milano","Italy – Serie A",1,2,0.0690472869298368,0.148556284000558,0.782396429069605
+"AC Chievo Verona","ACF Fiorentina","Italy – Serie A",2,1,0.329813875304459,0.297734714180621,0.372451410514921
+"SS Lazio","US Sassuolo Calcio","Italy – Serie A",6,1,0.68767262226552,0.19645275952667,0.115874618207811
+"SPAL Ferrara","FC Crotone","Italy – Serie A",1,1,0.490738033281748,0.289797410728417,0.219464555989835
+"Torino FC","Hellas Verona FC","Italy – Serie A",2,2,0.75700854438584,0.158627006417783,0.0843644491963769
+"AC Milan","AS Roma","Italy – Serie A",0,2,0.378196535849367,0.266901642465902,0.354901821684732
+"Atalanta BC","Juventus Turin","Italy – Serie A",2,2,0.19600412063246,0.263446398699544,0.540549480667996
+"Foggia","Novara Calcio","Italy – Serie B",2,2,0.509383177229423,0.28147181355511,0.209145009215467
+"Atlético PR","Atlético Mineiro","Campeonato Brasileiro da Série A",0,2,0.439361393323657,0.283541364296081,0.277097242380261
+"Fortuna Düsseldorf","MSV Duisburg","Germany – 2. Bundesliga",3,1,0.54043493599771,0.258272370847173,0.201292693155116
+"Le Havre AC","FC Lorient","France – Ligue 2",3,2,0.373719827602809,0.311632188512246,0.314647983884945
+"Frosinone Calcio","Cremonese","Italy – Serie B",0,0,0.570700749637164,0.27171394271431,0.157585307648526
+"Ponte Preta","EC Flamengo","Campeonato Brasileiro da Série A",1,0,0.290019155231912,0.291755796880008,0.41822504788808
+"Cruzeiro","Ponte Preta","Campeonato Brasileiro da Série A",2,1,0.606991111781767,0.254533815368571,0.138475072849663
+"Doncaster Rovers FC","Southend United FC","England – League One",4,1,0.45138216015959,0.259304645198062,0.289313194642348
+"Milton Keynes Dons","Bradford City AFC","England – League One",1,4,0.353627503128312,0.286220501065731,0.360151995805957
+"Northampton Town","Bristol Rovers","England – League One",0,6,0.318424396442186,0.272172808132147,0.409402795425667
+"Plymouth Argyle","Fleetwood Town FC","England – League One",1,2,0.311782835378693,0.276453335619067,0.41176382900224
+"Rochdale AFC","Rotherham United","England – League One",0,1,0.377790022720239,0.267774246873137,0.354435730406624
+"Scunthorpe United FC","Wigan Athletic FC","England – League One",1,2,0.273824641298478,0.290989768066442,0.435185590635081
+"Walsall FC","Shrewsbury Town FC","England – League One",1,1,0.363630774905481,0.288322626256417,0.348046598838103
+"Oxford United","AFC Wimbledon","England – League One",3,0,0.445497834875056,0.272525211836975,0.281976953287969
+"Barnet FC","Coventry City FC","League Two",0,0,0.295432458697765,0.276967930029155,0.427599611273081
+"Cheltenham Town","Swindon Town FC","League Two",2,1,0.425809092216417,0.277807071559998,0.296383836223585
+"Carlisle United","Exeter City","League Two",0,1,0.379507925584296,0.279465721705341,0.341026352710364
+"Cambridge United","Wycombe Wanderers","League Two",1,3,0.350822435868228,0.275504624777874,0.373672939353898
+"Accrington Stanley","Luton Town","League Two",0,2,0.326277157735292,0.277150199326285,0.396572642938424
+"Colchester United FC","Mansfield Town","League Two",2,0,0.313527636380017,0.280192801477544,0.406279562142439
+"Crewe Alexandra FC","Stevenage FC","League Two",1,0,0.31381275481917,0.286204594571149,0.39998265060968
+"Lincoln City","Chesterfield FC","League Two",2,1,0.591678231938775,0.238602659182118,0.169719108879107
+"Morecambe FC","Crawley Town","League Two",0,1,0.360136486998825,0.26449048232163,0.375373030679545
+"Newport County","Yeovil Town","League Two",2,0,0.532283393998154,0.239179629656034,0.228536976345812
+"Notts County","Forest Green Rovers","League Two",1,1,0.64659961410587,0.218570127460613,0.134830258433518
+"Port Vale FC","Grimsby Town","League Two",1,2,0.396688576042212,0.30118947440242,0.302121949555369
+"Gillingham FC","Portsmouth","England – League One",0,1,0.228834498464393,0.262758750258305,0.508406751277302
+"Pescara Calcio","AS Cittadella","Italy – Serie B",1,2,0.478358835699215,0.25281140539544,0.268829758905344
+"AS Bari","AS Avellino 1912","Italy – Serie B",2,1,0.524211123384184,0.282114816252202,0.193674060363615
+"Cremonese","Ternana Calcio","Italy – Serie B",3,3,0.547535685429572,0.270165634258012,0.182298680312416
+"Empoli FC","Foggia","Italy – Serie B",3,1,0.547622746467883,0.26798159811701,0.184395655415107
+"US Cittá di Palermo","Parma FC","Italy – Serie B",1,1,0.397758094190391,0.311344195133054,0.290897710676555
+"Perugia","Pro Vercelli","Italy – Serie B",1,5,0.591926467642003,0.261041257693362,0.147032274664635
+"Venezia","Carpi FC","Italy – Serie B",2,0,0.436345775327064,0.322202344032898,0.241451880640038
+"Virtus Entella","Brescia Calcio","Italy – Serie B",3,0,0.435504340321844,0.302959541093456,0.2615361185847
+"Novara Calcio","Frosinone Calcio","Italy – Serie B",2,1,0.295931274576867,0.313059129697072,0.391009595726061
+"Atlético PR","Atlético Goianiense","Campeonato Brasileiro da Série A",2,2,0.606136255198786,0.2421170056474,0.151746739153814
+"Botafogo","Chapecoense","Campeonato Brasileiro da Série A",2,1,0.532244712931391,0.276425488302422,0.191329798766186
+"Corinthians","Coritiba FC","Campeonato Brasileiro da Série A",3,1,0.606574761399788,0.243548957228703,0.149876281371509
+"Atlético Mineiro","Sao Paulo","Campeonato Brasileiro da Série A",1,0,0.45798461886451,0.274018887129609,0.267996494005881
+"Grémio","Cruzeiro","Campeonato Brasileiro da Série A",0,1,0.489879448800172,0.296324804263849,0.213795746935979
+"Avaí SC","Vasco da Gama","Campeonato Brasileiro da Série A",1,2,0.366664218708328,0.317696033147933,0.315639748143739
+"Ponte Preta","Santos FC","Campeonato Brasileiro da Série A",1,1,0.345781144702902,0.304719633769433,0.349499221527665
+"EC Flamengo","Fluminense FC","Campeonato Brasileiro da Série A",1,1,0.562121642104327,0.248838361975955,0.189039995919718
+"EC Vitória","Sport Recife","Campeonato Brasileiro da Série A",1,2,0.471590379174914,0.265992393703562,0.262417227121525
+"Palmeiras","Bahia","Campeonato Brasileiro da Série A",2,2,0.621999036940222,0.23560569581069,0.142395267249089
+"FC St. Pauli","1. FC Kaiserslautern","Germany – 2. Bundesliga",1,1,0.508553360205732,0.282642340866901,0.208804298927368
+"MSV Duisburg","Eintracht Braunschweig","Germany – 2. Bundesliga",0,0,0.4186364191658,0.271705531102037,0.309658049732163
+"Bristol City","Burton Albion FC","England – Championship",0,0,0.693371619634371,0.195046000319912,0.111582380045717
+"Birmingham City","Cardiff City FC","England – Championship",1,0,0.281273255835267,0.288762780398928,0.429963963765805
+"Olympique Lyonnais","AS Monaco FC","France – Ligue 1",3,2,0.432084508985798,0.261799193112038,0.306116297902164
+"Stade Brestois","AJ Auxerre","France – Ligue 2",1,1,0.455726356795538,0.302874038367221,0.241399604837241
+"Gazélec Ajaccio","AS Nancy","France – Ligue 2",2,1,0.373946737191709,0.321052955286303,0.305000307521988
+"Nîmes Olympique","US Orleans","France – Ligue 2",4,1,0.58035324953297,0.241374103580931,0.178272646886099
+"Sochaux FC","Paris FC","France – Ligue 2",1,0,0.411347517730496,0.308510638297872,0.280141843971631
+"FC Bourg-en-Bresse Péronnas","RC Lens","France – Ligue 2",0,6,0.294415155959642,0.280032806386901,0.425552037653457
+"FC Valenciennes","RC Tours","France – Ligue 2",2,0,0.398398807429352,0.299410146687703,0.302191045882945
+"Quevilly Rouen","Ajaccio AC","France – Ligue 2",0,1,0.290271956802267,0.291138440255408,0.418589602942325
+"Arminia Bielefeld","Fortuna Düsseldorf","Germany – 2. Bundesliga",0,2,0.383955223880597,0.284328358208955,0.331716417910448
+"VfL Bochum","SV Sandhausen","Germany – 2. Bundesliga",2,0,0.425662373352147,0.283362452028028,0.290975174619826
+"Dynamo Dresden","FC Ingolstadt 04","Germany – 2. Bundesliga",2,2,0.300903026388977,0.284234928717284,0.414862044893739
+"Roda JC Kerkrade","NAC Breda","Netherlands – Eredivisie",1,0,0.346064656936298,0.275678625017051,0.378256718046651
+"Ajax Amsterdam","Sparta Rotterdam","Netherlands – Eredivisie",4,0,0.859205265958993,0.095183292071338,0.0456114419696688
+"Feyenoord Rotterdam","PEC Zwolle","Netherlands – Eredivisie",0,0,0.712503970319218,0.175120388605557,0.112375641075225
+"FC Utrecht","SC Heerenveen","Netherlands – Eredivisie",3,1,0.490037109737354,0.252648281581101,0.257314608681544
+"Peterborough United FC","Gillingham FC","England – League One",0,1,0.659841233874144,0.201978207640752,0.138180558485104
+"Oldham Athletic AFC","Blackburn Rovers FC","England – League One",1,0,0.207916350022556,0.264262244337612,0.527821405639831
+"Northampton Town","AFC Wimbledon","England – League One",0,1,0.326327547492061,0.289530969436576,0.384141483071363
+"Fleetwood Town FC","Rochdale AFC","England – League One",2,2,0.381424028631022,0.283027685013164,0.335548286355813
+"Charlton Athletic","Doncaster Rovers FC","England – League One",1,0,0.407476136043111,0.259007437538041,0.333516426418848
+"Bury FC","Bradford City AFC","England – League One",3,1,0.283261371623657,0.267697559995984,0.44904106838036
+"Bristol Rovers","Oxford United","England – League One",0,1,0.46447689829011,0.240839873187464,0.294683228522426
+"Plymouth Argyle","Shrewsbury Town FC","England – League One",1,1,0.269332988550331,0.283425993765174,0.447241017684495
+"Portsmouth","Milton Keynes Dons","England – League One",2,0,0.515131708398262,0.260714099934185,0.224154191667552
+"Rotherham United","Scunthorpe United FC","England – League One",2,0,0.487995710958835,0.26739491011443,0.244609378926734
+"Walsall FC","Blackpool FC","England – League One",1,1,0.364557884034659,0.277561116253661,0.35788099971168
+"Wigan Athletic FC","Southend United FC","England – League One",3,0,0.640620537135116,0.216894213270877,0.142485249594007
+"Chesterfield FC","Morecambe FC","League Two",0,2,0.4353978834674,0.260773063894913,0.303829052637687
+"Accrington Stanley","Coventry City FC","League Two",1,0,0.292132508233765,0.283640284157202,0.424227207609033
+"Lincoln City","Cambridge United","League Two",0,0,0.499523828727242,0.27472135449788,0.225754816774878
+"Luton Town","Stevenage FC","League Two",7,1,0.591109988601672,0.236637777557724,0.172252233840605
+"Yeovil Town","Crewe Alexandra FC","League Two",2,0,0.358724750547578,0.277196398150402,0.36407885130202
+"Wycombe Wanderers","Exeter City","League Two",0,0,0.433446209950508,0.253972388642876,0.312581401406616
+"Port Vale FC","Cheltenham Town","League Two",3,1,0.338729679150414,0.26948659556718,0.391783725282406
+"Notts County","Barnet FC","League Two",2,1,0.475937205112808,0.256755597495067,0.267307197392125
+"Mansfield Town","Swindon Town FC","League Two",1,3,0.49277162056891,0.259542833111493,0.247685546319597
+"Grimsby Town","Crawley Town","League Two",0,0,0.413239043453987,0.273177630966781,0.313583325579231
+"Forest Green Rovers","Newport County","League Two",0,4,0.269598701294088,0.276472322573541,0.453928976132371
+"Colchester United FC","Carlisle United","League Two",0,1,0.401249222980311,0.269346854100043,0.329403922919647
+"Brentford FC","Millwall FC","England – Championship",1,0,0.515140590390753,0.264251367505903,0.220608042103344
+"Sunderland AFC","Queens Park Rangers","England – Championship",1,1,0.443245077581788,0.285128412479512,0.2716265099387
+"Sheffield United FC","Ipswich Town","England – Championship",1,0,0.541779921087242,0.263568610258658,0.194651468654099
+"Norwich City FC","Hull City FC","England – Championship",1,1,0.499589719901683,0.255337553178372,0.245072726919945
+"Leeds United","Reading","England – Championship",0,1,0.506600741281986,0.275614548510811,0.217784710207203
+"Barnsley FC","Middlesbrough FC","England – Championship",2,2,0.241045651836748,0.266004057204041,0.492950290959211
+"Fulham FC","Preston North End","England – Championship",2,2,0.492453975350279,0.267926370988893,0.239619653660828
+"Bolton Wanderers FC","Sheffield Wednesday","England – Championship",2,1,0.23445542689122,0.282705674164485,0.482838898944295
+"Wolverhampton Wanderers FC","Aston Villa FC","England – Championship",2,0,0.473479275444635,0.286872737475279,0.239647987080086
+"Liverpool FC","Manchester United FC","England – Premiere League",0,0,0.345532977636508,0.286933817686457,0.367533204677035
+"Tottenham Hotspur FC","AFC Bournemouth","England – Premiere League",1,0,0.786125764913002,0.14206244812348,0.0718117869635176
+"Burnley FC","West Ham United FC","England – Premiere League",1,1,0.341900817960916,0.294671275539888,0.363427906499196
+"Crystal Palace FC","Chelsea FC","England – Premiere League",2,1,0.126587670426433,0.214865914276446,0.658546415297121
+"Manchester City FC","Stoke City FC","England – Premiere League",7,2,0.850616998944618,0.0996223805277939,0.0497606205275884
+"Swansea City FC","Huddersfield Town","England – Premiere League",2,0,0.48015845437487,0.297727430676211,0.222114114948919
+"Watford FC","Arsenal FC","England – Premiere League",2,1,0.18696518171064,0.229975951212148,0.583058867077212
+"Dijon FCO","Paris Saint-Germain","France – Ligue 1",1,2,0.0496871724258699,0.122933458133111,0.827379369441019
+"AS Saint-Étienne","FC Metz","France – Ligue 1",3,1,0.638043863467302,0.23064614875111,0.131309987781588
+"SM Caen","Angers SCO","France – Ligue 1",0,2,0.391661402400505,0.314592545799116,0.293746051800379
+"EA Guingamp","Stade Rennais FC","France – Ligue 1",2,0,0.443305369854311,0.283509248162641,0.273185381983049
+"OSC Lille","ES Troyes AC","France – Ligue 1",2,2,0.589432648439719,0.246755125432694,0.163812226127587
+"Toulouse FC","Amiens SC","France – Ligue 1",1,0,0.525788051208189,0.299134830664823,0.175077118126988
+"Clermont Foot Auvergne","Le Havre AC","France – Ligue 2",3,0,0.387163276525564,0.301126992853216,0.31170973062122
+"Juventus Turin","SS Lazio","Italy – Serie A",1,2,0.564328243051481,0.247605206769006,0.188066550179513
+"AS Roma","SSC Napoli","Italy – Serie A",0,1,0.317030061732267,0.271363681648949,0.411606256618784
+"Ascoli","Venezia","Italy – Serie B",3,3,0.371053270023914,0.306877389988332,0.322069339987754
+"Brescia Calcio","Novara Calcio","Italy – Serie B",0,1,0.39325373157009,0.315621117894441,0.291125150535469
+"Carpi FC","AC Cesena","Italy – Serie B",2,1,0.471089903040763,0.304736281029494,0.224173815929743
+"AS Cittadella","Cremonese","Italy – Serie B",1,2,0.440943060755432,0.297098830569971,0.261958108674598
+"Frosinone Calcio","US Cittá di Palermo","Italy – Serie B",0,0,0.471068775239681,0.292826535959802,0.236104688800518
+"Parma FC","Pescara Calcio","Italy – Serie B",0,1,0.482651213820605,0.262791226931974,0.254557559247421
+"Pro Vercelli","AS Bari","Italy – Serie B",2,2,0.321418052735192,0.341647160949295,0.336934786315512
+"Ternana Calcio","Spezia Calcio","Italy – Serie B",4,2,0.357253400667916,0.318726073144905,0.324020526187179
+"Atlético Goianiense","Palmeiras","Campeonato Brasileiro da Série A",1,3,0.265291386568274,0.294946314976208,0.439762298455518
+"Chapecoense","EC Flamengo","Campeonato Brasileiro da Série A",0,1,0.26932101374295,0.295436990833175,0.435241995423875
+"Fluminense FC","Avaí SC","Campeonato Brasileiro da Série A",1,0,0.545709090843823,0.270944802321846,0.183346106834332
+"Sport Recife","Atlético Mineiro","Campeonato Brasileiro da Série A",1,1,0.424627151615185,0.28980488092431,0.285567967460505
+"SpVgg Greuther Fürth","Erzgebirge Aue","Germany – 2. Bundesliga",2,1,0.449613841077321,0.28951395701418,0.260872201908499
+"1. FC Heidenheim 1846","Holstein Kiel","Germany – 2. Bundesliga",3,5,0.280638970259311,0.277449891051819,0.44191113868887
+"Jahn Regensburg","1. FC Union Berlin","Germany – 2. Bundesliga",0,2,0.285293175264338,0.262992630567126,0.451714194168536
+"Heracles Almelo","Vitesse Arnhem","Netherlands – Eredivisie",1,1,0.267621657961421,0.260485080415783,0.471893261622796
+"Willem II Tilburg","FC Twente Enschede","Netherlands – Eredivisie",3,1,0.376777441555312,0.29129957421739,0.331922984227298
+"VVV Venlo","PSV Eindhoven","Netherlands – Eredivisie",2,5,0.146290772894891,0.209840743055683,0.643868484049426
+"FC Groningen","AZ Alkmaar","Netherlands – Eredivisie",1,1,0.288494306080141,0.257965808082242,0.453539885837617
+"ADO Den Haag","Excelsior","Netherlands – Eredivisie",1,2,0.453621346886912,0.273189326556544,0.273189326556544
+"Derby County","Nottingham Forest","England – Championship",2,0,0.521552693849561,0.259328929643052,0.219118376507388
+"Brighton & Hove Albion","Everton FC","England – Premiere League",1,1,0.307173964774182,0.302433625811618,0.3903924094142
+"Southampton FC","Newcastle United FC","England – Premiere League",2,2,0.53236715554285,0.267687025448602,0.199945819008548
+"ACF Fiorentina","Udinese Calcio","Italy – Serie A",2,1,0.600403729528424,0.233987133649034,0.165609136822542
+"FC Crotone","Torino FC","Italy – Serie A",2,2,0.282308657465496,0.282308657465496,0.435382685069009
+"Bologna FC","SPAL Ferrara","Italy – Serie A",2,1,0.543174082944662,0.28034791377789,0.176478003277449
+"Cagliari Calcio","Genoa CFC","Italy – Serie A",2,3,0.413728586060649,0.292697537004101,0.293573876935251
+"UC Sampdoria","Atalanta BC","Italy – Serie A",3,1,0.29634030418251,0.283418488593156,0.420241207224335
+"US Sassuolo Calcio","AC Chievo Verona","Italy – Serie A",0,0,0.429991714995858,0.286661143330572,0.283347141673571
+"FC Internazionale Milano","AC Milan","Italy – Serie A",3,2,0.445812282075002,0.273962854906426,0.280224863018573
+"SV Darmstadt 98","1. FC Nürnberg","Germany – 2. Bundesliga",3,4,0.394750963461632,0.267866725206108,0.33738231133226
+"Leicester City FC","West Bromwich Albion FC","England – Premiere League",1,1,0.490354535974974,0.286757038581856,0.22288842544317
+"FC Lorient","Chamois Niortais FC","France – Ligue 2",0,0,0.640257660077313,0.216290708353163,0.143451631569524
+"Hellas Verona FC","Benevento Calcio","Italy – Serie A",1,0,0.504532041449362,0.271608217578447,0.22385974097219
+"Virtus Entella","Empoli FC","Italy – Serie B",2,3,0.27014550085943,0.296421051094997,0.433433448045573
+"Santos FC","EC Vitória","Campeonato Brasileiro da Série A",2,2,0.590345922134267,0.247764703062224,0.161889374803509
+"Milton Keynes Dons","Walsall FC","England – League One",1,1,0.423975014363794,0.269376390341637,0.306648595294568
+"Gillingham FC","Wigan Athletic FC","England – League One",1,1,0.122719009634779,0.215367798365672,0.66191319199955
+"Doncaster Rovers FC","Portsmouth","England – League One",2,1,0.388900567584612,0.280008408660921,0.331091023754467
+"Bradford City AFC","Oldham Athletic AFC","England – League One",1,1,0.541622556067454,0.251679204028384,0.206698239904162
+"Blackpool FC","Bury FC","England – League One",2,1,0.519041679308679,0.260519090374466,0.220439230316856
+"Blackburn Rovers FC","Plymouth Argyle","England – League One",1,1,0.666935262015728,0.208929676022058,0.124135061962215
+"AFC Wimbledon","Rotherham United","England – League One",3,1,0.301861827094039,0.290182649260043,0.407955523645918
+"Oxford United","Charlton Athletic","England – League One",1,1,0.360073900838374,0.270304784285871,0.369621314875755
+"Rochdale AFC","Northampton Town","England – League One",2,2,0.567592046369133,0.248962155120802,0.183445798510065
+"Scunthorpe United FC","Fleetwood Town FC","England – League One",1,1,0.480114906706053,0.283323622271304,0.236561471022643
+"Shrewsbury Town FC","Bristol Rovers","England – League One",4,0,0.375056511648935,0.266433587510172,0.358509900840893
+"Southend United FC","Peterborough United FC","England – League One",1,1,0.37543263600205,0.261695671207864,0.362871692790086
+"Cambridge United","Yeovil Town","League Two",2,1,0.561722901654715,0.24677327771875,0.191503820626535
+"Carlisle United","Wycombe Wanderers","League Two",3,3,0.341045971878764,0.26723054234884,0.391723485772396
+"Cheltenham Town","Grimsby Town","League Two",2,3,0.48250180078555,0.266298808083828,0.251199391130621
+"Coventry City FC","Forest Green Rovers","League Two",0,1,0.649471230423087,0.221278612901814,0.129250156675099
+"Crawley Town","Chesterfield FC","League Two",0,2,0.452197847548437,0.276987285535368,0.270814866916195
+"Newport County","Colchester United FC","League Two",1,2,0.469048677483885,0.265836852633919,0.265114469882196
+"Crewe Alexandra FC","Notts County","League Two",2,0,0.288762780398928,0.281273255835267,0.429963963765805
+"Exeter City","Luton Town","League Two",1,4,0.311915006958955,0.282983759936675,0.405101233104369
+"Morecambe FC","Port Vale FC","League Two",0,3,0.33054377532749,0.274677221751013,0.394779002921497
+"Stevenage FC","Accrington Stanley","League Two",3,2,0.369364289578555,0.278606206996396,0.352029503425049
+"Swindon Town FC","Lincoln City","League Two",0,1,0.352076696982288,0.291991751688903,0.355931551328809
+"Barnet FC","Mansfield Town","League Two",1,1,0.306668760938832,0.281851635776152,0.411479603285015
+"Manchester City FC","SSC Napoli","Europe – Champions-League",2,1,0.623308311873322,0.206642297486635,0.170049390640043
+"Feyenoord Rotterdam","Shakhtar Donetsk","Europe – Champions-League",1,2,0.280921867808971,0.269345417212447,0.449732714978582
+"Spartak Moskva","Sevilla FC","Europe – Champions-League",5,1,0.216206398326477,0.255721928046721,0.528071673626802
+"NK Maribor","Liverpool FC","Europe – Champions-League",0,7,0.04559904234051,0.118833867917693,0.835567089741797
+"APOEL Nicosia","Borussia Dortmund","Europe – Champions-League",1,1,0.0725410710475784,0.144015361638575,0.783443567313847
+"Real Madrid CF","Tottenham Hotspur FC","Europe – Champions-League",1,1,0.666066919047771,0.191454966412611,0.142478114539618
+"AS Monaco FC","Besiktas JK","Europe – Champions-League",1,2,0.586868074792244,0.233509349030471,0.179622576177285
+"Red Bull Leipzig","FC Porto","Europe – Champions-League",3,2,0.478584415891082,0.271772313733163,0.249643270375755
+"Qarabag Agdam FK","Club Atlético de Madrid","Europe – Champions-League",0,0,0.0676077737394817,0.154623457290613,0.777768768969905
+"CSKA Moscow","FC Basel","Europe – Champions-League",0,2,0.478554270447647,0.275571981577999,0.245873747974355
+"RSC Anderlecht","Paris Saint-Germain","Europe – Champions-League",0,4,0.0522868053617138,0.105416946293778,0.842296248344508
+"FC Bayern München","Celtic FC","Europe – Champions-League",3,0,0.891291948457088,0.0754170110232921,0.0332910405196196
+"Chelsea FC","AS Roma","Europe – Champions-League",3,3,0.607661437592456,0.220328059677143,0.172010502730401
+"Juventus Turin","Sporting CP","Europe – Champions-League",2,1,0.677037251524419,0.202194103131975,0.120768645343606
+"FC Barcelona","Olympiacos F.C.","Europe – Champions-League",3,1,0.903517399754215,0.0614678681884412,0.0350147320573442
+"SL Benfica","Manchester United FC","Europe – Champions-League",0,1,0.200301414397423,0.265440085746178,0.534258499856399
+"Atlético Mineiro","Chapecoense","Campeonato Brasileiro da Série A",2,3,0.611793844822192,0.239205109728565,0.149001045449243
+"Avaí SC","Botafogo","Campeonato Brasileiro da Série A",1,1,0.297005869425284,0.318289677657715,0.384704452917002
+"Fluminense FC","Sao Paulo","Campeonato Brasileiro da Série A",3,1,0.360308661104033,0.287187197527038,0.352504141368928
+"Corinthians","Grémio","Campeonato Brasileiro da Série A",0,0,0.47318958178142,0.314442109183782,0.212368309034798
+"Palmeiras","Ponte Preta","Campeonato Brasileiro da Série A",2,0,0.645157241158459,0.232382644861716,0.122460113979825
+"EC Vitória","Atlético PR","Campeonato Brasileiro da Série A",2,3,0.440835351045641,0.282390181394454,0.276774467559905
+"Sport Recife","Santos FC","Campeonato Brasileiro da Série A",1,1,0.466653473184247,0.285177122501484,0.248169404314269
+"EC Flamengo","Bahia","Campeonato Brasileiro da Série A",4,1,0.653873306206748,0.229102906844105,0.117023786949147
+"Fortuna Düsseldorf","SV Darmstadt 98","Germany – 2. Bundesliga",1,0,0.483433551787041,0.266813053172083,0.249753395040876
+"FC Ingolstadt 04","1. FC Heidenheim 1846","Germany – 2. Bundesliga",3,0,0.616023733591887,0.226513116244558,0.157463150163555
+"FC Groningen","Willem II Tilburg","Netherlands – Eredivisie",0,1,0.499896765173411,0.25549448232498,0.244608752501609
+"West Ham United FC","Brighton & Hove Albion","England – Premiere League",0,3,0.53271740385838,0.283346557159822,0.183936038981798
+"AJ Auxerre","Quevilly Rouen","France – Ligue 2",2,1,0.580490292927628,0.253345882769015,0.166163824303357
+"Le Havre AC","LB Châteauroux","France – Ligue 2",1,1,0.577650409524315,0.248987245484619,0.173362344991067
+"Paris FC","FC Valenciennes","France – Ligue 2",3,2,0.502262389381853,0.292243961735006,0.205493648883141
+"AS Nancy","Clermont Foot Auvergne","France – Ligue 2",2,2,0.436860606930196,0.318365736422986,0.244773656646818
+"Nîmes Olympique","Stade Brestois","France – Ligue 2",4,0,0.482384401868526,0.277611536118069,0.240004062013405
+"Chamois Niortais FC","FC Bourg-en-Bresse Péronnas","France – Ligue 2",2,0,0.540094445848881,0.252760228710825,0.207145325440294
+"RC Tours","Sochaux FC","France – Ligue 2",0,1,0.40630741889816,0.296394469712943,0.297298111388897
+"US Orleans","FC Lorient","France – Ligue 2",1,2,0.276371424066067,0.293852749082295,0.429775826851638
+"GD Estoril Praia","Boavista Porto FC","Portugal – Primeira Liga",0,3,0.385493840105849,0.325099805155932,0.289406354738219
+"Eintracht Braunschweig","VfL Bochum","Germany – 2. Bundesliga",1,0,0.399612633863638,0.278587093322079,0.321800272814283
+"Holstein Kiel","Arminia Bielefeld","Germany – 2. Bundesliga",2,1,0.642395019497543,0.199029016297748,0.15857596420471
+"1. FC Union Berlin","SpVgg Greuther Fürth","Germany – 2. Bundesliga",3,1,0.599132239418694,0.234039560818427,0.166828199762879
+"NAC Breda","PEC Zwolle","Netherlands – Eredivisie",0,2,0.33515228186779,0.274730462038103,0.390117256094107
+"VVV Venlo","ADO Den Haag","Netherlands – Eredivisie",0,2,0.506283662477558,0.259325753042091,0.234390584480351
+"Excelsior","Sparta Rotterdam","Netherlands – Eredivisie",1,1,0.475606113150278,0.273107151808983,0.251286735040739
+"FC Twente Enschede","Roda JC Kerkrade","Netherlands – Eredivisie",3,0,0.635695527892054,0.230103693503455,0.134200778604491
+"Milton Keynes Dons","Oldham Athletic AFC","England – League One",4,4,0.435749803716305,0.271133211201256,0.293116985082439
+"Gillingham FC","Northampton Town","England – League One",1,2,0.384394921316707,0.276590113355364,0.339014965327929
+"Doncaster Rovers FC","Walsall FC","England – League One",0,3,0.513731906780973,0.266817880989478,0.219450212229548
+"Bradford City AFC","Charlton Athletic","England – League One",0,1,0.40704845814978,0.25374449339207,0.33920704845815
+"Blackpool FC","Wigan Athletic FC","England – League One",1,3,0.229924443991062,0.257224180084988,0.51285137592395
+"Blackburn Rovers FC","Portsmouth","England – League One",3,0,0.478671532399031,0.2690054892821,0.252322978318869
+"AFC Wimbledon","Plymouth Argyle","England – League One",0,1,0.543595936042638,0.261399807535717,0.195004256421645
+"Oxford United","Rotherham United","England – League One",3,3,0.370959639507247,0.262264476318295,0.366775884174458
+"Rochdale AFC","Bristol Rovers","England – League One",1,0,0.404758124956159,0.255357874645116,0.339884000398726
+"Scunthorpe United FC","Peterborough United FC","England – League One",2,1,0.427607448765251,0.250628530381689,0.32176402085306
+"Shrewsbury Town FC","Fleetwood Town FC","England – League One",1,0,0.471198479703418,0.268699959500296,0.260101560796286
+"Southend United FC","Bury FC","England – League One",1,0,0.478196640586529,0.256716091262242,0.265087268151228
+"Barnet FC","Yeovil Town","League Two",1,1,0.502115477254338,0.261611078745494,0.236273444000168
+"Crawley Town","Luton Town","League Two",0,0,0.194299436082099,0.250741174584097,0.554959389333803
+"Crewe Alexandra FC","Accrington Stanley","League Two",0,2,0.302090150299246,0.268063512490814,0.42984633720994
+"Exeter City","Port Vale FC","League Two",0,1,0.466786630422298,0.256058807764463,0.277154561813239
+"Morecambe FC","Grimsby Town","League Two",0,0,0.309572983533352,0.275467485347474,0.414959531119174
+"Newport County","Mansfield Town","League Two",1,1,0.395168885573714,0.277291803229282,0.327539311197004
+"Stevenage FC","Forest Green Rovers","League Two",1,2,0.517923081381524,0.255565992527138,0.226510926091338
+"Swindon Town FC","Wycombe Wanderers","League Two",1,0,0.313946729069473,0.275811956894367,0.41024131403616
+"Coventry City FC","Colchester United FC","League Two",0,0,0.533798319081406,0.251926086482138,0.214275594436456
+"Cheltenham Town","Lincoln City","League Two",1,0,0.349820413625491,0.293975588558771,0.356203997815737
+"Carlisle United","Notts County","League Two",1,1,0.390400896602905,0.28208157268996,0.327517530707135
+"Cambridge United","Chesterfield FC","League Two",2,1,0.535341862775851,0.244760469429605,0.219897667794544
+"Barnsley FC","Hull City FC","England – Championship",0,1,0.350089463556261,0.266871476317477,0.383039060126262
+"Aston Villa FC","Fulham FC","England – Championship",2,1,0.4044338965173,0.284164924375129,0.31140117910757
+"Bolton Wanderers FC","Queens Park Rangers","England – Championship",1,1,0.328230549040329,0.283385096119122,0.388384354840549
+"Brentford FC","Sunderland AFC","England – Championship",3,3,0.519457640437681,0.245005587264532,0.235536772297787
+"Bristol City","Leeds United","England – Championship",0,3,0.49064993712582,0.268253284088483,0.241096778785698
+"Derby County","Sheffield Wednesday","England – Championship",2,0,0.435371022930392,0.285991522394158,0.278637454675451
+"Middlesbrough FC","Cardiff City FC","England – Championship",0,1,0.455653494903817,0.291074172863931,0.253272332232252
+"Nottingham Forest","Burton Albion FC","England – Championship",2,0,0.549316506953553,0.250036732443577,0.20064676060287
+"Sheffield United FC","Reading","England – Championship",2,1,0.475647894577091,0.285946681490626,0.238405423932283
+"Wolverhampton Wanderers FC","Preston North End","England – Championship",3,2,0.552884602105275,0.276969862695868,0.170145535198858
+"Millwall FC","Birmingham City","England – Championship",2,0,0.443277235085591,0.284317760113207,0.272405004801201
+"Chelsea FC","Watford FC","England – Premiere League",4,2,0.707261579575644,0.188889315707855,0.103849104716501
+"Huddersfield Town","Manchester United FC","England – Premiere League",2,1,0.11291729501168,0.208536621425826,0.678546083562494
+"Manchester City FC","Burnley FC","England – Premiere League",3,0,0.877036219893363,0.0803456517742232,0.042618128332414
+"Newcastle United FC","Crystal Palace FC","England – Premiere League",1,0,0.501815119519629,0.27139453766396,0.226790342816411
+"Stoke City FC","AFC Bournemouth","England – Premiere League",1,2,0.447905032389827,0.281871270383253,0.27022369722692
+"Swansea City FC","Leicester City FC","England – Premiere League",1,2,0.344236065873533,0.296396612610142,0.359367321516325
+"Southampton FC","West Bromwich Albion FC","England – Premiere League",1,0,0.537069506609329,0.286821228941718,0.176109264448954
+"AS Monaco FC","SM Caen","France – Ligue 1",2,0,0.71891796205553,0.182028801693165,0.0990532362513058
+"Amiens SC","FC Girondins de Bordeaux","France – Ligue 1",1,0,0.175672582024768,0.253901778707672,0.57042563926756
+"Angers SCO","Toulouse FC","France – Ligue 1",0,1,0.490008127742022,0.289366376813898,0.22062549544408
+"FC Metz","Dijon FCO","France – Ligue 1",1,2,0.348465320171952,0.299295367018855,0.352239312809193
+"FC Nantes","EA Guingamp","France – Ligue 1",2,1,0.455762879558535,0.308649545017489,0.235587575423977
+"Stade Rennais FC","OSC Lille","France – Ligue 1",1,0,0.431468337422596,0.302831814464307,0.265699848113097
+"RC Lens","Stade de Reims","France – Ligue 2",0,1,0.362147014442768,0.289933175253287,0.347919810303945
+"Feirense","FC Rio Ave","Portugal – Primeira Liga",1,0,0.27307961916913,0.308510835580315,0.418409545250555
+"Vitoria Setubal","Maritimo Funchal","Portugal – Primeira Liga",3,1,0.40480892829705,0.318820103658788,0.276370968044162
+"UC Sampdoria","FC Crotone","Italy – Serie A",5,0,0.623525740578156,0.227337857022198,0.149136402399646
+"SSC Napoli","FC Internazionale Milano","Italy – Serie A",0,0,0.642088325945801,0.208516925559107,0.149394748495092
+"AC Cesena","Foggia","Italy – Serie B",3,3,0.408349475353192,0.278844356026894,0.312806168619913
+"US Cittá di Palermo","Novara Calcio","Italy – Serie B",0,2,0.557265554698547,0.278932060676179,0.163802384625273
+"Parma FC","Virtus Entella","Italy – Serie B",3,1,0.551117548273094,0.280187966628673,0.168694485098232
+"Pescara Calcio","AS Avellino 1912","Italy – Serie B",2,1,0.529965823030697,0.235583394721964,0.234450782247339
+"Pro Vercelli","Carpi FC","Italy – Serie B",0,0,0.385404789053592,0.326111744583808,0.2884834663626
+"Salernitana Calcio","Frosinone Calcio","Italy – Serie B",1,1,0.317806430428657,0.296554936600601,0.385638632970742
+"Ternana Calcio","Ascoli","Italy – Serie B",1,1,0.460370141193677,0.277268380491647,0.262361478314676
+"Venezia","Empoli FC","Italy – Serie B",1,0,0.300906917965667,0.307551550223584,0.391541531810748
+"Spezia Calcio","Perugia","Italy – Serie B",4,2,0.374961474449855,0.316525919990137,0.308512605560007
+"Atlético PR","Sport Recife","Campeonato Brasileiro da Série A",2,1,0.521517325563988,0.272349344173567,0.206133330262446
+"Bahia","EC Vitória","Campeonato Brasileiro da Série A",2,1,0.496888209276409,0.280076245281795,0.223035545441796
+"Cruzeiro","Atlético Mineiro","Campeonato Brasileiro da Série A",1,3,0.484709017138013,0.2799612426573,0.235329740204687
+"Grémio","Palmeiras","Campeonato Brasileiro da Série A",1,3,0.316681918501373,0.306723367605103,0.376594713893524
+"Sao Paulo","EC Flamengo","Campeonato Brasileiro da Série A",2,0,0.415344506517691,0.28707635009311,0.297579143389199
+"1. FC Kaiserslautern","MSV Duisburg","Germany – 2. Bundesliga",0,1,0.379783493070399,0.30124801765152,0.31896848927808
+"1. FC Nürnberg","Dynamo Dresden","Germany – 2. Bundesliga",2,1,0.48253872262067,0.265593520352521,0.251867757026809
+"Erzgebirge Aue","Jahn Regensburg","Germany – 2. Bundesliga",1,0,0.443724066390041,0.280515214384509,0.275760719225449
+"PSV Eindhoven","Heracles Almelo","Netherlands – Eredivisie",3,0,0.839010022720273,0.103463054742864,0.0575269225368634
+"Feyenoord Rotterdam","Ajax Amsterdam","Netherlands – Eredivisie",1,4,0.326005420544542,0.276134902954159,0.397859676501299
+"AZ Alkmaar","FC Utrecht","Netherlands – Eredivisie",3,0,0.447959938542082,0.254310590109828,0.297729471348091
+"SC Heerenveen","Vitesse Arnhem","Netherlands – Eredivisie",0,4,0.464969085243868,0.257634585491325,0.277396329264807
+"Ipswich Town","Norwich City FC","England – Championship",0,1,0.309471972300186,0.280932770243685,0.409595257456129
+"Everton FC","Arsenal FC","England – Premiere League",2,5,0.244178310046574,0.267465069860279,0.488356620093147
+"Tottenham Hotspur FC","Liverpool FC","England – Premiere League",4,1,0.441496442834853,0.268526603587226,0.289976953577921
+"OGC Nice","RC Strasbourg Alsace","France – Ligue 1",1,2,0.578843034781042,0.243827716705713,0.177329248513246
+"ES Troyes AC","Olympique Lyonnais","France – Ligue 1",0,5,0.157807813893167,0.232202926157088,0.609989259949745
+"Olympique de Marseille","Paris Saint-Germain","France – Ligue 1",2,2,0.123806798970011,0.179337789684501,0.696855411345489
+"CD Tondela","C.F. Os Belenenses","Portugal – Primeira Liga",2,0,0.393266977140596,0.301951115575442,0.304781907283962
+"Desportivo Aves","SL Benfica","Portugal – Primeira Liga",1,3,0.106929912169103,0.185047589939699,0.708022497891198
+"Sporting CP","G.D. Chaves","Portugal – Primeira Liga",5,1,0.788296986207735,0.147140411150006,0.0645626026422592
+"AC Chievo Verona","Hellas Verona FC","Italy – Serie A",3,2,0.521972219965884,0.272178496765836,0.20584928326828
+"Benevento Calcio","ACF Fiorentina","Italy – Serie A",0,3,0.154403797594356,0.229616888694183,0.615979313711461
+"AC Milan","Genoa CFC","Italy – Serie A",0,0,0.63480701460992,0.220678114166198,0.144514871223882
+"SPAL Ferrara","US Sassuolo Calcio","Italy – Serie A",0,1,0.366065851020066,0.299102585589566,0.334831563390368
+"Torino FC","AS Roma","Italy – Serie A",0,1,0.279519369094315,0.255498173312772,0.464982457592913
+"Atalanta BC","Bologna FC","Italy – Serie A",1,0,0.592614151178302,0.239010649207892,0.168375199613807
+"Udinese Calcio","Juventus Turin","Italy – Serie A",2,6,0.104372785678415,0.210765689789315,0.68486152453227
+"SS Lazio","Cagliari Calcio","Italy – Serie A",3,0,0.77628695697079,0.146136065317272,0.0775769777119378
+"Ponte Preta","Avaí SC","Campeonato Brasileiro da Série A",1,2,0.564229664330597,0.278084368844701,0.157685966824701
+"Chapecoense","Fluminense FC","Campeonato Brasileiro da Série A",2,0,0.476121913522329,0.280474115724361,0.24340397075331
+"SV Sandhausen","FC St. Pauli","Germany – 2. Bundesliga",1,1,0.411524201046229,0.310609030725975,0.277866768227796
+"Ajaccio AC","Gazélec Ajaccio","France – Ligue 2",2,0,0.433216264959075,0.298998955876662,0.267784779164263
+"Moreirense FC","Sporting Braga","Portugal – Primeira Liga",0,1,0.217197460706158,0.304755187053328,0.478047352240514
+"Vitoria Guimaraes","Portimonense S.C.","Portugal – Primeira Liga",3,3,0.506503545948969,0.268729562180863,0.224766891870169
+"Brescia Calcio","AS Bari","Italy – Serie B",2,1,0.375369973169738,0.313814125479524,0.310815901350738
+"Botafogo","Corinthians","Campeonato Brasileiro da Série A",2,1,0.35716363890279,0.314534430388586,0.328301930708625
+"Oldham Athletic AFC","Bury FC","England – League One",2,1,0.445074016803815,0.270753360222321,0.284172622973864
+"FC Internazionale Milano","UC Sampdoria","Italy – Serie A",3,2,0.659750174978168,0.202387531675475,0.137862293346356
+"Ascoli","Spezia Calcio","Italy – Serie B",3,1,0.34426051980198,0.338304455445545,0.317435024752475
+"AS Avellino 1912","Pro Vercelli","Italy – Serie B",1,0,0.488035541768808,0.293114439500785,0.218850018730407
+"Carpi FC","US Cittá di Palermo","Italy – Serie B",1,3,0.339819013330739,0.32618079205994,0.334000194609322
+"AS Cittadella","Venezia","Italy – Serie B",2,1,0.475640050017265,0.303757664341244,0.220602285641492
+"Empoli FC","Pescara Calcio","Italy – Serie B",3,1,0.552198847532588,0.250136934996018,0.197664217471395
+"Frosinone Calcio","Ternana Calcio","Italy – Serie B",4,2,0.646376366415105,0.227014006239762,0.126609627345133
+"Novara Calcio","Salernitana Calcio","Italy – Serie B",2,3,0.449673128944996,0.308794522091975,0.24153234896303
+"Perugia","AC Cesena","Italy – Serie B",0,3,0.549198066677699,0.278552286310505,0.172249647011796
+"Virtus Entella","Cremonese","Italy – Serie B",1,1,0.367844977904248,0.310442417658044,0.321712604437708
+"Foggia","Parma FC","Italy – Serie B",0,3,0.40630741889816,0.297298111388897,0.296394469712943
+"Atalanta BC","Hellas Verona FC","Italy – Serie A",3,0,0.72704254038875,0.183589413362073,0.0893680462491769
+"US Sassuolo Calcio","Udinese Calcio","Italy – Serie A",0,1,0.504405855998145,0.273815764561025,0.22177837944083
+"Bologna FC","SS Lazio","Italy – Serie A",1,2,0.180323462210474,0.250884816988486,0.568791720801039
+"Cagliari Calcio","Benevento Calcio","Italy – Serie A",2,1,0.634514723391046,0.216133057364611,0.149352219244343
+"AC Chievo Verona","AC Milan","Italy – Serie A",1,4,0.2712995737401,0.285536869155032,0.443163557104868
+"ACF Fiorentina","Torino FC","Italy – Serie A",3,0,0.513340860650046,0.249367524257483,0.237291615092471
+"Genoa CFC","SSC Napoli","Italy – Serie A",2,3,0.100167408323269,0.187861863502835,0.711970728173896
+"Juventus Turin","SPAL Ferrara","Italy – Serie A",4,1,0.864694871287747,0.0963455262489571,0.038959602463296
+"AS Roma","FC Crotone","Italy – Serie A",1,0,0.830381058573566,0.11608177367628,0.0535371677501533
+"FC St. Pauli","Erzgebirge Aue","Germany – 2. Bundesliga",1,1,0.489811987781069,0.303668022405215,0.206519989813716
+"Arminia Bielefeld","FC Ingolstadt 04","Germany – 2. Bundesliga",1,3,0.248970463904874,0.272615703493605,0.478413832601522
+"FC Twente Enschede","Excelsior","Netherlands – Eredivisie",1,3,0.5089375181783,0.258162082664106,0.232900399157594
+"Leeds United","Sheffield United FC","England – Championship",1,2,0.422095466826779,0.285099569698789,0.292804963474432
+"Paris Saint-Germain","OGC Nice","France – Ligue 1",3,0,0.833546751052902,0.115148335607144,0.0513049133399533
+"FC Bourg-en-Bresse Péronnas","AJ Auxerre","France – Ligue 2",1,1,0.2995352098341,0.298619200018094,0.401845590147806
+"Stade Brestois","US Orleans","France – Ligue 2",0,1,0.524253873073592,0.268924756777562,0.206821370148845
+"Gazélec Ajaccio","Paris FC","France – Ligue 2",0,0,0.427882421951378,0.321970931369354,0.250146646679267
+"Sochaux FC","Chamois Niortais FC","France – Ligue 2",2,1,0.46693135040903,0.27489761193095,0.258171037660019
+"Quevilly Rouen","Le Havre AC","France – Ligue 2",0,2,0.25440743609605,0.273648334624322,0.471944229279628
+"SL Benfica","Feirense","Portugal – Primeira Liga",1,0,0.845847112305531,0.105403683893654,0.048749203800815
+"FC Rio Ave","Sporting CP","Portugal – Primeira Liga",0,1,0.133611417488157,0.227357423697796,0.639031158814047
+"Sao Paulo","Santos FC","Campeonato Brasileiro da Série A",2,1,0.468795697583356,0.281819378894041,0.249384923522604
+"SV Darmstadt 98","Holstein Kiel","Germany – 2. Bundesliga",1,1,0.279377876124904,0.260702884405325,0.459919239469771
+"SpVgg Greuther Fürth","SV Sandhausen","Germany – 2. Bundesliga",2,1,0.365315264823998,0.310634317541425,0.324050417634577
+"Jahn Regensburg","1. FC Kaiserslautern","Germany – 2. Bundesliga",3,1,0.458085931856383,0.28446735710032,0.257446711043297
+"Heracles Almelo","VVV Venlo","Netherlands – Eredivisie",3,0,0.40490297129552,0.260913411984547,0.334183616719933
+"Roda JC Kerkrade","Feyenoord Rotterdam","Netherlands – Eredivisie",1,1,0.106767813585399,0.171504009871801,0.7217281765428
+"Willem II Tilburg","Ajax Amsterdam","Netherlands – Eredivisie",1,3,0.0738026542712951,0.149642805132902,0.776554540595803
+"PEC Zwolle","ADO Den Haag","Netherlands – Eredivisie",2,0,0.547332470322527,0.240724929077037,0.211942600600435
+"Northampton Town","Blackpool FC","England – League One",1,0,0.333844518675979,0.27931976920741,0.386835712116611
+"Bury FC","Doncaster Rovers FC","England – League One",0,1,0.329781715605536,0.281312356827777,0.388905927566688
+"Bristol Rovers","Milton Keynes Dons","England – League One",2,0,0.49252854812398,0.263621533442088,0.243849918433932
+"Charlton Athletic","AFC Wimbledon","England – League One",1,0,0.492163502325717,0.267768335137349,0.240068162536934
+"Fleetwood Town FC","Oxford United","England – League One",2,0,0.36008828865614,0.297511970200653,0.342399741143207
+"Peterborough United FC","Shrewsbury Town FC","England – League One",1,0,0.415001523336776,0.272417201073024,0.3125812755902
+"Plymouth Argyle","Rochdale AFC","England – League One",1,1,0.276372794888398,0.274043810661811,0.449583394449791
+"Portsmouth","Bradford City AFC","England – League One",0,1,0.441790312337625,0.285484383118758,0.272725304543618
+"Rotherham United","Gillingham FC","England – League One",1,3,0.633465331027833,0.204158791522032,0.162375877450135
+"Walsall FC","Southend United FC","England – League One",0,1,0.399663946231397,0.270883341334614,0.329452712433989
+"Wigan Athletic FC","Blackburn Rovers FC","England – League One",0,0,0.508530702644121,0.269357080573322,0.222112216782557
+"Oldham Athletic AFC","Scunthorpe United FC","England – League One",2,3,0.339901647500048,0.287763341688831,0.372335010811121
+"Grimsby Town","Cambridge United","League Two",0,0,0.347169435800867,0.286083904574908,0.366746659624224
+"Forest Green Rovers","Morecambe FC","League Two",2,0,0.443017888055395,0.263416041546451,0.293566070398153
+"Colchester United FC","Crewe Alexandra FC","League Two",3,1,0.487497221979028,0.257935038084142,0.25456773993683
+"Chesterfield FC","Carlisle United","League Two",2,2,0.324963937973314,0.273846015146051,0.401190046880635
+"Accrington Stanley","Barnet FC","League Two",4,1,0.492704123806025,0.260895022042616,0.246400854151359
+"Lincoln City","Crawley Town","League Two",0,0,0.556834321110259,0.25337837480459,0.18978730408515
+"Luton Town","Coventry City FC","League Two",0,3,0.464524905818334,0.25272080368355,0.282754290498116
+"Yeovil Town","Stevenage FC","League Two",3,0,0.341059147180193,0.285213204951857,0.373727647867951
+"Wycombe Wanderers","Cheltenham Town","League Two",3,3,0.458396491511892,0.256943296557982,0.284660211930126
+"Port Vale FC","Swindon Town FC","League Two",0,3,0.369522442649135,0.311673881339846,0.318803676011019
+"Notts County","Newport County","League Two",3,0,0.420635155533193,0.277236807055968,0.302128037410839
+"Mansfield Town","Exeter City","League Two",1,1,0.437561465965546,0.270294201967637,0.292144332066817
+"Sheffield Wednesday","Barnsley FC","England – Championship",1,1,0.561024450016652,0.237615113551254,0.201360436432094
+"Fulham FC","Bolton Wanderers FC","England – Championship",1,1,0.664675190637799,0.192741318994744,0.142583490367457
+"Cardiff City FC","Millwall FC","England – Championship",0,0,0.541622016274332,0.258599371165464,0.199778612560204
+"Burton Albion FC","Ipswich Town","England – Championship",1,2,0.334974462798509,0.290111811530852,0.374913725670639
+"Norwich City FC","Derby County","England – Championship",1,2,0.439633505957339,0.28621301560859,0.274153478434071
+"Preston North End","Brentford FC","England – Championship",2,3,0.417398945518453,0.257029876977153,0.325571177504394
+"Queens Park Rangers","Wolverhampton Wanderers FC","England – Championship",2,1,0.284268283516649,0.266404429634455,0.449327286848896
+"Reading","Middlesbrough FC","England – Championship",0,2,0.293995890493745,0.305976914244274,0.400027195261981
+"Sunderland AFC","Bristol City","England – Championship",1,2,0.379932292003085,0.28220404348206,0.337863664514854
+"Hull City FC","Nottingham Forest","England – Championship",2,3,0.471400483080102,0.25678921051995,0.271810306399947
+"Manchester United FC","Tottenham Hotspur FC","England – Premiere League",1,0,0.467107290846204,0.287661381459539,0.245231327694257
+"Crystal Palace FC","West Ham United FC","England – Premiere League",2,2,0.417221544618083,0.29355408079416,0.289224374587757
+"Arsenal FC","Swansea City FC","England – Premiere League",2,1,0.793601588769696,0.133802424938647,0.0725959862916569
+"Liverpool FC","Huddersfield Town","England – Premiere League",3,0,0.778154574132492,0.150811176205498,0.0710342496620099
+"Watford FC","Stoke City FC","England – Premiere League",0,1,0.473562935881287,0.267104980183723,0.25933208393499
+"West Bromwich Albion FC","Manchester City FC","England – Premiere League",2,3,0.0789706379021145,0.143488377213066,0.777540984884819
+"AFC Bournemouth","Chelsea FC","England – Premiere League",0,1,0.167682926829268,0.228658536585366,0.603658536585366
+"FC Girondins de Bordeaux","AS Monaco FC","France – Ligue 1",0,2,0.381014461995573,0.275535882121093,0.343449655883334
+"RC Strasbourg Alsace","Angers SCO","France – Ligue 1",2,2,0.35391165513571,0.30335284725918,0.342735497605109
+"SM Caen","ES Troyes AC","France – Ligue 1",1,0,0.562482075024832,0.276375436343181,0.161142488631987
+"Dijon FCO","FC Nantes","France – Ligue 1",1,0,0.361403644374022,0.30782013874128,0.330776216884698
+"EA Guingamp","Amiens SC","France – Ligue 1",1,1,0.562083000453436,0.266497083146518,0.171419916400045
+"FC Valenciennes","Nîmes Olympique","France – Ligue 2",1,2,0.270444710139561,0.271195945445504,0.458359344414936
+"Clermont Foot Auvergne","Ajaccio AC","France – Ligue 2",1,1,0.459856477153721,0.287579861818846,0.252563661027432
+"FC Lorient","RC Tours","France – Ligue 2",2,0,0.678090556820409,0.198272092637547,0.123637350542044
+"Stade de Reims","AS Nancy","France – Ligue 2",3,0,0.508885457390604,0.287832698965214,0.203281843644182
+"Maritimo Funchal","CD Tondela","Portugal – Primeira Liga",2,0,0.462241675439083,0.301027757770514,0.236730566790404
+"C.F. Os Belenenses","Moreirense FC","Portugal – Primeira Liga",3,0,0.439562325681184,0.312765500965458,0.247672173353358
+"Boavista Porto FC","FC Porto","Portugal – Primeira Liga",0,3,0.081572672086619,0.203676233435483,0.714751094477898
+"AC Milan","Juventus Turin","Italy – Serie A",0,2,0.249193384897142,0.282227666468521,0.468578948634338
+"AS Roma","Bologna FC","Italy – Serie A",1,0,0.767110600858278,0.15558680617055,0.0773025929711724
+"AS Bari","Ascoli","Italy – Serie B",3,0,0.597191626808111,0.245015329362783,0.157793043829106
+"AC Cesena","Novara Calcio","Italy – Serie B",2,2,0.435852334261272,0.291435590670223,0.272712075068505
+"Cremonese","Perugia","Italy – Serie B",3,3,0.457969610496278,0.29381785251719,0.248212536986532
+"Pescara Calcio","Brescia Calcio","Italy – Serie B",0,3,0.571902103907256,0.242450264777444,0.1856476313153
+"US Cittá di Palermo","Virtus Entella","Italy – Serie B",2,0,0.616623425436284,0.237835467553416,0.1455411070103
+"Salernitana Calcio","Empoli FC","Italy – Serie B",2,1,0.303687635574837,0.309472161966739,0.386840202458424
+"Venezia","Frosinone Calcio","Italy – Serie B",1,1,0.299129419258945,0.302845312665888,0.398025268075167
+"Spezia Calcio","AS Cittadella","Italy – Serie B",0,0,0.406526416447526,0.320941907721731,0.272531675830743
+"EC Flamengo","Vasco da Gama","Campeonato Brasileiro da Série A",0,0,0.533789022356219,0.28015430307952,0.186056674564261
+"Atlético PR","Chapecoense","Campeonato Brasileiro da Série A",0,0,0.536145402397346,0.274047428928465,0.18980716867419
+"Hellas Verona FC","FC Internazionale Milano","Italy – Serie A",1,2,0.107713484028037,0.192951319814003,0.699335196157961
+"Club Atlético de Madrid","Qarabag Agdam FK","Europe – Champions-League",1,1,0.873911436621277,0.0989128856257187,0.0271756777530045
+"FC Basel","CSKA Moscow","Europe – Champions-League",1,2,0.534819219958524,0.267896694879042,0.197284085162434
+"Doncaster Rovers FC","Rotherham United","England – League One",1,1,0.418728948439871,0.272524706666173,0.308746344893956
+"Bradford City AFC","Plymouth Argyle","England – League One",0,1,0.615350246649789,0.219640583797077,0.165009169553134
+"Cambridge United","Accrington Stanley","League Two",0,0,0.377726202259463,0.272978599952217,0.34929519778832
+"Carlisle United","Yeovil Town","League Two",4,0,0.531192212217483,0.242855957372914,0.225951830409602
+"Crewe Alexandra FC","Lincoln City","League Two",1,4,0.270977209944751,0.283580801104972,0.445441988950276
+"Exeter City","Grimsby Town","League Two",2,0,0.491881130605971,0.257703051100753,0.250415818293276
+"Fleetwood Town FC","Doncaster Rovers FC","England – League One",0,0,0.350281630428199,0.285112954999697,0.364605414572103
+"Plymouth Argyle","Oxford United","England – League One",0,4,0.319736546665669,0.273931591946711,0.406331861387621
+"Accrington Stanley","Newport County","League Two",1,1,0.45798461886451,0.267996494005881,0.274018887129609
+"Chesterfield FC","Exeter City","League Two",1,0,0.309123935223502,0.266166658121599,0.424709406654899
+"Grimsby Town","Carlisle United","League Two",0,1,0.339918359886679,0.281955402564962,0.37812623754836
+"Forest Green Rovers","Crewe Alexandra FC","League Two",3,2,0.420429311621021,0.274759437453738,0.304811250925241
+"Yeovil Town","Swindon Town FC","League Two",1,2,0.266509734062858,0.275543962336175,0.457946303600967
+"Plymouth Argyle","Northampton Town","England – League One",2,0,0.361680257657781,0.280613993010347,0.357705749331871
+"Wigan Athletic FC","Doncaster Rovers FC","England – League One",3,0,0.591706577877257,0.246447380920935,0.161846041201808
+"Accrington Stanley","Wycombe Wanderers","League Two",1,0,0.376098371501466,0.265844876294187,0.358056752204348
+"Luton Town","Carlisle United","League Two",3,0,0.583818735173305,0.226367375789335,0.18981388903736
+"Morecambe FC","Crewe Alexandra FC","League Two",0,1,0.39950402134668,0.277717895181168,0.322778083472152
+"Crawley Town","Exeter City","League Two",3,1,0.326788850362498,0.276016571351376,0.397194578286126
+"Yeovil Town","Notts County","League Two",1,1,0.24501263089666,0.264986486676279,0.490000882427061
+"FC Basel","Manchester United FC","Europe – Champions-League",1,0,0.221382201510956,0.281009499339122,0.497608299149922
