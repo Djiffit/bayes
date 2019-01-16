@@ -1,0 +1,105 @@
+
+```{r}
+  X = seq(0, 1, by = 0.001)  
+  
+  plot(X, dbeta(X, 0.01, 0.01), type='l', col='red')  
+  lines(X, dbeta(X, 1, 1), col='green')
+  lines(X, dbeta(X, 5, 5), col='blue')
+```
+
+```{r}
+  
+  succ = 0
+  fail = 3
+  
+  beta5 = dbeta(X, 5 + succ, 5 + fail)
+  beta1 = dbeta(X, 1 + succ, 1 + fail)
+  beta0 = dbeta(X, 0.01 + succ, 0.01 + fail)
+  plot(X, beta5, type='l', col='red')  
+  lines(X, beta1, col='green')
+  lines(X, beta0, col='blue')
+
+  sum((beta5 / sum(beta5))[X < 0.5])
+  sum((beta1 / sum(beta1))[X < 0.5])
+  sum((beta0 / sum(beta0))[X < 0.5])
+  
+  
+```
+
+```{r}
+
+  succ = 8
+  fail = 17
+  
+  beta5 = dbeta(X, 5 + succ, 5 + fail)
+  beta1 = dbeta(X, 1 + succ, 1 + fail)
+  beta0 = dbeta(X, 0.01 + succ, 0.01 + fail)
+  plot(X, beta5, type='l', col='red')  
+  lines(X, beta1, col='green')
+  lines(X, beta0, col='blue')
+
+  sum((beta5 / sum(beta5))[X < 0.5])
+  sum((beta1 / sum(beta1))[X < 0.5])
+  sum((beta0 / sum(beta0))[X < 0.5])
+
+```
+
+```{r}
+  require('VGAM')
+```
+
+```{r}
+  m = 10
+
+  beta_binomial = function(y, n, alpha, beta) {
+    choose(n, y) * (beta(alpha + y, beta + n - y) / beta(alpha, beta))
+  }
+  
+  dx = seq(0, 10)
+  plot(dx, lapply(dx, function(x) beta_binomial(x, m, 0.01, 0.01)), type='b', col='red')
+  lines(dx, lapply(dx, function(x) beta_binomial(x, m, 1, 1)), type='b', col='green')
+  lines(dx, lapply(dx, function(x) beta_binomial(x, m, 5, 5)), type='b', col='blue')
+  
+```
+
+```{r}
+  
+  dx = seq(0, 10)
+  plot(dx, dbinom(dx, 10, succ/25), col='black', type='b')
+  lines(dx, lapply(dx, function(x) beta_binomial(x, m, 0.01 + succ, 0.01 + fail)), type='b', col='red')
+  lines(dx, lapply(dx, function(x) beta_binomial(x, m, 1 + succ, 1 + fail)), type='b', col='green')
+  lines(dx, lapply(dx, function(x) beta_binomial(x, m, 5 + succ, 5 + fail)), type='b', col='blue')
+
+```
+```{r}
+  P = c(0.025, 0.975)
+  succ = 0
+  fail = 3
+  
+  qbeta5 = qbeta(P, 5 + succ, 5 + fail)
+  qbeta1 = qbeta(P, 1 + succ, 1 + fail)
+  aqbeta0 = qbeta(P, 0.01 + succ, 0.01 + fail)
+  
+  
+  qbeta5
+  qbeta1
+  qbeta0
+  
+```
+
+```{r}
+  P = c(0.025, 0.975)
+
+  succ = 8
+  fail = 17
+  
+  qbeta5 = qbeta(P, 5 + succ, 5 + fail)
+  qbeta1 = qbeta(P, 1 + succ, 1 + fail)
+  qbeta0 = qbeta(P, 0.01 + succ, 0.01 + fail)
+  
+  qbeta5
+  qbeta1
+  qbeta0
+```
+
+
