@@ -78,7 +78,7 @@
   
   qbeta5 = qbeta(P, 5 + succ, 5 + fail)
   qbeta1 = qbeta(P, 1 + succ, 1 + fail)
-  aqbeta0 = qbeta(P, 0.01 + succ, 0.01 + fail)
+  qbeta0 = qbeta(P, 0.01 + succ, 0.01 + fail)
   
   
   qbeta5

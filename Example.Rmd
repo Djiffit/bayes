@@ -1,5 +1,228 @@
 
 ```{r}
-  plot(cars)
+  par(mar = c(4, 4, .1, .1))
+  n <- 30
+  y <- 0:30
+  theta <- c(3, 10, 25) / n
+  plot(y, dbinom(y, size = n, prob = theta[1]), lwd = 2, col = 'blue', type ='b',
+       ylab = 'P(Y=y)')
+  lines(y, dbinom(y, size = n, prob = theta[2]), lwd = 2, col = 'green', type ='b')
+  lines(y, dbinom(y, size = n, prob = theta[3]), lwd = 2, col = 'red', type ='b')
+  legend('top', inset = .02, legend = c('Bin(30, 1/10)', 'Bin(30, 1/3)', 'Bin(30, 5/6)'), col = c('blue', 'green', 'red'), lwd = 2)
 ```
+
+
+```{r}
+  par(mar = c(4, 4, .1, .1))
+  y <- 16
+  n <- 30
+  theta <- seq(0,1, by = .01) # create tight grid for plotting
+  alpha <- y + 1
+  beta <- n - y + 1
+  plot(theta, dbeta(theta, alpha, beta), lwd = 2, col = 'green',
+       type ='l', xlab = expression(theta), ylab = expression(paste('f(', theta, ')')))
+  lines(theta, dunif(theta), lwd = 2, col = 'blue', type ='l')
+  legend('topright', inset = .02, 
+         legend = c('U(0,1)', paste0('Beta(', alpha, ',', beta, ')')),
+         col = c('blue', 'green'), lwd = 2)
+```
+
+```{r}
+  print(1 - pbeta(0.5, alpha, beta))
+  print(1 - pbeta(0.6, alpha, beta))
+  # interval 0.2, 0.8
+  print(pbeta(0.8, alpha, beta) - pbeta(0.2, alpha, beta))
+  
+  #mean of beta distribution
+  print(alpha / (alpha + beta))
+  print(17/32)
+  
+  # Posterior mean is the expected value of posterior distribution in Bayesian statistics
+```
+
+```{r}
+  n <- 5
+  lambda_true <- 3
+  
+  # set seed for the random number generator, so that we get replicable results
+  set.seed(111111) 
+  y <- rpois(n, lambda_true)
+  print(y)
+  mean(y)
+```
+
+```{r}
+  alpha <- 1
+  beta <- 1
+  
+  lambda <- seq(0,7, by = 0.01) # set up grid for plotting
+  plot(lambda, dgamma(lambda, alpha, beta), type = 'l', lwd = 2, col = 'orange',
+       ylim = c(0, 3.2), xlab = expression(lambda), 
+       ylab = expression(paste('p(', lambda, '|y)')))
+  lines(lambda, dgamma(lambda, alpha + sum(y), beta + n), 
+        type = 'l', lwd = 2, col = 'violet')
+  abline(v = lambda_true, lty = 2)
+  legend('topright', inset = .02, legend = c('prior', 'posterior'),
+         col = c('orange', 'violet'), lwd = 2)
+```
+
+```{r}
+  n_total <- 200
+  y_vec <- rpois(n_total, lambda_true)
+  head(y_vec)
+```
+
+```{r}
+  n_vec <- c(1, 2, 5, 10, 50, 100, 200)
+  
+  par(mfrow = c(4,2), mar = c(2, 2, .1, .1))
+  
+  plot(lambda, dgamma(lambda, alpha, beta), type = 'l', lwd = 2, col = 'orange',
+       ylim = c(0, 3.2), xlab = '', ylab = '')
+  abline(v = lambda_true, lty = 2)
+  text(x = 0.5, y = 2.5, 'prior', cex = 1.75)
+  
+  for(n_crnt in n_vec) {
+    y_sum <- sum(y_vec[1:n_crnt])
+    plot(lambda, dgamma(lambda, alpha, beta), type = 'l', lwd = 2, col = 'orange',
+         ylim = c(0, 3.2), xlab = '', ylab = '')
+    lines(lambda, dgamma(lambda, alpha + y_sum, beta + n_crnt), 
+          type = 'l', lwd = 2, col = 'violet')
+    abline(v = lambda_true, lty = 2)
+    text(x = 0.5, y = 2.5, paste0('n=', n_crnt), cex = 1.75)
+  }
+```
+
+```{r}
+y_grid <- 0:15
+alpha_1 <- alpha + sum(y)
+beta_1 <- beta + n
+
+plot(y_grid, dnbinom(y_grid, size = alpha_1, prob = beta_1 / (1 + beta_1)),
+     type = 'h', lwd = 3, col = 'violet', xlab = expression(tilde(y)),
+     ylab = 'probability', ylim = c(0, 0.25))
+lines(y_grid, dnbinom(y_grid, size = alpha_1, prob = beta_1 / (1 + beta_1)),
+      type = 'p', lwd = 3, col = 'violet')
+lines(y_grid, dpois(y_grid, lambda_true), type = 'b', lwd = 3, col = 'mediumseagreen')
+legend('topright', inset = .02, 
+       legend = c('posterior predictive', 'true distribution'),
+       col = c('violet', 'mediumseagreen'), lwd = 3)
+```
+
+```{r}
+  par(mfrow = c(4,2), mar = c(4, 4, .1, .1))
+
+plot(y_grid, dnbinom(y_grid, size = alpha, prob = beta / (1 + beta)),
+     type = 'h', lwd = 3, col = 'violet', xlab = expression(tilde(y)),
+     ylab = 'probability', ylim = c(0, 0.5))
+lines(y_grid, dnbinom(y_grid, size = alpha, prob = beta / (1 + beta)), 
+      type = 'p', lwd = 3, col = 'violet')
+lines(y_grid, dpois(y_grid, lambda_true), type = 'b', lwd = 3, col = 'mediumseagreen')
+text(x = 11, y = 0.4, 'marginal likelihood', cex = 1.75)
+
+for(n_crnt in n_vec) {
+  y_sum <- sum(y_vec[1:n_crnt])
+  alpha_1 <- alpha + y_sum
+  beta_1 <- beta + n_crnt
+  plot(y_grid, dnbinom(y_grid, size = alpha_1, prob = beta_1 / (1 + beta_1)),
+       type = 'h', lwd = 3, col = 'violet', xlab = expression(tilde(y)), 
+       ylab = 'probability', ylim = c(0, 0.5))
+  lines(y_grid, dnbinom(y_grid, size = alpha_1, prob = beta_1 / (1 + beta_1)), 
+        type = 'p', lwd = 3, col = 'violet')
+  lines(y_grid, dpois(y_grid, lambda_true), type = 'b', lwd = 3, col = 'mediumseagreen')
+  text(x = 12, y = 0.4, paste0('n=', n_crnt), cex = 1.75)
+}
+```
+
+```{r}
+
+x <- seq(-10, 10, by = .01)
+n_sim <- 1e4
+
+h_prime <- function(phi) exp(-phi) / (1 + exp(-phi))^2
+logit <- function(theta) log(theta / (1 - theta) )
+theta <- runif(n_sim)
+
+hist(logit(theta), probability = TRUE, breaks = 50, col = 'violet')
+lines(x, h_prime(x), col = 'green', lwd = 2, type = 'l')
+
+#############################################################################
+# Exercise 2
+
+##########################
+# generate data sets
+set.seed(1234)
+n <- 5
+theta_true <- 12 
+
+y <- runif(n, 0, theta_true)
+n_2 <- 20
+y_2 <- c(y, runif(n_2, 0, theta_true))
+
+cat('y <- c(', paste(round(y, 2), collapse = ', '), ')', sep = '')
+cat('y <- c(', paste(round(y_2, 2), collapse = ', '), ')', sep = '')
+########################
+
+
+# a) 
+b <- 1
+K <- 1
+n_sim <- 1e4
+
+# install.packages('VGAM')
+library(VGAM) # for dpareto, rpareto and qpareto
+theta_prior <- rpareto(n_sim, b, K)
+hist(theta_prior, col = 'violet', probability = TRUE, breaks = 50)
+summary(theta_prior)
+
+
+# c)
+c <- max(b, y)
+theta <- seq(0,30, by=.01)
+
+
+CI_pareto <- function(theta, b, K, q_lower, q_upper, main = '') {
+  plot(theta, dpareto(theta, b, K), col = 'violet', type = 'l', lwd = 2, 
+       xlab = expression(theta), ylab = 'Density', main = main) 
+  y_val <- dpareto(theta, b, K)
+  x_coord <- c(q_lower, theta[theta >= q_lower & theta <= q_upper], q_upper)
+  y_coord <- c(0, y_val[theta >= q_lower & theta <= q_upper], 0)
+  polygon(x_coord, y_coord, col = 'pink', lwd = 2,  border = 'violet')
+}
+
+?dpareto
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

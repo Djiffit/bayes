@@ -1,0 +1,24 @@
+
+```{r}
+
+library(rstan)
+y <- c(1.36, 7.47, 7.31, 7.48, 10.33)
+n <- length(y)
+tram = '
+data {
+    int<lower=0> n;
+    real<lower=0> y[n];
+}
+parameters {
+    real<lower=0> theta;
+}
+model {
+    theta ~ pareto(1, 1);
+    y ~ uniform(0, theta);
+}
+'
+
+fit = stan(tram, iter = 10000)
+sim = extract(tram_fit)$theta
+
+```
